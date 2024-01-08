@@ -22,7 +22,7 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 
 ### Encabezado 3
-Este es un [enlace a Google](https://www.google.com).
+Este es un [¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
 ![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
 
 
