@@ -1,9 +1,9 @@
 # Team_4_FdD
 
 Bienvenidos al repositorio del Grupo 4 del curso: "Fundamentos de Diseño"
-Proyecto: ANALIZANDO SEÑALES DE ELECTROCARDIOGRAMA (ECG)
-Se buscará desarrollar un sistema en el que se pueda adquirir y procesar señales de un electrocardiograma (ECG).
-Claro, aquí tienes una versión para todo público:
+Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
+Se buscará analizar las situaciones donde se emplea los pesticidas como mecanismo de producción en la agricultura y el impacto en el ambiente.
+
 
 Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o combatir plagas, ya sean plantas no deseadas, animales indeseados o ectoparásitos como pulgas y garrapatas, durante diversas etapas de la producción y distribución de productos agrícolas.
 
