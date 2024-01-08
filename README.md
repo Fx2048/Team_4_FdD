@@ -23,7 +23,7 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 ### Encabezado 3
 Este es un [enlace a Google](https://www.google.com).
-![Imagen de un gato](https://www.example.com/cat.jpg)
+![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
 
 
 ## Grupo 4
