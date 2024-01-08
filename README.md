@@ -32,8 +32,8 @@ Este es un [enlace a Google](https://www.google.com).
 | BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 |
 | TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL |
 | LUQUE MAMANI MAGNO RICARDO | Colaborador | Magno-Luque |
-| LLANOS ANGELES LEILY MARLITH | Colaborador | Celda 6 |
-| QUISPE BALDEON MELISSA | Colaborador | Celda 6 |
+| LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 |
+| QUISPE BALDEON MELISSA | Colaborador | MeliQB |
 
 
 
