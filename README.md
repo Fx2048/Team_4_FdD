@@ -26,7 +26,7 @@ Este es un [enlace a Google](https://www.google.com).
 ![Imagen de un gato](https://www.example.com/cat.jpg)
 
 
-## Encabezado 2
+## Grupo 4
 | Participantes | Estado | Contacto |
 | --- | --- | --- |
 | BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 |
