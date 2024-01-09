@@ -68,13 +68,13 @@ El objetivo es desarrollar un sistema con el objetivo de mejorar la eficiencia y
 
 ## Finalidad de las carpetas
 
-**Documentación:** Nos permite agregar los textos.
+-**Documentación:** Nos permite agregar los textos.
 
-**Hadware:**  Se basa en colocar los código .py
+-**Hadware:**  Se basa en colocar los código .py
 
-**Imágenes:**  Nos permite organizar las imagenes que utilizaremos durante el proyecto.
+-**Imágenes:**  Nos permite organizar las imagenes que utilizaremos durante el proyecto.
 
-**Software:**  Se baso en el código para el diseño de nuestro proyecto
+-**Software:**  Se baso en el código para el diseño de nuestro proyecto
 
 
 
