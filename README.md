@@ -1,6 +1,6 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- TEAM4_FdD-2024-V
 
-##Resumen
+## Resumen
 
   Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o 
   combatir plagas, ya sean plantas no deseadas, animales indeseados o ectoparásitos como pulgas y 
