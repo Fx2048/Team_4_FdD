@@ -5,25 +5,17 @@ Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
 responsable de pesticidas en la agricultura.
 
-## Tabla de Contenido
-- [Cambio periódico de cultivos](#título-1)
-- [Restricciones en la aplicación de productos químicos y sintéticos](#título-2)
-- [Prohibición de organismos genéticamente modificados (OGM)](#título-3)
-- [Utilización de recursos locales](#título-3)
-- [Selección de variedades adaptadas y resistentes](#título-3)
-
-
 ## Tabla de Contenidos
 
-- [1. Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+- [Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
-- [2. Restricciones en la aplicación de productos químicos y sintéticos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+- [Restricciones en la aplicación de productos químicos y sintéticos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
-- [3. Prohibición de organismos genéticamente modificados (OGM)](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+- [Prohibición de organismos genéticamente modificados (OGM)](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
-- [4. Utilización de recursos locales](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+- [Utilización de recursos locales](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
-- [5. Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+- [Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
 
 
