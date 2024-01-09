@@ -13,27 +13,19 @@ Los herbicidas son productos específicos utilizados para eliminar las llamadas 
 Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes contextos.
 
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
-# Tabla de Contenidos
-1. Cambio periódico de cultivos
-2. Restricciones en la aplicación de productos químicos y sintéticos
-3. Prohibición de organismos genéticamente modificados (OGM)
-4. Utilización de recursos locales
-5. Selección de variedades adaptadas y resistentes
-  
-## Cambio periódico de cultivos:
-Contenido del título 1.
+## Tabla de Contenidos
 
-## Restricciones en la aplicación de productos químicos y sintéticos
-Contenido del título 2.
+[1. Cambio periódico de cultivos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-## Prohibición de organismos genéticamente modificados (OGM)
-Contenido del título 3.
+[2. Restricciones en la aplicación de productos químicos y sintéticos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-## Utilización de recursos locales
-Contenido del título 4.
+[3. Prohibición de organismos genéticamente modificados (OGM)](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-## Selección de variedades adaptadas y resistentes
-Contenido del título 5.
+[4. Utilización de recursos locales](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+
+[5. Selección de variedades adaptadas y resistentes](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+
 
 
 
@@ -53,6 +45,7 @@ Contenido del título 5.
 | QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
 ![Equipo 4](Imágenes/team_4.jpg)
+
 
 
 
