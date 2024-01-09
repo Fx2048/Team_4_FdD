@@ -20,6 +20,7 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 [2. Restricciones en la aplicación de productos químicos y sintéticos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
 [3. Prohibición de organismos genéticamente modificados (OGM)](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
 [4. Utilización de recursos locales](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
 [5. Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
