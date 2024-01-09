@@ -1,16 +1,20 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- TEAM4_FdD-2024-V
 
-Bienvenidos al repositorio del Grupo 4 del curso: "Fundamentos de Diseño"
+##Resumen
 
-## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
-Se buscará analizar las situaciones donde se emplea los pesticidas como mecanismo de producción en la agricultura y el impacto en el ambiente.
+  Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o 
+  combatir plagas, ya sean plantas no deseadas, animales indeseados o ectoparásitos como pulgas y 
+  garrapatas, durante diversas etapas de la producción y distribución de productos agrícolas.
 
+  Los herbicidas son productos específicos utilizados para eliminar las llamadas "malas hierbas", 
+  interfiriendo en su crecimiento y desarrollo.
 
-Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o combatir plagas, ya sean plantas no deseadas, animales indeseados o ectoparásitos como pulgas y garrapatas, durante diversas etapas de la producción y distribución de productos agrícolas.
-
-Los herbicidas son productos específicos utilizados para eliminar las llamadas "malas hierbas", interfiriendo en su crecimiento y desarrollo.
-
-Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes contextos.
+  Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como 
+  microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados 
+  perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, 
+  ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que 
+  engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes 
+  contextos.
 
 
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
@@ -24,6 +28,13 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
+
+Bienvenidos al repositorio del Grupo 4 del curso: "Fundamentos de Diseño"
+
+## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
+- Se buscará analizar las situaciones donde se emplea los pesticidas como mecanismo de producción en la 
+  agricultura y el impacto en el ambiente.
+  
 ## Tabla de Contenidos
 
 - [1. Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
@@ -40,7 +51,9 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 
 
-## Grupo 4
+##  Pesticidas en la Agricultura    Grupo 4
+
+
 | Participantes | Estado | Contacto | Correo |
 | --- | --- | --- | ---|
 | BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 | Brigitte.bernal@upch.pe |
