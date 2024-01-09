@@ -12,6 +12,17 @@ Los herbicidas son productos específicos utilizados para eliminar las llamadas 
 
 Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes contextos.
 
+
+### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
+[¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
+
+![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
+
+## ***Integrantes:***
+![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
+
+
+
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
 ## Tabla de Contenidos
 
@@ -28,14 +39,6 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 
 
-
-### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
-[¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
-
-![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
-
-## ***Integrantes:***
-![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
 
 ## Grupo 4
 | Participantes | Estado | Contacto | Correo |
