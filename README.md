@@ -1,6 +1,6 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- TEAM4_FdD-2024-V
 
-Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de diseño"***
+Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 
 ## Resumen
 
