@@ -1,6 +1,7 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA - TEAM4_FdD-2024-V
 
 Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
+*Proyecto: *
 
 El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
 responsable de pesticidas en la agricultura.
