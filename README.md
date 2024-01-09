@@ -2,6 +2,9 @@
 
 Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 
+El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
+responsable de pesticidas en la agricultura.
+
 ## Resumen
 
   Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o 
