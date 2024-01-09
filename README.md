@@ -1,7 +1,10 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA - TEAM4_FdD-2024-V
 
 Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
-*Proyecto: *
+*Proyecto:*
+## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
+- Se buscará analizar las situaciones donde se emplea los pesticidas como mecanismo de producción en la 
+  agricultura y el impacto en el ambiente.
 
 El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
 responsable de pesticidas en la agricultura.
@@ -62,13 +65,9 @@ responsable de pesticidas en la agricultura.
 
 
 
-## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
-- Se buscará analizar las situaciones donde se emplea los pesticidas como mecanismo de producción en la 
-  agricultura y el impacto en el ambiente.
 
 
 
-##  Pesticidas en la Agricultura    Grupo 4
 
 
 | Participantes | Estado | Contacto | Correo |
