@@ -24,7 +24,6 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 [4. Utilización de recursos locales](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
 [5. Selección de variedades adaptadas y resistentes](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
-](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
 
 
