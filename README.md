@@ -52,7 +52,7 @@ Contenido del título 5.
 | LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
 | QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
-! [Equipo 4](Imágenes/team_4.jpg)
+![Equipo 4](Imágenes/team_4.jpg)
 
 
 
