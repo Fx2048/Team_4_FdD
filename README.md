@@ -19,6 +19,7 @@ de pesticidas en la agricultura.
 
 - [Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
+- [ODS 12](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)
 
 
 ## Resumen
