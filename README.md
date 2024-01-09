@@ -1,5 +1,7 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- TEAM4_FdD-2024-V
 
+Bienvenidos al repositorio del grupo 4 del curso: ***Fundamentos de diseño***
+
 ## Resumen
 
   Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o 
