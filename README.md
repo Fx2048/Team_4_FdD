@@ -35,15 +35,15 @@ Contenido del título 3.
 
 
 ## Grupo 4
-| Participantes | Estado | Contacto |
-| --- | --- | --- |
-| BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 |
-| TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL |
-| LUQUE MAMANI MAGNO RICARDO | Colaborador | Magno-Luque |
-| LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 |
-| QUISPE BALDEON MELISSA | Colaborador | MeliQB |
+| Participantes | Estado | Contacto | Correo |
+| --- | --- | --- | ---|
+| BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 | Brigitte.bernal@upch.pe |
+| TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL | Nilda.turpo@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Colaborador | Magno-Luque | Magno.luque@upch.pe |
+| LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
+| QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe@upch.pe |
 
-
+! [Equipo 4](Imágenes/team_4.jpg)
 
 
 
