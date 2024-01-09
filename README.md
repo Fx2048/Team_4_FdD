@@ -4,34 +4,15 @@
 
 
 ## Resumen
-        La gestión sostenible de pesticidas es un desafío crucial en la agricultura moderna, con el objetivo de reducir el consumo de 
-        pesticidas y mitigar los impactos ambientales. Este enfoque busca promover una producción agrícola responsable que minimice el 
-        uso de pesticidas, protegiendo así el medio ambiente y la salud humana. Al mismo tiempo, se busca garantizar que los 
-        agricultores reciban información detallada y recomendaciones sobre el uso adecuado de pesticidas, a través de plataformas IoT y 
-        sistemas de información geográfica (GIS). Este proyecto tiene como objetivo abordar el problema del consumo excesivo de 
-        pesticidas, ofreciendo soluciones para una producción agrícola más sostenible y responsable.
+        El proyecto tiene como objetivo abordar el desafío crucial de la gestión sostenible de pesticidas en la agricultura moderna. Busca reducir el consumo de pesticidas y mitigar sus impactos ambientales, promoviendo una producción agrícola responsable. Se pretende lograr esto proporcionando información detallada y recomendaciones sobre el uso adecuado de pesticidas a los agricultores, utilizando plataformas IoT y sistemas de información geográfica (GIS).
         
-        Los pesticidas, también conocidos como plaguicidas, son sustancias o mezclas destinadas a prevenir o 
-        combatir plagas, ya sean plantas no deseadas, animales indeseados o ectoparásitos como pulgas y 
-        garrapatas, durante diversas etapas de la producción y distribución de productos agrícolas.
+        Los pesticidas, también conocidos como plaguicidas, son sustancias utilizadas para prevenir o combatir plagas durante la producción y distribución de productos agrícolas. Los herbicidas, específicamente, se emplean para eliminar "malas hierbas" interfiriendo en su crecimiento.
         
-        Los herbicidas son productos específicos utilizados para eliminar las llamadas "malas hierbas", 
-        interfiriendo en su crecimiento y desarrollo.
+        Para abordar el consumo excesivo de pesticidas, se propone fomentar prácticas agrícolas integradas, reduciendo la dependencia de pesticidas químicos. Esto incluye técnicas sostenibles como la rotación de cultivos, el uso de cultivos de cobertura y el control biológico de plagas. La promoción de métodos de agricultura orgánica y agroecológica también se considera para reducir el uso de pesticidas químicos y mantener la salud del suelo y los ecosistemas circundantes.
         
-        Una posible solución al problema del consumo excesivo de pesticidas y sus impactos ambientales es fomentar prácticas agrícolas 
-        integradas que reduzcan la dependencia de los pesticidas químicos. Esto puede lograrse a través de la implementación de 
-        técnicas agrícolas sostenibles, como la rotación de cultivos, el uso de cultivos de cobertura, el control biológico de plagas y 
-        el manejo integrado de plagas. Además, la promoción de métodos de agricultura orgánica y agroecológica puede contribuir reducir 
-        el uso de pesticidas químicos y a mantener la salud del suelo y los ecosistemas circundantes. La adopción de estas prácticas 
-        requiere capacitación y apoyo técnico para los agricultores, así como incentivos económicos que fomenten la transición hacia 
-        una producción agrícola más sostenible y responsable.
+        Además, se destaca la importancia de capacitar y brindar apoyo técnico a los agricultores, así como proporcionar incentivos económicos para facilitar la transición hacia una producción agrícola más sostenible y responsable.
         
-        Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como 
-        microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados 
-        perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, 
-        ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que 
-        engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes 
-        contextos.
+        Finalmente, se menciona que los biocidas, sustancias utilizadas para controlar organismos perjudiciales en diversos contextos, también forman parte de la problemática y deben ser abordados en el enfoque integral de gestión sostenible de pesticidas.
 
 
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
