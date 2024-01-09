@@ -44,7 +44,7 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 | LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
 | QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
-## Integrantes
+## ***Integrantes***
 ![Equipo 4](Imágenes/team_4.jpg)
 
 
