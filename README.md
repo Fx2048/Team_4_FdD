@@ -4,8 +4,7 @@ Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 
 *Proyecto: ANÁLISIS DEL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA*
 
-El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
-de pesticidas en la agricultura.
+El objetivo es desarrollar un sistema con el objetivo de mejorar la eficiencia y sostenibilidad en el uso de pesticidas en la agricultura, en línea con el Objetivo de Desarrollo Sostenible (ODS) número 12.
 
 ## Tabla de Contenidos
 
