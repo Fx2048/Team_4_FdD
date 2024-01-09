@@ -69,7 +69,7 @@ de pesticidas en la agricultura.
 
 
 
-| Participantes | Estado | Contacto | Correo |
+| Participantes | Rol | Contacto | Correo |
 | --- | --- | --- | ---|
 | BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 | Brigitte.bernal@upch.pe |
 | TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL | Nilda.turpo@upch.pe |
