@@ -15,15 +15,15 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
 ## Tabla de Contenidos
 
-[1. Cambio periódico de cultivos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+![1. Cambio periódico de cultivos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-[2. Restricciones en la aplicación de productos químicos y sintéticos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+![2. Restricciones en la aplicación de productos químicos y sintéticos](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-[3. Prohibición de organismos genéticamente modificados (OGM)](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+![3. Prohibición de organismos genéticamente modificados (OGM)](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-[4. Utilización de recursos locales](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+![4. Utilización de recursos locales](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
-[5. Selección de variedades adaptadas y resistentes](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
+![5. Selección de variedades adaptadas y resistentes](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 ](Documentación/210-Texto del artículo-847-1-10-20200129.pdf).
 
 
