@@ -73,7 +73,7 @@ de pesticidas en la agricultura.
 | --- | --- | --- | ---|
 | BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2048 | Brigitte.bernal@upch.pe |
 | TURPO HUAMAN NILDA MARIBEL | Coordinadora general | NILDAMARIBEL | Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Encargado de softward y programación | Magno-Luque | Magno.luque@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Encargado del softward | Magno-Luque | Magno.luque@upch.pe |
 | LLANOS ANGELES LEILY MARLITH | Cordinadora de manufactura digital | Marlith08 | Leily.llanos@upch.pe |
 | QUISPE BALDEON MELISSA | Coordinador de modelo 3D | MeliQB | Melissa.quispe.b@upch.pe |
 
