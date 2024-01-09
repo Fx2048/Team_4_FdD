@@ -41,7 +41,7 @@
 ![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
 
 
-###Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
+### Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 
 *Proyecto: ANÁLISIS DEL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA*
 
