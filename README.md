@@ -34,6 +34,8 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 
 ![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
 
+## ***Integrantes:***
+![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
 
 ## Grupo 4
 | Participantes | Estado | Contacto | Correo |
@@ -44,8 +46,7 @@ Por último, los biocidas son sustancias químicas, ya sean naturales o sintéti
 | LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
 | QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
-## ***Integrantes:***
-![Equipo 4](Imágenes/team_4.jpg)
+
 
 
 
