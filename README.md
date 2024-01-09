@@ -5,7 +5,7 @@ Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
 *Proyecto: ANÁLISIS DEL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA*
 
 El objetivo es desarrollar un sistema que permita mejorar la eficiencia y sostenibilidad en el uso 
-responsable de pesticidas en la agricultura.
+de pesticidas en la agricultura.
 
 ## Tabla de Contenidos
 
