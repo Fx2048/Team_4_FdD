@@ -1,25 +1,5 @@
 # INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA - TEAM4_FdD-2024-V
 
-Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
-
-*Proyecto: ANÁLISIS DEL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA*
-
-El objetivo es desarrollar un sistema con el objetivo de mejorar la eficiencia y sostenibilidad en el uso de pesticidas en la agricultura, en línea con el Objetivo de Desarrollo Sostenible (ODS) número 12.
-
-## Tabla de Contenidos
-
-- [Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
-
-- [Restricciones en la aplicación de productos químicos y sintéticos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
-
-- [Prohibición de organismos genéticamente modificados (OGM)](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
-
-- [Utilización de recursos locales](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
-
-- [Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
-
-- [ODS 12](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)
-
 
 ## Resumen
   La gestión sostenible de pesticidas es un desafío crucial en la agricultura moderna, con el objetivo de reducir el consumo de 
@@ -61,11 +41,29 @@ El objetivo es desarrollar un sistema con el objetivo de mejorar la eficiencia y
 ![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
 
 
+Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
+
+*Proyecto: ANÁLISIS DEL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA*
+
+El objetivo es desarrollar un sistema con el objetivo de mejorar la eficiencia y sostenibilidad en el uso de pesticidas en la agricultura, en línea con el Objetivo de Desarrollo Sostenible (ODS) número 12.
+
+## Tabla de Contenidos
+
+- [Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
+- [Restricciones en la aplicación de productos químicos y sintéticos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
+- [Prohibición de organismos genéticamente modificados (OGM)](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
+- [Utilización de recursos locales](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
+- [Selección de variedades adaptadas y resistentes](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
+
+- [ODS 12](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)
 
 
 
-
-
+##Pesticidas en la agricultura Grupo 4
 
 
 | Participantes | Rol | Contacto | Correo |
