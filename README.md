@@ -12,12 +12,6 @@ Los herbicidas son productos específicos utilizados para eliminar las llamadas 
 
 Por último, los biocidas son sustancias químicas, ya sean naturales o sintéticas, así como microorganismos, que se emplean para prevenir, contrarrestar o neutralizar organismos considerados perjudiciales para la salud pública y la agricultura. Esto abarca plagas como malas hierbas, insectos, ácaros, moluscos, roedores, hongos y bacterias. En resumen, los biocidas son una categoría amplia que engloba diversos tipos de sustancias utilizadas para controlar organismos no deseados en diferentes contextos.
 
-- Elemento 1
-- - Elemento 2
-  - - Elemento 3
-    - 1. Elemento 1
-      2. 2. Elemento 2
-         3. 3. Elemento
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
 # Tabla de Contenidos
 1. Título 1
@@ -52,4 +46,4 @@ Contenido del título 3.
 
 
 
-```python print("Hola, mundo!")'''
+
