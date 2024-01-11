@@ -10,4 +10,4 @@ El curso estará compuesta de tres unidades:
 - UNIDAD 2: Creación de conceptos de solución
 - UNIDAD 3: Implementación de la solución
 
-Para obtener información más detallada sobre el curso, haz clic [aquí](FdD/Silabo_FdD.pdf).
+Para obtener información más detallada sobre el curso, haz clic [aquí](Silabo_FdD.pdf).
