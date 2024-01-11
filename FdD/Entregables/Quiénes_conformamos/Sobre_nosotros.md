@@ -3,7 +3,7 @@
  
  -Aldo Leopold
 
-![logo](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/Logotipo_EcoPureharvest.jpg)
+![logo](Imágenes/logo.jpg)
 
 ¡Qué tal, exploradores! 🤠 Somos EcoPureHarvest, y estamos felices de verlos por estas tierras, nuestra misión es dar a conocer la documentación de nuestra trayectoria en la investigación e implementación de soluciones innovadoras de "INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA"
 
