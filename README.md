@@ -66,8 +66,11 @@ En resumen, este proyecto representa un paso importante hacia la integración de
 
 
 ## [Sobre nosotros](Entregables/Sobre_nosotros.md) 🤠🚜
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> ed87dc9b8e01831899a6e1eac2203b73c17d7d23
