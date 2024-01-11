@@ -11,13 +11,13 @@
 
 
 ## Grupo 4
-| Participantes | Estado | Contacto | Correo |
+| Participantes | Rol | Inf_general | Correo |
 | --- | --- | --- | ---|
-| BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 | Brigitte.bernal@upch.pe |
-| TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL | Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Colaborador | Magno-Luque | Magno.luque@upch.pe |
-| LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
-| QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
+| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2048 | Brigitte.bernal@upch.pe |
+| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | NILDAMARIBEL | Nilda.turpo@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| Magno-Luque | Magno.luque@upch.pe |
+| LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08 | Leily.llanos@upch.pe |
+| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
 
 ## ***Integrantes:***
 ![equipo](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/team_4.jpg)
