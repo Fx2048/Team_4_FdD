@@ -16,9 +16,8 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 ### UNIDAD 2: Creación de conceptos de solución 🏖
 ### UNIDAD 3: Implementación de la solución 
 
-## Para mayor información 📙
-
-[Sillabus-Fundamentos de Diseño](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/C1324.Fundamentos%20de%20Dise%C3%B1o.2024V.pdf)
+### Para mayor información 
+  📙[click aqui](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/S%C3%ADlabo_FdD.pdf)
 
 
 
