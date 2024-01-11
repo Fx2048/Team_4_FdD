@@ -27,7 +27,10 @@ abordados en el enfoque integral de gestión sostenible de pesticidas.
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
 [¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
 
-![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png){:width="200px" height="30px"}
+
+<img src="https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png" alt="Comic concientizando sobre el uso de pesticidas" width="200" height="300">
+
+
 
 ## ***Integrantes:***
 ![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
