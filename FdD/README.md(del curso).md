@@ -1,12 +1,12 @@
-# Bienvenidos a Fundamentos de Diseño:
+# Bienvenidos a Fundamentos de Diseño: 🌈
 ![FdD0](image.png)
 ## Información
 El curso "Fundamentos de Diseño" busca cultivar habilidades en los estudiantes para idear, desarrollar, comprobar, patentar y gestionar proyectos innovadores. El curso se divide en módulos que incluyen la identificación de problemas, la generación de soluciones, la implementación de estas soluciones y la comunicación de los resultados.
 
 Los estudiantes se enfrentarán a problemas actuales y significativos en la ingeniería ambiental, tanto a nivel nacional como global. Trabajarán en equipo para proponer una solución innovadora, la diseñarán y la llevarán a cabo hasta obtener un prototipo funcional de baja resolución. Para lograr esto, aplicarán el proceso de "Diseño Determinístico en Ingeniería", que incluye la identificación del problema, el estado del arte, la generación de estrategias y soluciones, y el prototipado rápido. Finalmente, adquirirán habilidades prácticas para mejorar la comunicación científica (tanto oral como escrita) y para trabajar eficazmente en equipo.
 
-## Síllabus CONTENIDOS 
-### UNIDAD 1: Identificación de la necesidad o problema
+## Síllabus CONTENIDO: 🎯
+### UNIDAD 1: Identificación de la necesidad o problema 🔍
 1. Introducción al curso e introducción a Git y GitHub
 2. Introducción al laboratorio. Presentación de situación problemática.
 3. Identificación del problema
@@ -17,7 +17,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 9. Introducción al diseño determinístico
 10. Descripción del problema identificadoUNIDAD 
 
-### 2: Creación de conceptos de solución
+### 2: Creación de conceptos de solución 🏖️
 1. Metodología de diseño VDI 2221 y 22252. Estado del arte (contexto comercial y científico) y lista de requerimientos.3. Fundamentos de electrónica
 4. Uso de protoboard, circuitos básicos y procura de componentes electrónicos
 5. Prototipado con Arduino
@@ -28,7 +28,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 10. Matriz morfológica y tabla de valoración
 11. Hito 1: bocetos y proyecto ganador
 
-### UNIDAD 3: Implementación de la solución
+### UNIDAD 3: Implementación de la solución 🚀
 1. Introducción al modelo 3D
 2. Modelado 3D
 3. Planos y laminación de modelos 3D
@@ -42,7 +42,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 11. Integración de hardware - software y resolución de errores
 12. Hito 2: presentación de prototipo y póster
 
-## Para mayor información
+## Para mayor información 🪛
 
 [Sillabus](Carpetas/Documentacion/Silabo_FdD.pdf)
 
