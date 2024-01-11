@@ -44,7 +44,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 
 ## Para mayor información 🪛
 
-[Sillabus](FdD/C1324.Fundamentos de Diseño.2024V.pdf)
+[Sillabus]([FdD/C1324.Fundamentos de Diseño.2024V.pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/C1324.Fundamentos%20de%20Dise%C3%B1o.2024V.pdf)https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/C1324.Fundamentos%20de%20Dise%C3%B1o.2024V.pdf)
 
 
 
