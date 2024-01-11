@@ -10,21 +10,21 @@
 
 ## Resumen
 <p align="justify">
-El proyecto tiene como objetivo abordar el desafío crucial de la gestión sostenible de pesticidas en la agricultura moderna. Busca reducir el consumo de pesticidas y mitigar sus            impactos ambientales, promoviendo una producción agrícola responsable. Se pretende lograr esto proporcionando información detallada y recomendaciones sobre el uso adecuado de 
-pesticidas a los agricultores, utilizando plataformas IoT y sistemas de información geográfica (GIS).
+    El proyecto tiene como objetivo abordar el desafío crucial de la gestión sostenible de pesticidas en la agricultura moderna. Busca reducir el consumo de pesticidas y mitigar sus            impactos ambientales, promoviendo una producción agrícola responsable. Se pretende lograr esto proporcionando información detallada y recomendaciones sobre el uso adecuado de 
+    pesticidas a los agricultores, utilizando plataformas IoT y sistemas de información geográfica (GIS).
 
-Los pesticidas, también conocidos como plaguicidas, son sustancias utilizadas para prevenir o combatir plagas durante la producción y distribución de productos agrícolas. Los 
-herbicidas, específicamente, se emplean para eliminar "malas hierbas" interfiriendo en su crecimiento.
+    Los pesticidas, también conocidos como plaguicidas, son sustancias utilizadas para prevenir o combatir plagas durante la producción y distribución de productos agrícolas. Los 
+    herbicidas, específicamente, se emplean para eliminar "malas hierbas" interfiriendo en su crecimiento.
 
-Para abordar el consumo excesivo de pesticidas, se propone fomentar prácticas agrícolas integradas, reduciendo la dependencia de pesticidas químicos. Esto incluye técnicas 
-sostenibles como la rotación de cultivos, el uso de cultivos de cobertura y el control biológico de plagas. La promoción de métodos de agricultura orgánica y agroecológica también 
-se considera para reducir el uso de pesticidas químicos y mantener la salud del suelo y los ecosistemas circundantes.
+    Para abordar el consumo excesivo de pesticidas, se propone fomentar prácticas agrícolas integradas, reduciendo la dependencia de pesticidas químicos. Esto incluye técnicas 
+    sostenibles como la rotación de cultivos, el uso de cultivos de cobertura y el control biológico de plagas. La promoción de métodos de agricultura orgánica y agroecológica también 
+    se considera para reducir el uso de pesticidas químicos y mantener la salud del suelo y los ecosistemas circundantes.
 
-Además, se destaca la importancia de capacitar y brindar apoyo técnico a los agricultores, así como proporcionar incentivos económicos para facilitar la transición hacia una 
-producción agrícola más sostenible y responsable.
+    Además, se destaca la importancia de capacitar y brindar apoyo técnico a los agricultores, así como proporcionar incentivos económicos para facilitar la transición hacia una 
+    producción agrícola más sostenible y responsable.
 
-Finalmente, se menciona que los biocidas, sustancias utilizadas para controlar organismos perjudiciales en diversos contextos, también forman parte de la problemática y deben ser 
-abordados en el enfoque integral de gestión sostenible de pesticidas.
+    Finalmente, se menciona que los biocidas, sustancias utilizadas para controlar organismos perjudiciales en diversos contextos, también forman parte de la problemática y deben ser 
+    abordados en el enfoque integral de gestión sostenible de pesticidas.
 </p>
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
 [¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
