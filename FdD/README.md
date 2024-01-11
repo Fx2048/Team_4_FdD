@@ -2,8 +2,11 @@
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Img_FdD.jpg" width="300" height="150" style="margin: auto;">
 </p>
-<p align="center">Utel, I. (2014, febrero 27). Conoce cuáles son los fundamentos del diseño.
-</p>
+<p align="center">Utel, I. (2014, febrero 27). Conoce cuáles son los fundamentos del diseño.</p>        
+
+[Click](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Im%C3%A1genes.txt) 
+
+
 ## Información
 <p align="justify">
 El curso "Fundamentos de Diseño" busca cultivar habilidades en los estudiantes para idear, desarrollar, comprobar, patentar y gestionar proyectos innovadores. El curso se divide en módulos que incluyen la identificación de problemas, la generación de soluciones, la implementación de estas soluciones y la comunicación de los resultados.
