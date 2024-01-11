@@ -20,7 +20,9 @@
 | QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Melissa_Quispe.png) | Melissa.quispe.b@upch.pe |
 
 ## ***Integrantes:***
-![equipo](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/team_4.jpg)
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Equipo.jpg" width="500" style="margin: auto;">
+</p>
 
 
 
