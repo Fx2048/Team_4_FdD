@@ -1,9 +1,9 @@
 <p align="center">
-    INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- ECOPUREHARVEST 🤠🚜🫐🌱🌾
+    INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- ECOPUREHARVEST 🤠
 </p>
 
-## ODS 12 : Producción y consumo responsable
-## Objetivo: 
+## ODS 12 : Producción y consumo responsable🚜
+## Objetivo: 🫐
 
 <p align="justify">
     Reducir el impacto ambiental y los riesgos para la salud asociados al uso de pesticidas en la agricultura, promoviendo prácticas agrícolas sostenibles y una gestión responsable de productos químicos, en línea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables.
@@ -43,7 +43,7 @@ En resumen, este proyecto representa un paso importante hacia la integración de
 
 # El trasfondo de la composición química de los productos antiplagas para el sector agrícola
 
-## Tabla de Contenidos
+## Tabla de Contenidos 🌱🌾
 
 - [1. Cambio periódico de cultivos](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/210-Texto%20del%20art%C3%ADculo-847-1-10-20200129.pdf).
 
