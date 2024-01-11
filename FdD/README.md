@@ -15,4 +15,4 @@ Para obtener información más detallada sobre el curso, haz clic [aquí](../Car
 ---
 ### Información sobre la carpeta:
 Esta carpeta contiene las subcarpetas:
-- **Entregable**: donde se almacenará los trabajos correspondientes al curso. 
+- **Entregables**: donde se almacenarán los trabajos correspondientes al curso. 
