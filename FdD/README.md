@@ -22,7 +22,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 
 ## Información de subcarpetas
 
-[Entregables:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables) Se encontratá todo los entregables tanto de los informes, hitos, entre otros durante el proyecto.
+- [Entregables:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables)  Se encontratá todo los entregables tanto de los informes, hitos, entre otros durante el proyecto.
 
 
 
