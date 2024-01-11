@@ -20,6 +20,9 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
   📙[click aqui](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/S%C3%ADlabo_FdD.pdf)
 
 
+##Información de subcarpetas
+[Entregables:](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/S%C3%ADlabo_FdD.pdf) Se encontratá todo los entregables tanto de los informes, hitos, entre otros durante el proyecto.
+
 
 
 
