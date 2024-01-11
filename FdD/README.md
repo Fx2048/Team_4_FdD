@@ -1,5 +1,5 @@
 # Bienvenidos a Fundamentos de Diseño: 🌈
-![FdD0](image.png)
+![FdD0](Imágenes/logo.jpg)
 ## Información
 El curso "Fundamentos de Diseño" busca cultivar habilidades en los estudiantes para idear, desarrollar, comprobar, patentar y gestionar proyectos innovadores. El curso se divide en módulos que incluyen la identificación de problemas, la generación de soluciones, la implementación de estas soluciones y la comunicación de los resultados.
 
