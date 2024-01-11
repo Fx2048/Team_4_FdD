@@ -1,5 +1,5 @@
 # Contenido de carpetas 📂
-![chacra](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/DSC_1038.JPG?)raw=true
+![chacra](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/DSC_1038.JPG?)
 En este encontrará las siguientes subcarpetas:
 # * [**Documentación**](Documentacion): 📃
 Aquí encontrará archivos importantes, tales como artículos científicos que nos permiten basarnos en información confiable, entre otros.
