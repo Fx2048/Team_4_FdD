@@ -1,8 +1,8 @@
-# INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- TEAM4_FdD-2024-V
+# INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA- ECOPUREHARVEST
 
 Bienvenidos al repositorio del Grupo 4 del curso: "Fundamentos de Diseño"
 
-## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA
+## Proyecto: EL EMPLEO DE LOS PESTICIDAS EN LA AGRICULTURA  🫐🌱🌾
 En vista de la necesidad urgente de abordar el uso de pesticidas potentes, hemos decidido emprender un proyecto centrado en el cultivo del arándano. Nuestro enfoque se basará en la perspectiva del agricultor rural, con el objetivo de reducir la utilización de pesticidas en la producción de arándanos.
 
 Buscaremos comprender a fondo la visión del agricultor y, a través de esta lente, examinaremos el papel práctico de la Internet de las Cosas (IoT) en la disminución de la concentración de pesticidas. Para ello, utilizaremos los criterios obtenidos del diagrama de Ishikawa, una herramienta eficaz para identificar las causas fundamentales de un problema.
@@ -35,7 +35,7 @@ En resumen, este proyecto representa un paso importante hacia la integración de
 
 
 
-## [Sobre nosotros](Entregables/Sobre_nosotros.md)
+## [Sobre nosotros](Entregables/Sobre_nosotros.md) 🤠🚜
 
 
 
