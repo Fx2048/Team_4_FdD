@@ -17,7 +17,7 @@
 | QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
 ## ***Integrantes:***
-![equipo](image-3.png)
+![equipo](https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/team_4.jpg)https://github.com/Fx2048/Team_4_FdD/blob/main/Carpetas(del%20proyecto)/Im%C3%A1genes/team_4.jpg)
 
 
 
