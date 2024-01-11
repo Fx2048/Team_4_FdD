@@ -33,7 +33,7 @@ abordados en el enfoque integral de gestión sostenible de pesticidas.
 
 
 ## ***Integrantes:***
-![](https://github.com/Fx2048/Team_4_FdD/blob/a2c9596fdd8a08efe90b01e2d2bdee53380ded64/Im%C3%A1genes/Integrantes.jpg)
+<img src="Carpetas/Imágenes/Integrantes.jpg" alt="Descripción de la imagen" width="500" height="250">
 
 
 ### Bienvenidos al repositorio del grupo 4 del curso: ***"Fundamentos de Diseño"***
