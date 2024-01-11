@@ -10,7 +10,8 @@ Aquí encontrará archivos del formato imagen, los cuales evidencian el trabajo 
 ## - [**Hadware**](Hadware): 📺
 Aquí encontrará información técnica, especificaciones sobre la parte física del sistema, tales como, modelamiento 3D, entre otros.
 
-##- [**Software**](Software): 🤖
+## - [**Software**](Software): 🤖
+
 Aquí encontrará archivos relacionados con el desarrollo y su implementación en nuestro sistema, tales como código fuente, documentación técnica, entre otros.
 
 
