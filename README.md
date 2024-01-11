@@ -7,6 +7,7 @@ Reducir el impacto ambiental y los riesgos para la salud asociados al uso de pes
 
 
 ## Resumen
+<p align="justify">
 El proyecto tiene como objetivo abordar el desafío crucial de la gestión sostenible de pesticidas en la agricultura moderna. Busca reducir el consumo de pesticidas y mitigar sus            impactos ambientales, promoviendo una producción agrícola responsable. Se pretende lograr esto proporcionando información detallada y recomendaciones sobre el uso adecuado de 
 pesticidas a los agricultores, utilizando plataformas IoT y sistemas de información geográfica (GIS).
 
@@ -22,7 +23,7 @@ producción agrícola más sostenible y responsable.
 
 Finalmente, se menciona que los biocidas, sustancias utilizadas para controlar organismos perjudiciales en diversos contextos, también forman parte de la problemática y deben ser 
 abordados en el enfoque integral de gestión sostenible de pesticidas.
-
+</p>
 
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
 [¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
