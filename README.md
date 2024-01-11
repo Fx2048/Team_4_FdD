@@ -1,8 +1,10 @@
 <p align="center">
     INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA - TEAM4_FdD-2024-V
 </p>
+
 ## ODS 12 : Producción y consumo responsable
 ## Objetivo: 
+
 <p align="justify">
     Reducir el impacto ambiental y los riesgos para la salud asociados al uso de pesticidas en la agricultura, promoviendo prácticas agrícolas sostenibles y una gestión responsable de productos químicos, en línea con el Objetivo de Desarrollo Sostenible (ODS) 12: Producción y Consumo Responsables.
 </p>
@@ -30,6 +32,7 @@
     Finalmente, se menciona que los biocidas, sustancias utilizadas para controlar organismos perjudiciales en diversos contextos, también forman parte de la problemática y deben ser 
     abordados en el enfoque integral de gestión sostenible de pesticidas.
 </p>
+
 ### LOS PESTICIDAS EN EL CAMPO Y EL AMBIENTE
 [¿Puede la agricultura ecológica alimentar al mundo?](https://www.ecoagricultor.com/agricultura-ecologica-organica-medioambiente/).
 
