@@ -34,17 +34,8 @@ En resumen, este proyecto representa un paso importante hacia la integración de
 ![Comic concientizando sobre el uso de pesticidas](https://www.ecoagricultor.com/wp-content/uploads/2018/04/pesticidas-alimentos.png)
 
 
-## Grupo 4
-| Participantes | Estado | Contacto | Correo |
-| --- | --- | --- | ---|
-| BERNAL BELISARIO BRIGITTE | Colaborador | Fx2048 | Brigitte.bernal@upch.pe |
-| TURPO HUAMAN NILDA MARIBEL | Colaborador | NILDAMARIBEL | Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Colaborador | Magno-Luque | Magno.luque@upch.pe |
-| LLANOS ANGELES LEILY MARLITH | Colaborador | Marlith08 | Leily.llanos@upch.pe |
-| QUISPE BALDEON MELISSA | Colaborador | MeliQB | Melissa.quispe.b@upch.pe |
 
-## ***Integrantes:***
-![Equipo 4](Imágenes/team_4.jpg)
+## [Sobre nosotros](Entregables/Sobre_nosotros.md)
 
 
 
