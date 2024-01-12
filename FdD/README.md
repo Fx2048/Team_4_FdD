@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Img_FdD.jpg" width="300" height="150" style="margin: auto;">
 </p>
+
 <p align="center">Utel, I. (2014, febrero 27). Conoce cuáles son los fundamentos del diseño.</p>        
 
 [Click](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Im%C3%A1genes.txt) 
