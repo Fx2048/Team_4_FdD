@@ -13,11 +13,11 @@
 ## Grupo 4
 | Participantes | Rol | Inf_general | Correo |
 | --- | --- | --- | ---|
-| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Brigitte_Bernal.png) | Brigitte.bernal@upch.pe |
-| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Nilda_Turpo.png) | Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Magno_Luque.png) | Magno.luque@upch.pe |
-| LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Leily_Llanos.png) | Leily.llanos@upch.pe |
-| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| [IMG](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Melissa_Quispe.png) | Melissa.quispe.b@upch.pe |
+| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | [Descripción](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Brigitte_Bernal.png) | Brigitte.bernal@upch.pe |
+| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | [Descripción](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Nilda_Turpo.png) | Nilda.turpo@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| [Descripción](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Magno_Luque.png) | Magno.luque@upch.pe |
+| LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | [Descripción](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Leily_Llanos.png) | Leily.llanos@upch.pe |
+| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| [Descripción](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Qui%C3%A9nes_conformamos/Melissa_Quispe.png) | Melissa.quispe.b@upch.pe |
 
 ## ***Integrantes:***
 <p align="center">
