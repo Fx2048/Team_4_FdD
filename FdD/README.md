@@ -30,6 +30,21 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 - [Entregables:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables)  Se encontratá todo los entregables tanto de los informes, hitos, entre otros durante el proyecto.
 
 
+## Tipos de archivos:📓
+   - PPT / PPTX
+   - XLS / XLSX
+   - CSV
+   - PDF
+   - DOC / DOCX
+   - TXT
+   - JPEG / PNG
+
+## Lenguajes de programación: 📑
+   - Python
+   - Markdow
+   - Htmñ
+
+
 
 
 
