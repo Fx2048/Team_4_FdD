@@ -63,10 +63,10 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 -[FdD:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD) En esta carpeta se podrá encontrar 
 todos los entregables que serán parte fundamental en el desarrollo de nuestro proyecto.
 
--[Hadware:](https://github.com/Fx2048/Team_4_FdD/tree/main/Hadware) En esta sección se podrá encontrar los prototipos y moledalado
+-[Hadware:](https://github.com/Fx2048/Team_4_FdD/tree/main/Hadware) En esta sección se podrá encontrar los prototipos y modelado relacionado con el diseño y desarrollo del proyecto.
 
--[Ident_Problema:](https://github.com/Fx2048/Team_4_FdD/tree/main/Ident_Problema) 
+-[Ident_Problema:](https://github.com/Fx2048/Team_4_FdD/tree/main/Ident_Problema) En este segmente estarán presentes los documentos de los pasos que hemos tenído que seguir para identificar adecuadamente nuestro problema.
 
--[Imágenes:](https://github.com/Fx2048/Team_4_FdD/tree/main/Im%C3%A1genes)  En este apartado se encontrará todas la imagenes en formato pnj y jpg que ser´n útiles para el diseño de nuestro proyecto.
+-[Imágenes:](https://github.com/Fx2048/Team_4_FdD/tree/main/Im%C3%A1genes)  En este apartado se encontrará todas la imagenes en formato pnj y jpeg que serán útiles para el diseño de nuestro proyecto.
 
--[Software:](https://github.com/Fx2048/Team_4_FdD/tree/main/Software)
+-[Software:](https://github.com/Fx2048/Team_4_FdD/tree/main/Software)  Categoría en la que se encontrará lo códigos a útilizar para la implementación d ela solución de nuestro proyecto.
