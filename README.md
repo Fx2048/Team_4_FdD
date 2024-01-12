@@ -8,7 +8,7 @@
 
 ## Tabla de contenido
 
-  - [ODS a abordar](#ods)
+  - [ODS a abordar](#ods-12)
   - [¿Quiénes conforman?](#quiénes-lo-conforman)
   - [Roles](#roles)
   - [Descripción de las carpetas](#descripción-de-las-carpetas)
