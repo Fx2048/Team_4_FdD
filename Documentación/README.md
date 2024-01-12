@@ -13,7 +13,7 @@
    - TXT
    - JPEG / PNG
 
-# Lenguajes de programación:
+# Lenguajes de programación: 📑
    - Python
    - Markdow
 
