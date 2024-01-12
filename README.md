@@ -28,5 +28,21 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 
 ## Roles:
 
+| Participantes | Rol | Git_Hub | Correo |
+| --- | --- | --- | ---|
+| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción |  | Brigitte.bernal@upch.pe |
+| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | | Nilda.turpo@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación|  | Magno.luque@upch.pe |
+| LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
+| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D|  | Melissa.quispe.b@upch.pe |
+
 
 ## Descripción de las carpetas:
+
+-[Bibliografía]()
+-[Documentación]()
+-[FdD]()
+-[Hadware]()
+-[Ident_Problema]()
+-[Imágenes]()
+-[Software]()
