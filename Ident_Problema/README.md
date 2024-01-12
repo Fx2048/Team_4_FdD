@@ -7,6 +7,19 @@
 
 
 
+# Tipos de archivos:📓
+   - PPT / PPTX   
+   - CSV
+   - PDF
+   - DOC / DOCX   
+   - JPEG / PNG
+
+# Lenguajes de programación: 📑
+   - Python
+   - Markdow
+
+
+
 
 
 
