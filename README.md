@@ -13,11 +13,21 @@
   - [Roles](#roles)
   - [Descripción de las carpetas](#descripción-de-las-carpetas)
   - 
-## ODS :
+## ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/logo_12.png" width="400" height="70" style="margin: auto;">
 
+<p align="justify">
+La ODS 12, que se centra en "Garantizar modalidades de consumo y producción sostenibles", aborda indirectamente el uso de pesticidas en la agricultura. El objetivo general de la ODS 12 implica la promoción de prácticas de producción sostenibles y la gestión sostenible de productos químicos y desechos.
+ </p>
+<p align="justify">
+El uso de pesticidas en la agricultura puede tener impactos significativos en la sostenibilidad ambiental y la salud humana. En el contexto de la ODS 12, se buscaría reducir los riesgos asociados con el uso de pesticidas, promoviendo prácticas agrícolas más sostenibles. Esto podría incluir el fomento de métodos de control de plagas no químicos, la adopción de tecnologías agrícolas más sostenibles y la concienciación sobre los impactos ambientales y de salud asociados con el uso indiscriminado de pesticidas.
+</p>
+<p align="justify">
+En resumen, aunque la ODS 12 no menciona específicamente el uso de pesticidas, su objetivo general de promover prácticas de producción sostenibles y gestionar de manera sostenible los productos químicos implica indirectamente la necesidad de abordar y reducir los impactos negativos de los pesticidas en la agricultura.
+</p>
 
-
+Referencia: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar modalidades de consumo y producción sostenibles en América Latina y el Caribe. 
+Más informacón [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
 ## ¿Quiénes lo conforman?
 <p align="justify">
