@@ -4,9 +4,9 @@
 
 
 ## PARTES
-[Documentos:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt) En esta sección se encontrará todas las citas bibliográficas de documentos, artículos, pawinas wb, videos, entre otros que se utilizarán para recabar información en este proyecto.
+[Documentos:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt) En esta sección se encontrará todas las citas bibliográficas de documentos, artículos, pawinas wb, videos, entre otros que se utilizarán para recabar información en este proyecto en formato txt.
 
-[Imágenes:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Im%C3%A1genes.txt) En esta sección solamente se encontrará citas bibliográfias de las imágenes a utilizar.
+[Imágenes:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Im%C3%A1genes.txt) En esta sección solamente se encontrará citas bibliográfias de las imágenes a utilizar en formato txt.
 
 
 
