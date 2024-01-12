@@ -14,3 +14,6 @@
 ## Resumen
 
 ## Quienes conformamos.
+<p align="justify">
+Para relizar el presente proyecto el equipo esta conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Ambiental quienes tienen un gran entusiamos para solucionar diversos problemas que se encuentran inmersos en nuestra sociedad hoy en día uno de ellos es el calentamiento globa.
+</p>
