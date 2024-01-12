@@ -8,6 +8,19 @@ Dentro de esta carpeta se encuentran los elementos fundamentales del hardware, d
 
 
 
+# Tipos de archivos:📓
+   - PPT / PPTx
+   - PDF
+   - DOC / DOCX
+   - JPEG / PNG
+
+# Lenguajes de programación: 📑
+   - Python
+   - Markdow
+   - Html
+
+
+
 
 
 
