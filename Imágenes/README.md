@@ -5,13 +5,13 @@
 
 
 
-# Tipos de archivos:📓
+## Tipos de archivos:📓
    - JPEG
    - PNG
    - TIFF
    - SVG
    - 
-# Lenguajes de programación: 📑
+## Lenguajes de programación: 📑
    - Python
    - Markdow
    - Html
