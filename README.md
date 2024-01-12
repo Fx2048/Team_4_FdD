@@ -6,7 +6,7 @@
 </p>
 
 
-## Tbla de contenido
+## Tabla de contenido
 
   - [ODS a abordar](#ods)
   - [¿Quiénes conforman?](#quiénes-lo-conforman)
@@ -27,7 +27,7 @@ El uso de pesticidas en la agricultura puede tener impactos significativos en la
 En resumen, aunque la ODS 12 no menciona específicamente el uso de pesticidas, su objetivo general de promover prácticas de producción sostenibles y gestionar de manera sostenible los productos químicos implica indirectamente la necesidad de abordar y reducir los impactos negativos de los pesticidas en la agricultura.
 </p>
 
-Referencia: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar modalidades de consumo y producción sostenibles en América Latina y el Caribe. 
+Cita: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar modalidades de consumo y producción sostenibles en América Latina y el Caribe. 
 
 Más informacón [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
