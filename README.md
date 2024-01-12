@@ -30,19 +30,27 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 
 | Participantes | Rol | Git_Hub | Correo |
 | --- | --- | --- | ---|
-| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción |  | Brigitte.bernal@upch.pe |
-| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | | Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación|  | Magno.luque@upch.pe |
+| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2024  | Brigitte.bernal@upch.pe |
+| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | NILDAMARIBEL| Nilda.turpo@upch.pe |
+| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| Magno_Luque | Magno.luque@upch.pe |
 | LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
-| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D|  | Melissa.quispe.b@upch.pe |
+| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
 
+- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables/Qui%C3%A9nes_conformamos)
 
 ## Descripción de las carpetas:
 
--[Bibliografía]()
--[Documentación]()
--[FdD]()
--[Hadware]()
--[Ident_Problema]()
--[Imágenes]()
--[Software]()
+-[Bibliografía :](https://github.com/Fx2048/Team_4_FdD/tree/main/Bibliograf%C3%ADa) Sección donde se podrá encontrar todas las referencias bibliográficas tanto de textos como imágene que harán que nuestra información sea más confiable.
+
+-[Documentación:](https://github.com/Fx2048/Team_4_FdD/tree/main/Documentaci%C3%B3n) Espacio donde se podrá encontrar diversos documentos como reporte, informes, artículos, entre otros que aportarán a entrar y ampliar nuestra información pallevar a cabo nuestro proyecto.
+
+-[FdD:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD) En esta carpeta se podrá encontrar 
+todos los entregables que serán parte fundamental en el desarrollo de nuestro proyecto.
+
+-[Hadware:](https://github.com/Fx2048/Team_4_FdD/tree/main/Hadware) En esta sección se podrá encontrar los prototipos y moledalado
+
+-[Ident_Problema:](https://github.com/Fx2048/Team_4_FdD/tree/main/Ident_Problema) 
+
+-[Imágenes:](https://github.com/Fx2048/Team_4_FdD/tree/main/Im%C3%A1genes)  En este apartado se encontrará todas la imagenes en formato pnj y jpg que ser´n útiles para el diseño de nuestro proyecto.
+
+-[Software:](https://github.com/Fx2048/Team_4_FdD/tree/main/Software)
