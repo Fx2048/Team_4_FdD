@@ -7,7 +7,6 @@
    - PPT / PPTX
    - XLS / XLSX
    - CSV
-   - HTML
    - PDF
    - DOC / DOCX
    - TXT
@@ -16,6 +15,7 @@
 ## Lenguajes de programación: 📑
    - Python
    - Markdow
+   - Html
 
 
 
