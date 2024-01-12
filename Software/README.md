@@ -4,3 +4,13 @@ Esta carpeta contiene archivos en formato de código, los cuales desempeñan un 
 </p>
 
 
+# Tipos de archivos:📓
+   - XLS / XLSx
+   - PDF
+   - JPEG / PNG
+
+# Lenguajes de programación: 📑
+   - Python
+   - Markdow
+   - Css
+   - Html
