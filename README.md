@@ -1,7 +1,9 @@
 # <p align="center"> 🖋️INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA🌱 </p>
 
 
-## ODS 12 : Producción y consumo responsable🚜
+## ODS 12 :
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/logo_12.png" width="400" height="70" style="margin: auto;">
+</p>
 ## Objetivo: 🫐
 
 <p align="justify">
