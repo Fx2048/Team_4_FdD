@@ -35,7 +35,7 @@
   Lima-2024
 </p>
 
-<p >----------------------------------------------------------------------------------------------------------------------------------
+<p >--------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 
 
@@ -111,7 +111,7 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 
 ## 2.•  Valores ajustados de la gráfica.  
 
-###   - Descripción:  
+###   -  Descripción:  
 
  <p align="justify">
   En el experimento realizado, se configuró un osciloscopio para que estuviera en sintonía con un generador de señales. La señal que se utilizó fue una onda sinusoidal con una frecuencia de 1 kHz (1000 Hz), una amplitud de 5V y un desplazamiento (offset) de 0V. Esta señal se transmitió a través del canal 1.
@@ -147,8 +147,8 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 </table>
 
 
-  ### -Conclusiones:
-  ### -Evidencias:
+  ### - Conclusiones:
+  ### - Evidencias:
   
    <table>
     <tr>
