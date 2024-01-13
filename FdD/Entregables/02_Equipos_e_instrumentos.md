@@ -135,6 +135,8 @@ Tasa de muestreo =  625 kS/s
         </td>
         
 </table>  
+
+
 ## 3. •  Valores medidos de la señal de entrada en un periodo 
 
 
@@ -150,9 +152,17 @@ Periodo :1ms
 ### - Amplitud y Periodo
 
 ## Evidencia genrales
-  ###- Manejo de los instrumentos
 
-# Anexos: ⏩
+</table>  
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/Equipos_instrumentos-Participantes/foto_grupal.jpg" alt="">
+        </td>
+   </table>  
+  
+
+  ### - Manejo de los instrumentos :⏩
+  
    <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
