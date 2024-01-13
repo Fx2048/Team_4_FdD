@@ -28,7 +28,7 @@
   - Llanos Angeles Leily Marlith
   - Luque Mamani, Magno Ricardo
   - Quispe Baldeon, Melissa
-  - Turpo Huaman, Nilda Marivel
+  - Turpo Huaman, Nilda Marivel (Coordinadora general)
 
 
 <p align="center">
@@ -114,14 +114,21 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 ###   -  Descripción:  
 
  <p align="justify">
-  En el experimento realizado, se configuró un osciloscopio para que estuviera en sintonía con un generador de señales. La señal que se utilizó fue una onda sinusoidal con una frecuencia de 1 kHz (1000 Hz), una amplitud de 5V y un desplazamiento (offset) de 0V. Esta señal se transmitió a través del canal 1.
+  1. Configuración exitosa del osciloscopio y el generador de señales: La configuración detallada del osciloscopio y el generador de señales, así como la conexión entre ambos a través del canal 1 utilizando un cable BNC, fue exitosa. Esto se evidencia por la capacidad de visualizar la onda sinusoidal en el osciloscopio.
 </p>
- <p align="justify">Para establecer la conexión, se utilizó un cable BNC. Un extremo del cable se conectó al canal 1 del generador de señales, mientras que el otro extremo se conectó al canal 1 del osciloscopio.
-</p>
+
  <p align="justify">
-Una vez establecida la conexión, se ajustaron los controles de posición vertical y horizontal, así como el disparo en el osciloscopio. Como resultado de estos ajustes, se pudo visualizar la onda sinusoidal en el osciloscopio.
+  
+2. Características de la señal: La señal generada fue una onda sinusoidal con una frecuencia de 1 kHz, una amplitud de 5V y un desplazamiento (offset) de 0V. Estos parámetros son fundamentales para caracterizar la señal y pueden tener implicaciones significativas en cualquier análisis posterior o aplicación de la señal.
+</p>
+
+ <p align="justify">
+  
+3. Visualización y registro de la señal: Los ajustes realizados en el osciloscopio permitieron la visualización de la onda sinusoidal. Además, los registros obtenidos proporcionan información valiosa sobre la señal generada. En particular, se registró una tasa de muestreo de 625 kS/s durante un período de 200 ms, durante el cual se recogieron 2000 puntos de datos. Esta alta tasa de muestreo y la gran cantidad de puntos de datos recogidos permiten una representación precisa y detallada de la señal.
 
 </p>
+
+
  <p align="justify">
   
 Los registros obtenidos a partir de esta configuración y visualización proporcionan información valiosa sobre la señal sinusoidal generada:
@@ -147,7 +154,8 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 </table>
 
 
-  ### - Conclusiones:
+  ### - Conclusión: 
+  Se concluye por lo tanto, que el experimento fue capaz de transmitir , visualizar, y registrar una señal sinusoidal en un medio digital usando el osciloscopio y un generador de señales, gracias a la verificación de los datos recolectados. 
   ### - Evidencias:
   
    <table>
