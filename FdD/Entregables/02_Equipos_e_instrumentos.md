@@ -58,7 +58,18 @@
 
 
    ### - Explicación:
+   <p align="justify"> En la evaluación de los datos obtenidos, la cercanía de los valores medidos a los valores teóricos o reales es un testimonio de la fiabilidad de las mediciones, debido a que se observa que los errores absolutos son de magnitud reducida,siendo un indicativo de una alta precisión en las mediciones efectuadas. El promedio de los errores absolutos se sitúa en 0.054%, lo que denota que la discrepancia media entre los valores medidos y los valores reales es prácticamente despreciable. 
+Sugiere, también, como dato destacado, la presencia de que a mayor tensión, el error se va ausentando.
+
+Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que representa la variación de los valores medidos en relación con los valores reales. Un porcentaje tan reducido de error relativo es indicativo de la consistencia de las mediciones y de su baja variabilidad en comparación con los valores reales.
+</p>
+
+
    ### - Conclusión:
+      <p align="justify">En resumen, los resultados sugieren que las mediciones son de alta precisión y confiabilidad, lo cual es fundamental en cualquier estudio científico riguroso.Estos cálculos son esenciales para evaluar la precisión de las mediciones y para comprender la magnitud de la desviación de los valores medidos respecto a los valores reales.
+</p>
+
+
    ### - Evidencias:
    <table>
     <tr>
