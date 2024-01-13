@@ -106,19 +106,24 @@
 </p>
 
  
-
-Periodo:  328 μs 
-
-Voltaje: 1.90 V 
-
-Frecuencia 1kHz 
-
-Amplitud:4.54 
-
+Valores Ajustados     Resultados
+Tiempo (us)  = 0.0000 s
+Tiempo (ms)  =  200 us
+Puntos = 2000 puntos
+Tasa de muestreo =  625 kS/s
   ### -Conclusiones:
   ### -Evidencias:
   
-
+   <table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/ajuste_graficos_2/Osciloscopio.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/ajuste_graficos_2/screen2.jpg" alt="">
+        </td>
+        
+</table>  
 ## 3. •  Valores medidos de la señal de entrada en un periodo 
 
 
