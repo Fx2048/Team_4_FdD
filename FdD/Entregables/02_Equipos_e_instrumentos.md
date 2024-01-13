@@ -30,24 +30,13 @@
   - Quispe Baldeon, Melissa
   - Turpo Huaman, Nilda Marivel
 
-   <table>
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Nilda_Turpo.png" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Magno_Luque.png" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
-        </td>
-</table>  
+
+<p align="center">
+  Lima-2024
+</p>
+
+<p >----------------------------------------------------------------------------------------------------------------------------------
+</p>
 
 
 
@@ -66,6 +55,11 @@
 | 10 | 14.00 V | 14.05 | 0.05 | 0.357% |
 | Promedio | - | - | 0.054 | 0.6039% |
 
+
+
+   ### - Explicación:
+   ### - Conclusión:
+   ### - Evidencias:
    <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
@@ -83,6 +77,9 @@
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/9v.jpg" alt="">
         </td>
+</table>  
+   <table>
+    <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/10v.jpg" alt="">
         </td>
@@ -93,18 +90,12 @@
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/12v.jpg" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/13v.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/13%20v.jpg " alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/14v.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/14%20v.jpg" alt="">
         </td>
 </table>  
-
-
-   ### - Explicación:
-   ### - Conclusión:
-   ### - Evidencias:
-
 
 
 ## 2.•  Valores ajustados de la gráfica.  
