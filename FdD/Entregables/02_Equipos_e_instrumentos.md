@@ -216,7 +216,7 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
   </tr>
 </table>
 
-### - Conclución: 
+### - Conclusión: 
 
  <p align="justify">
 Sintetizando la información en pruebas prácticas y empíricas, podemos afirmar que la realización del experimento comprobó las propiedades fundaemntales de una onda sinusoidal, y atribuyó su utilidad tras la demostración de la misma, en la utilidad del osciloscopio como instrumento de medición.
