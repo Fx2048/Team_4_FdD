@@ -40,7 +40,7 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Equipo.jpg" width="500" style="margin: auto;">
 </p>
 
-- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables/Qui%C3%A9nes_conformamos)
+- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
 ## Roles:💡
 
@@ -52,7 +52,7 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 | LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
 | QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
 
-- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables/Qui%C3%A9nes_conformamos)
+- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
 ## Descripción de las carpetas:📚
 
