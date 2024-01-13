@@ -66,7 +66,7 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 
 
    ### - Conclusión:
-      <p align="justify">En resumen, los resultados sugieren que las mediciones son de alta precisión y confiabilidad, lo cual es fundamental en cualquier estudio científico riguroso.Estos cálculos son esenciales para evaluar la precisión de las mediciones y para comprender la magnitud de la desviación de los valores medidos respecto a los valores reales.
+<p align="justify">En resumen, los resultados sugieren que las mediciones son de alta precisión y confiabilidad, lo cual es fundamental en cualquier estudio científico riguroso.Estos cálculos son esenciales para evaluar la precisión de las mediciones y para comprender la magnitud de la desviación de los valores medidos respecto a los valores reales.
 </p>
 
 
