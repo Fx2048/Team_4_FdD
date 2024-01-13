@@ -117,11 +117,12 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 </p>
 
  
-Valores Ajustados     Resultados
-Tiempo (us)  = 0.0000 s
-Tiempo (ms)  =  200 us
-Puntos = 2000 puntos
-Tasa de muestreo =  625 kS/s
+| Valores Ajustados| Resultados|
+| :------------: | :------------: |
+| Tiempo(us) | 0.0000s |
+| Tiempo(ms) | 200µs |
+| Puntos  | 2000 |
+| Tasa de muestreo | 625 kS/s | 
   ### -Conclusiones:
   ### -Evidencias:
   
@@ -176,9 +177,5 @@ Periodo :1ms
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/Equipos_instrumentos-Participantes/Nilda_lab2.jpg" alt="">
-  </table>  
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/Equipos_instrumentos-Participantes/foto_grupal.jpg" alt="">
-        </td>
+</td>
    </table>  
