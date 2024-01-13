@@ -164,26 +164,46 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 
 ## 3. •  Valores medidos de la señal de entrada en un periodo 
 
+ <p align="justify">
+  En el marco de este experimento, se realizaron mediciones precisas de una señal de entrada utilizando un osciloscopio. Los parámetros clave de la señal, que se caracteriza por ser una onda periódica, se detallan a continuación:
+
+</p>
+
 ### - Periodo
 
-  - Descripción:
+  - Descripción: 
+
+ <p align="justify">
+  El periodo de la señal, que es el tiempo que tarda en completar un ciclo, se registró como 1 ms. Esto es coherente con la frecuencia medida, ya que el periodo es el recíproco de la frecuencia.
+</p>
     <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/periodo.jpg" width="400" height="350" style="margin: auto;">
 </p>
-  - Frecuencia: Para calculara la frecuencia
+  - Frecuencia: La frecuencia de la señal medida fue de 1 KHz, que fue calculada mediante la inversa del periodo. Esto implica que la señal completa un ciclo completo en una milésima de segundo.
+
   
 ### - Amplitud
   - Descripción:
+
+ <p align="justify">
+  La amplitud de la señal, que es la máxima distancia que la señal alcanza desde su valor medio, se midió en 5 V. Esto indica la intensidad máxima de la señal durante un ciclo.
+
+</p>
   <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/amplitud.jpg" width="250" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/amplitud.jpg" width="400" height="350" style="margin: auto;">
 </p>
 
 ### - Amplitud y Periodo
  - Descripción:
   <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/screen.jpg" width="250" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/screen.jpg" width="400" height="350" style="margin: auto;">
 </p>
 
+### - Conclución: 
+
+ <p align="justify">
+  Dadas las observaciones anteriores, es importante destacar que estas mediciones se realizaron con un alto grado de precisión, utilizando un osciloscopio, que es un instrumento de medición electrónico diseñado para representar gráficamente señales eléctricas variables en el tiempo.
+</p>
 ## Evidencia generales
 
 </table>  
