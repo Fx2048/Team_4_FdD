@@ -198,6 +198,21 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/screen.jpg" width="400" height="350" style="margin: auto;">
 </p>
 
+
+
+<table border="1">
+  <tr>
+    <th>Frecuencia(KHz) </th>
+    <th>Amplitud(V)(</th>
+    <th>Periodo(ms)</th> 
+  </tr>
+  <tr>
+    <td>1 </td>
+    <td>5 </td>
+    <td>1 </td>
+  </tr>
+</table>
+
 ### - Conclución: 
 
  <p align="justify">
