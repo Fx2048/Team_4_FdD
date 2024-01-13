@@ -224,8 +224,7 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 ### - Conclución: 
 
  <p align="justify">
-  Dadas las observaciones anteriores, es importante destacar que estas mediciones se realizaron con un alto grado de precisión, utilizando un osciloscopio, que es un instrumento de medición electrónico diseñado para representar gráficamente señales eléctricas variables en el tiempo.
-</p>
+Sintetizando la información en pruebas prácticas y empíricas, podemos afirmar que la realización del experimento comprobó las propiedades fundaemntales de una onda sinusoidal, y atribuyó su utilidad tras la demostración de la misma, en la utilidad del osciloscopio como instrumento de medición.
 
 
 ## Evidencia generales
