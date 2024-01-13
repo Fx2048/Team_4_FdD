@@ -50,6 +50,9 @@
 | Promedio | - | - | 0.054 | 0.6039% |
 
 
+   ### - Explicación:
+   ### - Conclusión:
+
 ## 2.•  Valores ajustados de la gráfica.  
 
 Gráfica digital ajustada en osciloscopio y Generador de señales: 
@@ -68,7 +71,10 @@ Frecuencia 1kHz
 
 Amplitud:4.54 
 
-##3. •  Valores medidos de la señal de entrada en un periodo 
+  ### -Conclusiones:
+  
+
+## 3. •  Valores medidos de la señal de entrada en un periodo 
 
 VISTA GENERAL: 
 ![VISTA GENERAL: ]()
@@ -84,4 +90,6 @@ Amplitud :5 V
 
 Periodo :1ms 
 
-
+### - Periodo
+### - Amplitud
+### - Amplitud y Periodo
