@@ -100,11 +100,10 @@
 
 ## 2.•  Valores ajustados de la gráfica.  
 
-Gráfica digital ajustada en osciloscopio y Generador de señales: 
-![Gráfica digital ajustada en osciloscopio y Generador de señales:]()
-Descripción:  
+###   - Descripción:  
 
-En relación con el osciloscopio digital, este se sincroniza con el generador de señales. Este procedimiento permite la inclusión de los valores configurados, de acuerdo con las directrices establecidas, en la lectura. Posteriormente, estos valores son registrados para su análisis. Como resultado de este proceso, se han obtenido los siguientes hallazgos observados. Este texto se redactó con un tono más formal y académico para su consideración. 
+<p align="justify"> Se procedió a configurar el dispositivo del osciloscopio afín al generador de señales, vinculando la señal sinusoidal de 1 000000000 KHz de frecuencia, 5V de amplitud y 0V offset por el canal 1, luego se conectó el extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio. A partir de ello, los controles de posición vertical, horizontal, y disparo ajustadas, muestran la señal sinusoidal, denotando los siguientes registros: 
+</p>
 
  
 
@@ -122,13 +121,7 @@ Amplitud:4.54
 
 ## 3. •  Valores medidos de la señal de entrada en un periodo 
 
-VISTA GENERAL: 
-![VISTA GENERAL: ]()
-VISTA ESPECIFICA EN CADA COMPONENTE DIGITAL: 
-![VISTA ESPECIFICA EN CADA COMPONENTE DIGITAL: ]()
-Descripción: 
 
-Se procedió a configurar el dispositivo del osciloscopio afín al generador de señales, vinculando la señal sinusoidal de 1KHz de frecuencia, 5V de amplitud y 0V offset por el canal 1, luego se conectó el extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio. A partir de ello, los controles de posición vertical, horizontal, y disparo ajustadas, muestran la señal sinusoidal, denotando los siguientes registros: 
 
 Frecuencia 1KHz 
 
