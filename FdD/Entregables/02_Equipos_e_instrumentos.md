@@ -113,16 +113,40 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 
 ###   - Descripción:  
 
-<p align="justify"> Se procedió a configurar el dispositivo del osciloscopio afín al generador de señales, vinculando la señal sinusoidal de 1 000000000 KHz de frecuencia, 5V de amplitud y 0V offset por el canal 1, luego se conectó el extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio. A partir de ello, los controles de posición vertical, horizontal, y disparo ajustadas, muestran la señal sinusoidal, denotando los siguientes registros: 
+ <p align="justify">
+  En el experimento realizado, se configuró un osciloscopio para que estuviera en sintonía con un generador de señales. La señal que se utilizó fue una onda sinusoidal con una frecuencia de 1 kHz (1000 Hz), una amplitud de 5V y un desplazamiento (offset) de 0V. Esta señal se transmitió a través del canal 1.
+</p>
+ <p align="justify">Para establecer la conexión, se utilizó un cable BNC. Un extremo del cable se conectó al canal 1 del generador de señales, mientras que el otro extremo se conectó al canal 1 del osciloscopio.
+</p>
+ <p align="justify">
+Una vez establecida la conexión, se ajustaron los controles de posición vertical y horizontal, así como el disparo en el osciloscopio. Como resultado de estos ajustes, se pudo visualizar la onda sinusoidal en el osciloscopio.
+
+</p>
+ <p align="justify">
+  
+Los registros obtenidos a partir de esta configuración y visualización proporcionan información valiosa sobre la señal sinusoidal generada:
 </p>
 
- 
-| Valores Ajustados| Resultados|
-| :------------: | :------------: |
-| Tiempo(us) | 0.0000s |
-| Tiempo(ms) | 200µs |
-| Puntos  | 2000 |
-| Tasa de muestreo | 625 kS/s | 
+
+
+
+<table class="tabla-azul">
+    <tr>
+        <th>Tiempo (μs)</th>
+        <th>Tiempo (ms)</th>
+        <th>Puntos </th>
+        <th>Tasa de muestreo </th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>200</td>
+        <td>2000</td>
+        <td>625 kS/s</td>
+         
+    </tr>
+</table>
+
+
   ### -Conclusiones:
   ### -Evidencias:
   
