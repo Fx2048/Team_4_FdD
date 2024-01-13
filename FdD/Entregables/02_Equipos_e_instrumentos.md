@@ -194,7 +194,6 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 </p>
 
 ### - Amplitud y Periodo
- - Descripción:
   <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/screen.jpg" width="400" height="350" style="margin: auto;">
 </p>
@@ -204,15 +203,13 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
  <p align="justify">
   Dadas las observaciones anteriores, es importante destacar que estas mediciones se realizaron con un alto grado de precisión, utilizando un osciloscopio, que es un instrumento de medición electrónico diseñado para representar gráficamente señales eléctricas variables en el tiempo.
 </p>
+
+
 ## Evidencia generales
 
-</table>  
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/Equipos_instrumentos-Participantes/foto_grupal.jpg" alt="">
-        </td>
-   </table>  
-  
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/Equipos_instrumentos-Participantes/foto_grupal.jpg" width="400" height="350" style="margin: auto;">
+</p>
 
   ### - Manejo de los instrumentos :⏩
   
