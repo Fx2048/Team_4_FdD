@@ -20,19 +20,19 @@
 
 <table>
     <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;">
+        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">
+        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Nilda_Turpo.png" alt="">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">
+        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Magno_Luque.png" alt="">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">
+        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">
+        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
         </td>
 </table>  
