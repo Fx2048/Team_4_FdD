@@ -12,7 +12,7 @@
 ### <p align = "center"> FUNDAMENTOS DE DISEÑO </p>
 
 
-### Docentes:🚀
+### Docentes:👨‍🏫
 
   - Mg Umbert Lewis De La Cruz  
   - Mg. Paulo Camilo Vela Antón 
@@ -22,7 +22,7 @@
   - Ing. Renzo José Chan Ríos
 
 
-### Integrantes:                                                                                  
+### Integrantes:   👩‍🎓🧑‍🎓                                                                           
 
   - Bernal Belisario, Brigitte
   - Llanos Angeles Leily Marlith
@@ -40,7 +40,7 @@
 
 
 
-## 1.• Promedio de errores absoluto y relativo.  
+## 1.• Promedio de errores absoluto y relativo.  ✏️📈
 | N° | Valor Real | Valor medido | Error absoluto | Error relativo |
 |---|---|---|---|---|
 | 1 | 5.00 V | 5.023 | 0.023 | 0.46% |
@@ -57,7 +57,7 @@
 
 
 
-   ### - Explicación:
+   ### - Explicación:🔍
    <p align="justify"> En la evaluación de los datos obtenidos, la cercanía de los valores medidos a los valores teóricos o reales es un testimonio de la fiabilidad de las mediciones, debido a que se observa que los errores absolutos son de magnitud reducida,siendo un indicativo de una alta precisión en las mediciones efectuadas. El promedio de los errores absolutos se sitúa en 0.054%, lo que denota que la discrepancia media entre los valores medidos y los valores reales es prácticamente despreciable. 
 Sugiere, también, como dato destacado, la presencia de que a mayor tensión, el error se va ausentando.
 
@@ -65,12 +65,12 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 </p>
 
 
-   ### - Conclusión:
+   ### - Conclusión:✅
 <p align="justify">En resumen, los resultados sugieren que las mediciones son de alta precisión y confiabilidad, lo cual es fundamental en cualquier estudio científico riguroso.Estos cálculos son esenciales para evaluar la precisión de las mediciones y para comprender la magnitud de la desviación de los valores medidos respecto a los valores reales.
 </p>
 
 
-   ### - Evidencias:
+   ### - Evidencias:🎯
    <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
@@ -109,9 +109,9 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
 </table>  
 
 
-## 2.•  Valores ajustados de la gráfica.  
+## 2.•  Valores ajustados de la gráfica.  📂🎯
 
-###   -  Descripción:  
+###   -  Descripción:  🔍
 
 <p align="justify"> 1. Configuración exitosa del osciloscopio y el generador de señales: La configuración detallada del osciloscopio y el generador de señales, así como la conexión entre ambos a través del canal 1 utilizando un cable BNC, fue exitosa. Esto se evidencia por la capacidad de visualizar la onda sinusoidal en el osciloscopio.
 </p>
@@ -149,7 +149,7 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 </table>
 
 
-  ### - Conclusión: 
+  ### - Conclusión: ✅
   Se concluye por lo tanto, que el experimento fue capaz de transmitir , visualizar, y registrar una señal sinusoidal en un medio digital usando el osciloscopio y un generador de señales, gracias a la verificación de los datos recolectados. 
   ### - Evidencias:
   
@@ -165,7 +165,7 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 </table>  
 
 
-## 3. •  Valores medidos de la señal de entrada en un periodo 
+## 3. •  Valores medidos de la señal de entrada en un periodo 📃
 
  <p align="justify">
   En el marco de este experimento, se realizaron mediciones precisas de una señal de entrada utilizando un osciloscopio. Los parámetros clave de la señal, que se caracteriza por ser una onda periódica, se detallan a continuación:
