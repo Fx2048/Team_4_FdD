@@ -31,7 +31,10 @@
   - Turpo Huaman, Nilda Marivel
 
 
-### 1.• Promedio de errores absoluto y relativo.  
+
+
+
+## 1.• Promedio de errores absoluto y relativo.  
 | N° | Valor Real | Valor medido | Error absoluto | Error relativo |
 |---|---|---|---|---|
 | 1 | 5.00 V | 5.023 | 0.023 | 0.46% |
@@ -47,7 +50,7 @@
 | Promedio | - | - | 0.054 | 0.6039% |
 
 
-### 2.•  Valores ajustados de la gráfica.  
+## 2.•  Valores ajustados de la gráfica.  
 
 Gráfica digital ajustada en osciloscopio y Generador de señales: 
 ![Gráfica digital ajustada en osciloscopio y Generador de señales:]()
@@ -65,7 +68,7 @@ Frecuencia 1kHz
 
 Amplitud:4.54 
 
-### 3. •  Valores medidos de la señal de entrada en un periodo 
+##3. •  Valores medidos de la señal de entrada en un periodo 
 
 VISTA GENERAL: 
 ![VISTA GENERAL: ]()
