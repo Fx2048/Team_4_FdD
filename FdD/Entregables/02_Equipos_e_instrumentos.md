@@ -12,7 +12,7 @@
 ### <p align = "center"> FUNDAMENTOS DE DISEÑO </p>
 
 
-### Docentes:
+### Docentes:🚀
 
   - Mg Umbert Lewis De La Cruz  
   - Mg. Paulo Camilo Vela Antón 
