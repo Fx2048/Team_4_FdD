@@ -4,6 +4,10 @@
 
 ### <p align = "center"> Facultad de Ciencias y Filosofía “Alberto Cazorla Talleri” </p>
 
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Logo_upch.jpeg" width="250" height="150" style="margin: auto;">
+</p>
+
 
 ### <p align = "center"> FUNDAMENTOS DE DISEÑO </p>
 
