@@ -147,16 +147,17 @@ Además, el promedio del error relativo se cifra en 0.6039%, una cantidad que re
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/periodo.jpg" width="400" height="350" style="margin: auto;">
 </p>
   - Frecuencia: Para calculara la frecuencia
+  
 ### - Amplitud
   - Descripción:
   <p align="center">
-  <img src="" width="250" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/amplitud.jpg" width="250" height="150" style="margin: auto;">
 </p>
 
 ### - Amplitud y Periodo
  - Descripción:
   <p align="center">
-  <img src="" width="250" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/periodo_3/screen.jpg" width="250" height="150" style="margin: auto;">
 </p>
 
 ## Evidencia generales
