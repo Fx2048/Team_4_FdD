@@ -52,6 +52,7 @@
 
    ### - Explicación:
    ### - Conclusión:
+   ### - Evidencias:
 
 ## 2.•  Valores ajustados de la gráfica.  
 
@@ -72,6 +73,7 @@ Frecuencia 1kHz
 Amplitud:4.54 
 
   ### -Conclusiones:
+  ### -Evidencias:
   
 
 ## 3. •  Valores medidos de la señal de entrada en un periodo 
@@ -93,3 +95,6 @@ Periodo :1ms
 ### - Periodo
 ### - Amplitud
 ### - Amplitud y Periodo
+
+## Evidencia genrales
+  ###- Manejo de los instrumentos
