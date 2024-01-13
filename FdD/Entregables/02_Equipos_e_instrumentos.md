@@ -54,6 +54,25 @@
    ### - Conclusión:
    ### - Evidencias:
 
+   <table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Nilda_Turpo.png" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Magno_Luque.png" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
+        </td>
+</table>  
+
 ## 2.•  Valores ajustados de la gráfica.  
 
 Gráfica digital ajustada en osciloscopio y Generador de señales: 
