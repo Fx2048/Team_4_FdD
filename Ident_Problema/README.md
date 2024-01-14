@@ -33,3 +33,5 @@
 - RPP Noticias. (20 de octubre 2023). *Residuos de pesticida generaría algunos desajustes en la salud pública, según ingeniero agrónomo* [Video]. Youtube. https://www.youtube.com/watch?v=s8I_tjCX6tg
 - TVPerú Noticias. (3 de agosto 2022) . *Senasa advierte que algunos productos contienen plaguicidas por encima del límite permitido* [Video]. Youtube. https://www.youtube.com/watch?v=KZ12p_nCNxs
 - TVPerú Noticias. (26 de agosto 2018). *Senasa explica el uso correcto de plaguicidas* [Video]. Youtube. https://www.youtube.com/watch?v=Kkx87Eqxjh8
+- TVPerú Noticias. (20 de agosto 2018). *Exceso de plaguicidas en cultivos pone en riesgo a pobladores* [Video]. Youtube. https://www.youtube.com/watch?v=fbR1ABSkkgo
+- Inia Perú. (27 de noviembre 2018). *Importancia del uso racional de los pesticidas* [Video]. Youtube. https://www.youtube.com/watch?v=FgUUJ50oK4U
