@@ -1,5 +1,11 @@
 # <p> PROBLEMÁTICA 🔍</p>
 
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Ident_Problema/Mapa_de_empat%C3%ADa.png" width="400" height="70" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Ident_Problema/Mapa_de_viaje.png width="400" height="70" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Ident_Problema/Diagrama_de_ishikawa.png" width="400" height="70" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Ident_Problema/Problem%C3%A1tica.png" width="400" height="70" style="margin: auto;"></P>
 
 
-<p align="justify"> A pesar del notable crecimiento del 98.2% en la producción de papa en la región de Ayacucho, reportado por el INEI, el uso constante de agroquímicos, en particular el insecticida Carbofurán, en la zona de Chiara genera graves riesgos para la salud humana y la estabilidad ambiental. A pesar de ser altamente peligroso y estar aprobado por la SENASA, los pobladores hacen uso de este producto, puesto que es muy efectivo que actúa contra una amplia variedad de plagas y es ampliamente disponible en el mercado (Stoorvogel, J. et al (2003)), lo que representa un riesgo significativo de intoxicación aguda para las personas expuestas. Además, el uso de Carbofurán plantea riesgos adicionales para la contaminación del agua potable y riesgos ocupacionales, a pesar de las medidas estrictas de protección.
