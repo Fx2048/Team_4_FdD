@@ -9,33 +9,43 @@
 ### REVISTAS INDEXADAS:
 • D. Balsamo et al., “Graceful Performance Modulation for Power-Neutral Transient Computing Systems,” IEEE Trans. Computer-Aided Design of Integrated 
 Circuits and Systems, vol. 35, no. 5, May 2016, pp. 738–49.
+
 • T. Polonelli, D. Brunelli, and L. Benini, “Slotted ALOHA Overlay on 
 LoRaWAN—A Distributed Synchronization Approach,” 2018 IEEE 16th Int’l. 
 Conf. Embedded and Ubiquitous Computing, Oct 2018, pp. 129–32. 
+
 • M. Rossi and D. Brunelli, “Ultra Low Power Wireless Gas Sensor Network 
 for Environmental Monitoring Applications,” 2012 IEEE Wksp. Environmental 
 Energy and Structural Monitoring Systems, Sept. 2012, pp. 75–81. 
+
 •  D. Sartori and D. Brunelli, “A Smart Sensor for Precision Agriculture Powered 
 by Microbial Fuel Cells,” 2016 IEEE Sensors Applications Symp., Apr. 2016, 
 pp. 1–6. 
+
 • D. Brunelli and C. Caione, “Sparse Recovery Optimization in Wireless Sensor 
 Networks with a Sub-Nyquist Sampling Rate,” Sensors, vol. 15, no. 7, 2015, 
 pp. 16,654–73. 
+
 •  W. Ding and G. Taylor, “Automatic Moth Detection from Trap Images for Pest 
 Management,” Comp. Electron. Agric., vol. 123, no. C, Apr. 2016, pp. 17–28.
+
 •  M. Guermandi et al., “Towards a Wearable Interface for Food Quality Grading 
 through ERP Analysis,” 2019 IEEE Int’l. Symp. Circuits and Systems, May 2019, 
 pp. 1–5. 
-•  A. Guarnieri, G. Molari, and V. Rondelli, “Sistema Elettronico per il Monitoraggio di Insetti Dannosi in Frutteto,” Gestione e controllo dei sistemi agrari e 
-forestali – Memorie AIIA 2011, 2011. 
+
+•  A. Guarnieri, G. Molari, and V. Rondelli, “Sistema Elettronico per il Monitoraggio di Insetti Dannosi in Frutteto,” Gestione e controllo dei sistemi agrari eforestali – Memorie AIIA 2011, 2011. 
+
 •  L. Tessaro et al., “Lightweight Synchronization Algorithm with Self-Calibration 
 for Industrial LoRa Sensor Networks,” 2018 Wksp. Metrology for Industry 4.0 
 and IoT, Apr. 2018, pp. 259–63. 
+
 • F. Adelantado et al., “Understanding the Limits of LoRaWAN,” IEEE Commun. 
 Mag., vol. 55, no. 9, Sept. 2017, pp. 34–40,. 
+
 • T. Polonelli et al., “Slotted ALOHA on LoRaWAN—Design, Analysis, and 
 Deployment,” Sensors, vol. 19, no. 4, 2019; https://www.mdpi.com/1424-
 8220/19/4/838
+
 ## LIBROS:
 • Cadiz,D.O.(2006). Producción, cosecha y almacenamiento de
 papa en la Argentina. McCain Argentina SA, Balcarce -
