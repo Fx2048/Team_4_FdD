@@ -48,21 +48,25 @@ Deployment,” Sensors, vol. 19, no. 4, 2019; https://www.mdpi.com/1424-
 
 ## LIBROS:
 • Cadiz,D.O.(2006). Producción, cosecha y almacenamiento de
-papa en la Argentina. McCain Argentina SA, Balcarce -
-• BASF Argentina SA, Capital Federal. Argentina. 226 p.
+papa en la Argentina. McCain Argentina SA, Balcarce -BASF Argentina SA, Capital Federal. Argentina. 226 p.
+
 • Egusquiza Bayona, R. (2000). La papa: producción,
 transformación y comercialización. Universidad
 Nacional Agraria La Molina (UNALM), Asociación de
 Exportadores (ADEX), Programa de Desarrollo
 Comunitario en Corredores Económicos (PRISMA) y
 Proyecto Papa Andina CIP-COSUDE. Lima, Perú. 192 p.
+
 • Fribourg, C. E. (2007). Virus, viroides y mollicutes de las plantas
 cultivadas en el Perú. Lima, Perú. 219 p.
+
 • Hooker, W.J. (ed.) (1981). Compendium of potato diseases. St.
 Paul (USA). American Phytopathological Society. 125 p.
+
 •Torres, H. (2002). Manual de las enfermedades más importantes
 de la papa en el Perú. Centro Internacional de la Papa
 (CIP). Lima, Perú. 59 p.
+
 •Wale, S.; Platt, H.W.(Bud) and N. Cattlin. (2008). Diseases, pests
 and disorders of Potatoes- A colour handbook.
 Manson Publishing Ltd. London, UK. 176 p.
