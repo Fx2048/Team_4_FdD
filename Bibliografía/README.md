@@ -57,6 +57,20 @@ de la papa en el Perú. Centro Internacional de la Papa
 and disorders of Potatoes- A colour handbook.
 Manson Publishing Ltd. London, UK. 176 p.
 
+### Sitios web
+
+• Arable - decision agriculture. (2021, septiembre 7). Arable. https://www.arable.com/
+
+• Dacal, A. C. A. (2022, abril 21). La huella del abuso de los plaguicidas permanece en el suelo durante décadas. Universidad de Las Palmas de Gran Canaria. http://theconversation.com/la-huella-del-abuso-de-los-plaguicidas-permanece-en-el-suelo-durante-decadas-175855
+
+• De agricultura sostenible en zonas áridas, 27 o. Período de Sesiones 28 de Septiembre-2 de Octubre de 2020 Hacia un Programa Mundial. (s/f). COMITÉ DE AGRICULTURA. Fao.org. Recuperado el 14 de enero de 2024, de https://www.fao.org/3/nd366es/nd366es.pdf
+
+• El trabajo “Propuesta de cultivos, crianza, plantaciones forestales y producción acuícola a ser promovidos por el programa Aliados”, se inserta dentro del trabajo de. (s/f). Gob.pe. Recuperado el 14 de enero de 2024, de https://www.midagri.gob.pe/portal/download/pdf/especiales/aliados/Ayacucho.pdf
+
+• Gunstone, T., & Donley, N. (2021). Los pesticidas están matando los suelos del mundo. BIODIVERSIDAD LA. https://www.biodiversidadla.org/Noticias/Los-pesticidas-estan-matando-los-suelos-del-mundo#sidebar
+
+• MIDAGRI capacita a agricultores de Ayacucho en cuidado del cultivo del maíz ante plagas y enfermedades. (s/f). Gob.pe. Recuperado el 14 de enero de 2024, de https://www.gob.pe/institucion/inia/noticias/345883-midagri-capacita-a-agricultores-de-ayacucho-en-cuidado-del-cultivo-del-maiz-ante-plagas-y-enfermedades
+
 ## [Imágenes:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Im%C3%A1genes.txt) En esta sección solamente se encontrará citas bibliográfias de las imágenes a utilizar en formato txt.
 
 
