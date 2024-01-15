@@ -49,7 +49,7 @@ FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
 <p align="justify"> La siguiente tabla emitida por el INEI en 2022 es un mapa de la victoria, destacando el crecimiento de la superficie cosechada y el progreso en la producción. No obstante, este logro resalta la necesidad de cuidar nuestras tierras de manera sostenible. Mantener este éxito no es solo un número en una tabla, sino un compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad. </p>
 
 <p align="center">
-  <img src="" width="300" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_6_1.png" width="300" height="150" style="margin: auto;">
 </p>
 
 FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
@@ -121,33 +121,35 @@ Fuente: Ministerio de Desarrollo Agrario y Riego, 2023.
 <p align="justify"> En abril de 2020, el sector agropecuario en Ayacucho experimentó un notable aumento del 18.9% en la producción de papa en comparación con el mismo mes del año anterior. Este incremento significativo, que elevó la producción a 83.095 toneladas, en contraste con las 69.907 toneladas del año anterior, se atribuye principalmente al crecimiento excepcional de las cosechas en la región (INEI, 2020). </p>
 
 
-IMG
-<p align="justify"> El dato revelador de que el 60.8% de los hogares pobres en Ayacucho tiene al menos un miembro beneficiario de programas alimentarios entre 2013 y 2021, según el Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares, es una señal de la presencia significativa de estos programas en la región.  </p>
-
-
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/12.jpg" width="300" height="150" style="margin: auto;">
 </p>
 
 Fuente: Ministerio de agricultura y Riego.
 
-<p align="justify">  
 
-Según el INEI, en el primer trimestre de 2023, la Tasa de Actividad en Ayacucho es del 68.3%, destacándose en hombres, individuos de 25 a 44 años y con educación superior. Sin embargo, el 74.8% de la población ocupada se encuentra en empleo informal, según datos de abril 2022-marzo 2023. Esta problemática afecta a ambos géneros, resaltando la necesidad apremiante de intervenciones para promover empleo formal y mejorar las condiciones laborales. La gráfica de barras adjunta visualiza claramente la predominancia del empleo informal en Ayacucho. </p>
+<p align="justify"> El dato revelador de que el 60.8% de los hogares pobres en Ayacucho tiene al menos un miembro beneficiario de programas alimentarios entre 2013 y 2021, según el Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares, es una señal de la presencia significativa de estos programas en la región.  </p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/13.jpg" width="300" height="150" style="margin: auto;">
 
  Fuente: Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares.
 
- 
+
+
+<p align="justify">  
+
+Según el INEI, en el primer trimestre de 2023, la Tasa de Actividad en Ayacucho es del 68.3%, destacándose en hombres, individuos de 25 a 44 años y con educación superior. Sin embargo, el 74.8% de la población ocupada se encuentra en empleo informal, según datos de abril 2022-marzo 2023. Esta problemática afecta a ambos géneros, resaltando la necesidad apremiante de intervenciones para promover empleo formal y mejorar las condiciones laborales. La gráfica de barras adjunta visualiza claramente la predominancia del empleo informal en Ayacucho. </p>
 </p>
+
+
+
 
 <p align="justify"> Según el INEI, Ayacucho registra una tasa de desempleo del 9.3%, aumentando 0.7 puntos porcentuales desde el mismo periodo de 2022 (8.6%). Este aumento señala un desafío creciente en el mercado laboral local, con una marcada disparidad de género: el 11.8% de desempleo en mujeres comparado con el 7.1% en hombres. Estos datos subrayan la necesidad de estrategias específicas para superar las barreras de empleo que enfrentan las mujeres en Ayacucho. </p>
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Img_FdD.jpg" width="300" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_14.png" width="300" height="150" style="margin: auto;">
 
 Fuente: INEI. Encuesta Permanente De empleo Nacional (EPEN).
 
