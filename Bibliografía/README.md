@@ -4,7 +4,7 @@
 
 
 # PARTES
-##[Documentos:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt) En esta sección se encontrará todas las citas bibliográficas de documentos, artículos, pawinas wb, videos, entre otros que se utilizarán para recabar información en este proyecto en formato txt.
+## [Documentos:](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt) En esta sección se encontrará todas las citas bibliográficas de documentos, artículos, pawinas wb, videos, entre otros que se utilizarán para recabar información en este proyecto en formato txt.
 
 ### REVISTAS INDEXADAS:
 • D. Balsamo et al., “Graceful Performance Modulation for Power-Neutral Transient Computing Systems,” IEEE Trans. Computer-Aided Design of Integrated 
