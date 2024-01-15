@@ -154,7 +154,7 @@ Según el INEI, en el primer trimestre de 2023, la Tasa de Actividad en Ayacucho
 
 Fuente: INEI. Encuesta Permanente De empleo Nacional (EPEN).
 
-Bibliografía: 
+Regferencias bibliofráficas : [click](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt)
 
 
 
