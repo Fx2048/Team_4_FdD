@@ -22,7 +22,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 ### UNIDAD 3: Implementación de la solución 
 
 ### Para mayor información 
-  📙[click aqui](Documentación/Sil_FdD.pdf)
+  📙[click aqui](../Documentación/Sil_FdD.pdf)
 
 
 ## Información de subcarpetas
