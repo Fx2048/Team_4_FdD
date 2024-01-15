@@ -1,6 +1,6 @@
 # <p align="center"> PROBLEMÁTICA 🔍</p>
 
-## <p > MAPA DE EMPATÍA/p>
+## <p > MAPA DE EMPATÍA</p>
 
 <p align="> </p>
 
