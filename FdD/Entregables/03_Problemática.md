@@ -19,7 +19,5 @@
 
 PPT completo, acceder al siguiente enlace:
 
-[PPT]
-
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
