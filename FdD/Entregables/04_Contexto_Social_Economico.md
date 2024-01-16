@@ -6,22 +6,33 @@
 
 <p align="justify">A nivel mundial, la situación del carbofurano es alarmante, porque ya cuenta con una prohibición en Europa y Canadá, y restricciones en países de América Latina. "En Colombia, a pesar de la cancelación de productos, aún persiste en el suelo, generando casos de letalidad y destacando la necesidad de abordar esta persistente amenaza" (Bautista, Leidy, 2018). No obstante, "la biodegradación del carbofurano se presenta como un desafío significativo debido a su compleja estructura química", como indican Chaudhry y Ali (1988). Por lo tanto, es fundamental darle un uso adecuado para evitar generar daños y a la vez ser conscientes de su uso, con el fin de evitar seguir perjudicando el suelo. Esto se refleja mediante la siguiente gráfica:</p>
 
-<p align = "center" > ***Figura 1:*** Cinética de degradación del carbofurano por parte del consorcio micribiano.<p>
+<p align = "center" >
+  
+  **Figura 1:** Cinética de degradación del carbofurano por parte del consorcio micribiano.
+  
+<p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG%20_1.png" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura%20_1.png" width="600" height="300" style="margin: auto;">
 </p>
 
-<p align = "center"> Nota: La figura muestra el tiempo de biodegradación del carbofurano teniendo en cuenta las partes por millos(ppm) en consideración con los días. Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, Bautista Rico (2018)</p>
+<p align = "justify">
+  
+**Nota:** La figura muestra el tiempo de biodegradación del carbofurano teniendo en cuenta las partes por millos(ppm) en consideración con los días. Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, Bautista Rico (2018)
+</p>
 
 
-<p align = "center" > ***Figura 2:*** Resultados obtenidos por análisis cromatógraficos de las muestras de suelo.<p>
+<p align = "center" > 
+  
+**Figura 2:** Resultados obtenidos por análisis cromatógraficos de las muestras de suelo.<p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_2.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_2.png" width="400" height="250" style="margin: auto;">
 </p>
 
-<p align = "center"> Nota: En la gráfica se muestra la concentración de carbofuran que existe en el suelo después de realizar dos ensayos y considerando a la vez el control de microoganismos y el control de carbofuran, para esto se tiene en cuenta las partes por millon (pmm) y los días transcurridos. Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, Bautista Rico (2018)</p>
+<p align = "center"> 
+  
+**Nota:** En la gráfica se muestra la concentración de carbofurano que existe en el suelo después de realizar dos ensayos y considerando a la vez el control de microoganismos y el control de carbofurano, para esto se tiene en cuenta las partes por millon (pmm) y los días transcurridos. Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, Bautista Rico (2018)</p>
 
 
 
