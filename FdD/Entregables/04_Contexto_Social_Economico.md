@@ -55,31 +55,51 @@
 
 ## <p > NIVEL  REGIONAL</p>
 
-<p align="justify"> La comparación de la cobertura de la tierra, ecosistemas y biodiversidad en Ayacucho entre 2019 y 2021 revela cambios significativos en la superficie agropecuaria y en los usos de la tierra (INEI, 2022). Estos cambios pueden tener un impacto directo en la planificación de siembras de papas, ya que la transformación de áreas agropecuarias podría afectar la disponibilidad de terrenos adecuados para este cultivo específico. </p>
+<p align="justify"> "La comparación de la cobertura de la tierra, ecosistemas y biodiversidad en Ayacucho entre 2019 y 2021 revela cambios significativos en la superficie agropecuaria y agrícola ", (SIEA, 2022). Estos cambios pueden tener un impacto directo en la planificación de siembras de papas, ya que la transformación de áreas agropecuarias podría afectar la disponibilidad de terrenos adecuados para este cultivo específico y a la vez teniendo en cuenta la disminuión de terrenos adecuados para este tubérculo. </p>
+
+<p align = "center" > 
+  
+**Tabla 1** AYACUCHO: Supeficies agropecuaria, por usos de la tierra, 2019 y 2021.
+<p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_4.png" width="400" height="250" style="margin: auto;">
 </p>
 
-Fuente: Servicio Nacional de Meteorología e Hidrología (SENAMHI).
+<p align = "center"> 
+  
+**Nota:**  En la tabla se puede identificar la superficie por hectarias de terrenos agropecuarios y agricolas durante los años 2019 y 2021 en la región de Ayacucho. FUENTE: Encueta Nacional Agraria , (INEI) (2019_ 2021) (P. 47).</p>
 
+<p align="justify"> También es importante destacar el aumento y aprovechamiento de la tierra en la producción de papa en Ayacucho, " a pasando de 353,155 toneladas en 2021 a 543,258 toneladas en 2022" según datos del (INEI, 2022), esto indica un incremento significativo en la contribución de  la producción agrícola regional. Este aumento podría estar vinculado a prácticas agrícolas intensivas, incluyendo posiblemente el uso excesivo de plaguicidas como el carbofurano, lo cual, como mencionamos anteriormente, puede tener impactos ambientales y sanitarios.</p>
 
-<p align="justify"> El destacado aumento y aprovechamiento de la tierra en la producción de papa en Ayacucho, pasando de 353,155 toneladas en 2021 a 543,258 toneladas en 2022 según datos del INEI, señala un incremento significativo en la contribución de este cultivo a la producción agrícola regional. Este aumento podría estar vinculado a prácticas agrícolas intensivas, incluyendo posiblemente el uso de plaguicidas como el carbofurano, lo cual, como mencionamos anteriormente, puede tener impactos ambientales y sanitarios.</p>
+<p align = "center" > 
+  
+**Tabla 2** AYACUCHO: Volumen de la producción agrícola, según principales cultivos, (2014-2022).
+<p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_5.png" width="600" height="300" style="margin: auto;">
 </p>
 
-FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
+<p align = "center"> 
+  
+**Nota:**  En la tabla se puede verificar la producción de la papa por toneladas métricas teniendo una producción elevada durante el año 2022. FUENTE: MIDAGRI- Dirección General de Evalución y Seguimiento de Políticas, (INEI)(2022) .</p>
 
 
-<p align="justify"> La siguiente tabla emitida por el INEI en 2022 es un mapa de la victoria, destacando el crecimiento de la superficie cosechada y el progreso en la producción. No obstante, este logro resalta la necesidad de cuidar nuestras tierras de manera sostenible. Mantener este éxito no es solo un número en una tabla, sino un compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad. </p>
+
+<p align="justify"> Asimismo, la siguiente tabla emitida por el INEI en 2022, destaca que la producción de la papá ha ido bajando con el pasar de los años. Es así que, esto es un indicador más que resalta la necesidad de cuidar nuestras tierras de manera sostenible. Es por eso, que se debe de tener un 
+compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y de esa manera permanecer con una producción constante y evitar el uso excesivo de pesticidas. </p>
+
+**Tabla 2** AYACUCHO: Superficie cosechada, según principales cultivos, (2014-2022).
+<p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_6_1.png" width="600" height="300" style="margin: auto;">
 </p>
 
-FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
+<p align = "center"> 
+  
+**Nota:** La presente tabla nos permite identificar la cosecha de la papá por hectáreas en la región de Ayacucho. FUENTE: MIDAGRI- Dirección Regional Agraria de Ayacucho, (INEI)(2022) .</p>  
 
 # <p align="center"> CONTEXTO ECONÓMICO </p>
 
