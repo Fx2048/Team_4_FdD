@@ -24,4 +24,4 @@ PPT completo, acceder al siguiente enlace:
 ## 🚜FUENTES BIBLIOGRÁFICAS: 
 [🎯⛓️Bibliografía base para la constitución del mapa de empatía](../../Bibliografía/Indent_problema.txt)
 
-[🎯⛓️Bibliografía para el hallazo de la problemática](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Indent_problema.txt)
+[🎯⛓️Bibliografía para el hallazo de la problemática](../../Bibliografía/Indent_problema.txt)
