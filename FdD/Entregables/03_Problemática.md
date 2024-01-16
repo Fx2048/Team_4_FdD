@@ -19,7 +19,7 @@
 
 PPT completo, acceder al siguiente enlace:
 
-[PPT](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Presentaci%C3%B3n%20proyecto%20universitario%20sencillo%20vers%C3%A1til%20estilo%20doodle%20azul%20y%20turquesa%20(1).pdf)
+[PPT]
 
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
