@@ -37,12 +37,19 @@
 
 
 
-<p align="justify"> Ante la complejidad sanitaria en el cultivo de papa, se cuestiona la viabilidad del carbofurano como control de plagas. Urge adoptar enfoques sostenibles, como la biodiversidad y control biológico, para preservar la productividad sin comprometer el medio ambiente. En Ecuador, Betancourth y colaboradores (2020) resaltaron la severidad de la "Costra Negra y Cancro del Tallo," subrayando la necesidad de prácticas agrícolas más sostenibles. La enfermedad evidencia impactos directos, como ulceraciones y ennegrecimientos, destacando la urgencia de abordar estos desafíos de manera efectiva. </p>
+<p align="justify"> Por otra parte, exite una complejidad sanitaria en el cultivo de papa, se cuestiona la viabilidad del carbofurano como control de plagas. Urge adoptar enfoques sostenibles como la biodiversidad y control biológico, para preservar la productividad sin comprometer el medio ambiente. En Ecuador, Betancourth y colaboradores (2020) resaltaron la severidad de la "Costra Negra y Cancro del Tallo," subrayando la necesidad de prácticas agrícolas más sostenibles. La enfermedad evidencia impactos directos, como ulceraciones y ennegrecimientos, destacando la urgencia de abordar estos desafíos de manera efectiva. Asimismo, estas plagas no permiten tener una alta calidad en la cosecha afectando así a diversos paises, lo cual se puede apreciar en la siguiente gráfica. </p>
+
+<p align = "center" > 
+  
+**Figura 3:** Distribución geográfica del gorgojo y especies.<p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_3.png" width="400" height="250" style="margin: auto;">
 </p>
-Fuente: VULNERACIÓN DEL CULTIVO DE PAPA ANTE PROBLEMAS SANITARIOS EMERGENTES EN NARIÑO, 2020.
+
+<p align = "center"> 
+  
+**Nota:**  En la figura, se puede presenciar las plagas que más afectan a los diversos paises, de lo cual se puede observar que el Perú es uno de los país que más plagas tiene en el cultivo de la papa. Fuente:100 Años del Gusano Blanco de la Papa en Colombia. (2020, diciembre 31).</p>
 
 
 ## <p > NIVEL  REGIONAL</p>
