@@ -40,7 +40,7 @@
 ## 🚜 CONTEXTO:
      //contexto (mejorar)
            //Armamos contexto, y también , la forma de impacto acutal de tal problemática, y la figura de los pesticidas ante la problemática 
-[Contexto socio_económico]()
+[Contexto socio_económico](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/04_Contexto_Social_Economico.md)
 ## 🚜 ESTRATEGIAS PARA ABORDAR LA PROBLEMÁTICA DESDE UNA PERSPECTIVA IoT:
     //planteamiento de soluciones(en proceso)
          //estrategias (ver por donde aniquilamos el problema: co2 sensor, ph sensor, biodegradación&ambiente)
