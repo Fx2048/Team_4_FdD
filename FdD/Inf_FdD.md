@@ -1,6 +1,6 @@
 # <p align="center">🖋️BIENVENIDOS A FUNDAMENTOS DE DISEÑO💻</p>
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/fddlogo/FUNDAMENTOS%20DE%20DISE%C3%91O.jpg" width="1920" height="1080" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/fddlogo/FUNDAMENTOS%20DE%20DISE%C3%91O.jpg" width="1080" height="1920" style="margin: auto;">
 </p>
 
 <p align="center">Utel, I. (2014, febrero 27). Conoce cuáles son los fundamentos del diseño.</p>        
