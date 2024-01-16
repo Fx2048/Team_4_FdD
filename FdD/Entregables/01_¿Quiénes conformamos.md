@@ -15,7 +15,7 @@
 
 
 ## TEAM 4 -MISSION ODS12:
-## 🚜CONÓCENOS 🌱👨🏽‍💻👩🏽‍💻👩🏽‍💻👷🏽‍♀️
+## 🚜CONÓCENOS 🌱👷🏽‍♀️👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
