@@ -1,4 +1,4 @@
-# <p align="center">🪴ECOPUREHARVEST🌱</p>
+# <p align="center">🛜ECOPUREHARVEST🌱</p>
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/logo.jpg" width="100" style="margin: auto;">
 </p>
@@ -15,7 +15,7 @@
 
 
 ## TEAM 4 -MISSION ODS12:
-## CONÓCENOS
+## CONÓCENOS 🌱👨🏽‍💻👩🏽‍💻👩🏽‍💻👷🏽‍♀️
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
@@ -34,7 +34,7 @@
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
         </td>
 </table>  
-## *ROLES*
+## ROLES 👨🏽‍✈️👩🏽‍✈️👩🏽‍✈️👩🏽‍✈️🚜🌱
 
 <table>
     <tr>
