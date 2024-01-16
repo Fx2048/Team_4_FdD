@@ -27,7 +27,7 @@
 **Figura 2:** Resultados obtenidos por análisis cromatógraficos de las muestras de suelo.<p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_2.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_2.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -41,10 +41,11 @@
 
 <p align = "center" > 
   
-**Figura 3:** Distribución geográfica del gorgojo y especies.<p>
+**Figura 3:** Distribución geográfica del gorgojo y especies.
+<p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_3.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_3.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
