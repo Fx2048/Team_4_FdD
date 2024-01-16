@@ -114,7 +114,7 @@ compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y 
 <p>
   
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_6.png" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_4.png" width="600" height="300" style="margin: auto;">
 </p>
 
 
@@ -140,7 +140,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 <p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_7.png" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_5.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -156,7 +156,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/8.jpg" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_6.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
 
@@ -177,7 +177,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
   
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/9.jpg" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_7.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
  **Fuente:** Banco Mundial(2022)
@@ -195,7 +195,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/11.jpg" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_8.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -216,7 +216,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/12.jpg" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_9.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -235,6 +235,7 @@ Fuente: INEI. Encuesta Permanente De empleo Nacional (EPEN).
 
 ##  Referencias bibliográficas : 
 <p align="justify">
+  
   - Banco central de Reserva del Perú. (2023). Ayacucho: Síntesis de Actividad Económica-enero 2023. https://goo.su/ldHmFka
   - Betancourth, C., Sañudo, B., Florez, C., Castro, B., Arteaga, F., Lagos Mora, L. E., & Salazar, C. (2020). Vulneración del cultivo de la papa ante problemas sanitarios emergentes en Nariño. https://sired.udenar.edu.co/6868/
   - Chaudhry, G.R. and Ali, H.D. (1988) Bacterial metabolism of carbofuran. Applied and Environmental Microbiology 54, 1414-1419.
