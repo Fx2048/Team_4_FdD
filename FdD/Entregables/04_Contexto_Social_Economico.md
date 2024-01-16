@@ -63,7 +63,7 @@
 <p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_4.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_1.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -78,7 +78,7 @@
 <p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_5.png" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_2.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -90,11 +90,11 @@
 <p align="justify"> Asimismo, la siguiente tabla emitida por el INEI en 2022, destaca que la producción de la papá ha ido bajando con el pasar de los años. Es así que, esto es un indicador más que resalta la necesidad de cuidar nuestras tierras de manera sostenible. Es por eso, que se debe de tener un 
 compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y de esa manera permanecer con una producción constante y evitar el uso excesivo de pesticidas. </p>
 
-**Tabla 2** AYACUCHO: Superficie cosechada, según principales cultivos, (2014-2022).
+**Tabla 3** AYACUCHO: Superficie cosechada, según principales cultivos, (2014-2022).
 <p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_6_1.png" width="600" height="300" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_3.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
