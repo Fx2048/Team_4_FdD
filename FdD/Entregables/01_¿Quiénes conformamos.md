@@ -14,26 +14,44 @@
 #### <p align="justify">¡Qué tal, exploradores! 🤠 Somos EcoPureHarvest, y estamos felices de verlos por estas tierras, nuestra misión es dar a conocer la documentación de nuestra trayectoria en la investigación e implementación de soluciones innovadoras de "INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA"</p>
 
 
-## Grupo 4
-
-## ***Integrantes:***
+## TEAM 4 -MISSION ODS12:
+## CONÓCENOS
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/nilda_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/brigitte_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/magno_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/melissa_nilda.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
+        </td>
+</table>  
+## ***ROLES***
 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Nilda_Turpo.png" alt="">
+        </td>
+          <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Magno_Luque.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
         </td>
 </table>  
 
