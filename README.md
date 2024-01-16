@@ -14,7 +14,7 @@
   - [Descripción de las carpetas](#descripción-de-las-carpetas)
     
 ## ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="400" height="70" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="768" height="439" style="margin: auto;"></P>
   
 
 <p align="justify">
