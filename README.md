@@ -1,4 +1,4 @@
-# <p align="center"> 🖋️INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA🌱 </p>
+# <p align="center"> 🚜INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA🌱 </p>
 
 
 <p align="justify">
@@ -6,14 +6,14 @@
 </p>
 
 
-## Tabla de contenido
+## 🚜Tabla de contenido
 
   - [ODS a abordar](#ods-12)
   - [¿Quiénes conforman?](#quiénes-lo-conforman)
   - [Roles](#roles)
   - [Descripción de las carpetas](#descripción-de-las-carpetas)
     
-## ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
+## 🚜 ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="768" height="439" style="margin: auto;"></P>
   
 
@@ -31,7 +31,7 @@ Cita: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar moda
 
 Más informacón [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
-## ¿Quiénes lo conforman?🙌
+## 🚜¿Quiénes lo conforman?🙌
 <p align="justify">
 Para relizar el presente proyecto el equipo esta conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Ambiental quienes tienen un gran entusiamos para solucionar diversos problemas que se encuentran inmersos en nuestra sociedad hoy en día, uno de ellos es el calentamiento global.
 </p>
@@ -42,15 +42,15 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 
 - Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
-## Roles:💡
+## 🚜Roles:💡
 
-| Participantes | Rol | Git_Hub | Correo |
+| 🛜Participantes | Rol | 📧Git_Hub | 📨Correo |
 | --- | --- | --- | ---|
-| BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2024  | Brigitte.bernal@upch.pe |
-| TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | NILDAMARIBEL| Nilda.turpo@upch.pe |
-| LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| Magno_Luque | Magno.luque@upch.pe |
-| LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
-| QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
+| 👩🏽‍💻BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2024  | Brigitte.bernal@upch.pe |
+| 👷🏽‍♀️TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | NILDAMARIBEL| Nilda.turpo@upch.pe |
+| 👨🏽‍💻LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| Magno_Luque | Magno.luque@upch.pe |
+| 👩🏽‍💻LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
+| 👩🏽‍💻QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
 
 - Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
