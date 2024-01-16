@@ -1,21 +1,26 @@
 
-# <p align="center"> CONTEXTO SOCIAL </p>
+# <p align="center"> CONTEXTO SOCIAL 💡 </p>
 
 ## <p > NIVEL MUNDIAL </p>
 
 
-<p align="justify">A nivel global, la situación del carbofurano es alarmante, con su prohibición en Europa y Canadá, y restricciones en países de América Latina. En Colombia, a pesar de la cancelación de productos, persiste en el suelo, generando casos de letalidad y destacando la necesidad de abordar esta persistente amenaza (Bautista, Leidy, 2018). No obstante, la biodegradación del carbofurano se presenta como un desafío significativo debido a su compleja estructura química; como indican Chaudhry y Ali (1988), la cual se refleja mediante la siguiente gráfica: </p>
+<p align="justify">A nivel mundial, la situación del carbofurano es alarmante, porque ya cuenta con una prohibición en Europa y Canadá, y restricciones en países de América Latina. "En Colombia, a pesar de la cancelación de productos, aún persiste en el suelo, generando casos de letalidad y destacando la necesidad de abordar esta persistente amenaza" (Bautista, Leidy, 2018). No obstante, "la biodegradación del carbofurano se presenta como un desafío significativo debido a su compleja estructura química", como indican Chaudhry y Ali (1988). Por lo tanto, es fundamental darle un uso adecuado para evitar generar daños y a la vez ser conscientes de su uso, con el fin de evitar seguir perjudicando el suelo. Esto se refleja mediante la siguiente gráfica:</p>
+
+<p align = "center" > ***Figura 1:*** Cinética de degradación del carbofurano por parte del consorcio micribiano.
+</p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG%20_1.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG%20_1.png" width="600" height="300" style="margin: auto;">
 </p>
-Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, 2018
+
+<p align = "center"> Nota: La figura muestra el tiempo de biodegradación del carbofurano en suelos de cultivo de papa criolla teniendo en cuenta las partes por millos(ppm) en consideración con los días. </p>
+<p align = "center"> Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, (2018) </p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_2.png" width="400" height="250" style="margin: auto;">
 </p>
 
-Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, 2018
+Fuente: Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja, (2018)
 
 
 <p align="justify"> Ante la complejidad sanitaria en el cultivo de papa, se cuestiona la viabilidad del carbofurano como control de plagas. Urge adoptar enfoques sostenibles, como la biodiversidad y control biológico, para preservar la productividad sin comprometer el medio ambiente. En Ecuador, Betancourth y colaboradores (2020) resaltaron la severidad de la "Costra Negra y Cancro del Tallo," subrayando la necesidad de prácticas agrícolas más sostenibles. La enfermedad evidencia impactos directos, como ulceraciones y ennegrecimientos, destacando la urgencia de abordar estos desafíos de manera efectiva. </p>
@@ -40,7 +45,7 @@ Fuente: Servicio Nacional de Meteorología e Hidrología (SENAMHI).
 <p align="justify"> El destacado aumento y aprovechamiento de la tierra en la producción de papa en Ayacucho, pasando de 353,155 toneladas en 2021 a 543,258 toneladas en 2022 según datos del INEI, señala un incremento significativo en la contribución de este cultivo a la producción agrícola regional. Este aumento podría estar vinculado a prácticas agrícolas intensivas, incluyendo posiblemente el uso de plaguicidas como el carbofurano, lo cual, como mencionamos anteriormente, puede tener impactos ambientales y sanitarios.</p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_5.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_5.png" width="600" height="300" style="margin: auto;">
 </p>
 
 FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
@@ -49,7 +54,7 @@ FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
 <p align="justify"> La siguiente tabla emitida por el INEI en 2022 es un mapa de la victoria, destacando el crecimiento de la superficie cosechada y el progreso en la producción. No obstante, este logro resalta la necesidad de cuidar nuestras tierras de manera sostenible. Mantener este éxito no es solo un número en una tabla, sino un compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad. </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_6_1.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_6_1.png" width="600" height="300" style="margin: auto;">
 </p>
 
 FUENTE: Instituto Nacional de Estadística e Informática (INEI), 2022.
