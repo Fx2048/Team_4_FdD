@@ -31,11 +31,35 @@
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/viaje_03.png" width="850" height="470" style="margin: auto;"></P>
 
 ## <p > 🚜 DIAGRAMA DE ISHIKAWA 🐠</p>
-
+     //Ishikawa (Actualización creo ya está, por eso subí nuevamente todas las imágenes)
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/ishikawa_03.png" width="850" height="470" style="margin: auto;"></P>
 
 ## <p > 🚜 PROBLEMÁTICA 🔍</p>
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/identificacion_03.png" width="850" height="470" style="margin: auto;"></P>
+
+## 🚜 CONTEXTO:
+     //contexto (mejorar)
+           //Armamos contexto, y también , la forma de impacto acutal de tal problemática, y la figura de los pesticidas ante la problemática 
+[Contexto socio_económico]()
+## 🚜 ESTRATEGIAS PARA ABORDAR LA PROBLEMÁTICA DESDE UNA PERSPECTIVA IoT:
+    //planteamiento de soluciones(en proceso)
+         //estrategias (ver por donde aniquilamos el problema: co2 sensor, ph sensor, biodegradación&ambiente)
+        // problemática( Recapitulando)
+### 1. Estrategia: 🚜 Sensor de CO2:
+
+### 2. Estrategia: 🚜Trampas eléctricas:
+
+### 3. Estrategia:🚜 Sensor de pH:
+
+### 4. Estrategia:🚜Sensor de agua:
+
+### 5. Estrategia: 🚜 Bioextractos antiplagas:
+
+### 6. Estrategia: 🚜 Relación entre la biodegradación edáfica(del suelo) vs. impacto en la salud ambiental/humana:
+
+
+   
+
 
 PPT completo, acceder al siguiente enlace:
 
