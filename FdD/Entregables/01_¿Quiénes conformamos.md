@@ -28,7 +28,7 @@
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/magno_somos.jpg" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/melissa_nilda.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/melissa_somos.jpg" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
