@@ -34,7 +34,8 @@
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
         </td>
 </table>  
-## ROLES 👨🏽‍✈️👩🏽‍✈️👩🏽‍✈️👩🏽‍✈️🚜🌱
+
+## **ROLES** 👨🏽‍✈️👩🏽‍✈️👩🏽‍✈️👩🏽‍✈️🚜🌱
 
 <table>
     <tr>
