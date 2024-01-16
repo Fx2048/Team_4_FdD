@@ -136,11 +136,11 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 <p align = "center" >
   
-  **Figura 5:** Producción d ela papa.
+  **Figura 5:** Producción de la papa.
 <p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_7.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_7.png" width="600" height="300" style="margin: auto;">
 </p>
 
 <p align = "center"> 
@@ -156,9 +156,12 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/8.jpg" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/8.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
+
+<p align="center">
+  
 **Nota:** La figura nos señala en rendimiento de la papa por toneladas respecto al promedio en cada pais durante los años 2006-2010, 2011-2014,2015_2018 , lo cual se verifica que a tenido un crecimiento significativo.
 </p> 
 
@@ -166,72 +169,82 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 ## <p > NIVEL NACIONAL </p>
 
-<p align="justify"> A pesar de los logros económicos en Perú, los desafíos persisten, especialmente en el sector agropecuario. La contracción del PIB en 2023 destaca la vulnerabilidad, resaltando la importancia de medidas para fortalecer la estabilidad y promover prácticas agrícolas sostenibles. La gráfica del Banco Mundial hasta el 2022 sobre el PBI peruano ofrece una visión clave de la evolución económica, subrayando la necesidad de abordar desafíos para garantizar un desarrollo inclusivo y sostenible.  </p>
+<p align="justify"> De mismo modo, a pesar de los logros económicos en Perú, los desafíos persisten, especialmente en el sector agropecuario. La contracción del PIB en 2023 destaca la vulnerabilidad, resaltando la importancia de medidas para fortalecer la estabilidad y promover prácticas agrícolas sostenibles. La gráfica del Banco Mundial hasta el 2022 sobre el PBI peruano ofrece una visión clave de la evolución económica, subrayando la necesidad de abordar desafíos para garantizar un desarrollo inclusivo y sostenible.  </p>
+
+<p align = "center" >
+  
+  **Figura 7:** Evolución del PBI 2016_217 <p>
+  
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/9.jpg" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/9.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
-FUENTE: Banco Mundial(2022)
+ **Fuente:** Banco Mundial(2022)
+
+<p align="justify"> Por consiguinete, el Perú brilla como líder productor de papa en América Latina, alcanzando una notable producción de 6 millones de toneladas en 2022. "Este cultivo abarca 330,790 hectáreas y sustenta a más de 700,000 familias, no solo garantizando la alimentación de casi 33 millones de habitantes, sino también impulsando la economía nacional con más de 27 millones de jornales de trabajo en 19 regiones", según informa el diario "El Peruano". 
 
 
-<p align="justify"> Perú brilla como líder productor de papa en América Latina, alcanzando una notable producción de 6 millones de toneladas en 2022. Este cultivo abarca 330,790 hectáreas y sustenta a más de 700,000 familias, no solo garantizando la alimentación de casi 33 millones de habitantes, sino también impulsando la economía nacional con más de 27 millones de jornales de trabajo en 19 regiones, según informa el diario "El Peruano". 
+<p align="justify"> Por locual, la sobresaliente producción de papa en Perú resalta la importancia de este cultivo como pilar alimentario y motor económico en diversas regiones. No obstante, para mantener este impacto positivo a largo plazo, es crucial descentralizar el uso de pesticidas y adoptar prácticas agrícolas sostenibles que preserven la salud del suelo y la biodiversidad, asegurando así la seguridad alimentaria y la sustentabilidad ambiental. </p>
 
- </p>
+<p align = "center" >
+  
+  **Figura 8:** Producción de papa.<p>
+
+</p>
+
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/10.jpg" width="400" height="250" style="margin: auto;">
-</p>
-Fuente: Diario oficial “El Peruano”, 2023.
-
- 
-<p align="justify"> La sobresaliente producción de papa en Perú resalta la importancia de este cultivo como pilar alimentario y motor económico en diversas regiones. No obstante, para mantener este impacto positivo a largo plazo, es crucial descentralizar el uso de pesticidas y adoptar prácticas agrícolas sostenibles que preserven la salud del suelo y la biodiversidad, asegurando así la seguridad alimentaria y la sustentabilidad ambiental. </p>
-
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/11.jpg" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/11.jpg" width="600" height="300" style="margin: auto;">
 </p>
 
-Fuente: Ministerio de Desarrollo Agrario y Riego, 2023.
+<p align = "center"> 
+  
+**Nota:** La gráfica nos muestra la producción de la papa a nivel nacional teniendo en cuenta el porcentaje de acuerdo a las toneladas.
+</p> 
+
+ **Fuente:** Ministerio de Desarrollo Agrario y Riego, 2023.
 
 ## <p > NIVEL  REGIONAL</p>
 
-<p align="justify"> En abril de 2020, el sector agropecuario en Ayacucho experimentó un notable aumento del 18.9% en la producción de papa en comparación con el mismo mes del año anterior. Este incremento significativo, que elevó la producción a 83.095 toneladas, en contraste con las 69.907 toneladas del año anterior, se atribuye principalmente al crecimiento excepcional de las cosechas en la región (INEI, 2020). </p>
+<p align="justify"> En abril de 2020, el sector agropecuario en Ayacucho experimentó un notable aumento del 18.9% en la producción de papa en comparación con el mismo mes del año anterior. "Este incremento significativo, que elevó la producción a 83.095 toneladas, en contraste con las 69.907 toneladas del año anterior, se atribuye principalmente al crecimiento excepcional de las cosechas en la región" (INEI, 2020). Entonces es importante contribuir al cuidado del suelo para tener una mejor produción y de alta calidad con el pasar de los años. </p>
 
+<p align = "center" >
+  
+  **Figura 9:** Producción de papa.<p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/12.jpg" width="400" height="250" style="margin: auto;">
-</p>
-
-Fuente: Ministerio de agricultura y Riego.
-
-
-<p align="justify"> El dato revelador de que el 60.8% de los hogares pobres en Ayacucho tiene al menos un miembro beneficiario de programas alimentarios entre 2013 y 2021, según el Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares, es una señal de la presencia significativa de estos programas en la región.  </p>
-
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/13.jpg" width="400" height="250" style="margin: auto;">
-
- Fuente: Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares.
-
-
-
-<p align="justify">  
-
-Según el INEI, en el primer trimestre de 2023, la Tasa de Actividad en Ayacucho es del 68.3%, destacándose en hombres, individuos de 25 a 44 años y con educación superior. Sin embargo, el 74.8% de la población ocupada se encuentra en empleo informal, según datos de abril 2022-marzo 2023. Esta problemática afecta a ambos géneros, resaltando la necesidad apremiante de intervenciones para promover empleo formal y mejorar las condiciones laborales. La gráfica de barras adjunta visualiza claramente la predominancia del empleo informal en Ayacucho. </p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_16.png" width="300" height="150" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/12.jpg" width="600" height="300" style="margin: auto;">
+</p>
+
+<p align = "center"> 
+  
+**Nota:** La gráfica nos muestra la producción de la papa durante los meses de enero-iciembre del año 2020 teniendo en cuenta los mile de toneladas que se lograron producir.
+</p> 
+
+ **Fuente:** Ministerio de agricultura y Riego (2020).
 
 
+<p align="justify"> Por otra parte, un dato importantes es que la produción de papá es el sutento de muchas familias en diversas regiones del Perú, es así de que el 60.8% de los hogares pobres en Ayacucho tiene al menos un miembro beneficiario de programas alimentarios entre 2013 y 2021, según el Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares, es una señal de la importancia que tiene esta produción, por lo cual es fundamental tomar medidas que ayuden a preservas dichas cifras de cultivo importantes para un futuro, una de ellas es evitar el uso de los pesticidas.  </p>
 
-<p align="justify"> Según el INEI, Ayacucho registra una tasa de desempleo del 9.3%, aumentando 0.7 puntos porcentuales desde el mismo periodo de 2022 (8.6%). Este aumento señala un desafío creciente en el mercado laboral local, con una marcada disparidad de género: el 11.8% de desempleo en mujeres comparado con el 7.1% en hombres. Estos datos subrayan la necesidad de estrategias específicas para superar las barreras de empleo que enfrentan las mujeres en Ayacucho. </p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_14.png" width="300" height="150" style="margin: auto;">
 
 Fuente: INEI. Encuesta Permanente De empleo Nacional (EPEN).
 
-Referencias bibliográficas : 
+##  Referencias bibliográficas : 
+<p align="justify">
+  - Banco central de Reserva del Perú. (2023). Ayacucho: Síntesis de Actividad Económica-enero 2023. https://goo.su/ldHmFka
+  - Betancourth, C., Sañudo, B., Florez, C., Castro, B., Arteaga, F., Lagos Mora, L. E., & Salazar, C. (2020). Vulneración del cultivo de la papa ante problemas sanitarios emergentes en Nariño. https://sired.udenar.edu.co/6868/
+  - Chaudhry, G.R. and Ali, H.D. (1988) Bacterial metabolism of carbofuran. Applied and Environmental Microbiology 54, 1414-1419.
+  - INEI. (2022). Ayacucho Compendio Estadístico. https://goo.su/pp3zV
+  - INEI. (2023). Indicador de la Actividad Productiva                    Departamental Tercer Trimestre 2023. https://goo.su/zGaYN9
+  - INEI. (2023). PERÚ: Comportamiento de los Indicadores del Mercado Laboral a nivel Nacional y en 26 Ciudades. https://goo.su/wU81QU
+  - INEI. (2023). Perú: Panorama Económico Departamental octubre 2023. https://goo.su/D82F4Rh
+  - Rico, B., & Pola, L. (2019). Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja. http://repositoriodspace.unipamplona.edu.co/jspui/handle/20.500.12744/2866
+  - Vista de Ecuador: análisis económico del desarrollo del sector agropecuario e industrial en el periodo 2000-2018. (s/f). Edu.ec. Recuperado el 15 de enero de 2024, de https://incyt.upse.edu.ec/ciencia/revistas/index.php/rctu/article/view/547/502
+  </p>
 
 [Contexto económico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt)
 
