@@ -21,3 +21,6 @@ PPT completo, acceder al siguiente enlace:
 
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+## 🚜FUENTES BIBLIOGRÁFICAS: 
+[Bibliografía base para la constitución del mapa de empatía](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Documentos.txt)
+[bibliografía para el hallazo de la problemática](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/Indent_problema.txt:)
