@@ -105,34 +105,64 @@ compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y 
 
 ## <p > NIVEL MUNDIAL </p>
 
-<p align="justify"> La estrecha correlación entre los sectores agropecuario e industrial en Ecuador subraya su importancia para el crecimiento económico. A lo largo de 2000-2018, su desarrollo ha variado según el interés gubernamental (UPSE, 2021), destacando la necesidad de políticas que impulsen ambos sectores para contribuir de manera significativa a la economía del país. </p>
+<p align="justify"> La estrecha correlación entre los sectores agropecuario e industrial en Ecuador subraya su importancia para el crecimiento económico. "A lo largo de 2000-2018, su desarrollo ha variado según el interés gubernamental" (UPSE, 2021), destacando la necesidad de políticas que impulsen ambos sectores para contribuir de manera significativa a la economía del país, este crecimiento se ve reflejado en la siguiente gráfica:. </p>
 
+<p align = "center" >
+  
+  **Figura 4:** Evolución de la producción total del sector agropecuario e industrial.
+  
+<p>
+  
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_6.png" width="400" height="250" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/IMG_6.png" width="600" height="300" style="margin: auto;">
 </p>
-Fuente: Revista Científica y Tecnológica UPSE, 2021
+
+
+<p align = "center"> 
+  
+**Nota:** La gráfica nos muestra el crecimiento económico en dólares que a brindado el sector agropecuario e industrial 
+</p> 
+
+ **Fuente:** Revista Científica y Tecnológica UPSE, 2021
+
 
 
 <p align="justify">
-A pesar de los desafíos, ambos sectores son vitales para el desarrollo del país, contribuyendo significativamente al PIB y proporcionando empleo.
+Además, a pesar de los desafíos, ambos sectores son vitales para el desarrollo del país, contribuyendo significativamente al PIB y proporcionando empleo.
 
 En la Conferencia de ministros de Agricultura de las Américas 2023, Ecuador, representado por el viceministro Paúl Núñez, subrayó la importancia de fortalecer la cooperación para impulsar sistemas agroalimentarios sostenibles y resilientes. Su enfoque se centró en facilitar insumos y mecanismos para futuras acciones en la región, al tiempo que promovía avances tecnológicos dirigidos a mejorar la productividad y abordar los desafíos del cambio climático, según informa la revista “El nuevo Ecuador”.
 
-Por otro lado, la papa es clave en Bolivia con 1,500 variedades, pero la producción no cubre la demanda interna. Aunque crece anualmente, enfrenta desafíos climáticos y sanitarios, afectando variedades nativas(Alcarez Rivero, et al, 2020). A pesar de mejoras, los rendimientos bolivianos son inferiores a Perú y Brasil. Abordar estos desafíos es esencial para fortalecer la seguridad alimentaria y la competitividad en el mercado internacional.
+Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la producción no cubre la demanda interna. Aunque crece anualmente, enfrenta desafíos climáticos y sanitarios, afectando variedades nativas" (Alcarez Rivero, et al, 2020). A pesar de mejoras, los rendimientos bolivianos son inferiores a Perú y Brasil. Abordar estos desafíos es esencial para fortalecer la seguridad alimentaria y la competitividad en el mercado internacional.
 
-</p>
+<p align = "center" >
+  
+  **Figura 5:** Producción d ela papa.
+<p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/img_7.png" width="400" height="250" style="margin: auto;">
 </p>
 
-Fuente: Elaboración propia con base en datos de INE y OAP-MDRyT
+<p align = "center"> 
+  
+**Nota:** La gráfica nos señala en la produción de la papa teniendo en cuenta los años con respecto a las toneladas producidas durante ese periodo. 
+</p> 
+
+ **Fuente:** Elaboración propia con base en datos de INE y OAP-MDRyT
+
+<p align = "center" >
+  
+  **Figura 6:** Rendimiento d ela papa. <p>
+
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/8.jpg" width="400" height="250" style="margin: auto;">
 </p>
 
-Fuente: Elaboración propia con base en datos de FAOSTAT.
+**Nota:** La figura nos señala en rendimiento de la papa por toneladas respecto al promedio en cada pais durante los años 2006-2010, 2011-2014,2015_2018 , lo cual se verifica que a tenido un crecimiento significativo.
+</p> 
+
+ **Fuente:** Elaboración propia con base en datos de FAOSTAT.
 
 ## <p > NIVEL NACIONAL </p>
 
