@@ -37,7 +37,7 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/somos_all.jpg" width="500" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/somos_all.jpg" width="650" height="400"style="margin: auto;">
 </p>
 
 - Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
