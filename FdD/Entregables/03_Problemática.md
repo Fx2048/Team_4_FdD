@@ -123,7 +123,7 @@ Referencia: Problemática
 🚜Referencia: Problemática
 - Chuchón Conde, E. Y. (2013). Biodegradación de carbofurán por bacterias aisladas de suelos agrícolas. Ayacucho-2012.
 - Stoorvogel, J. J., Jaramillo, R., Merino, R., & Kosten, S. (2003). Plaguicidas en el medio ambiente. In Los Plaguicidas. Impactos en produccion, salud y medio ambiente en Carchi, Ecuador (pp. 49-69). Centro International de la Papa.
-- INEI. (2022). Ayacucho Compendio Estadístico. https://goo.su/pp3zV
+- INEI. (2023). Cinco departamentos concentraron más del 50% de la producción de papa logrando un crecimiento de 13,3% en julio 2023.
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
