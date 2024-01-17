@@ -90,3 +90,5 @@ Referencia: Problemática
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
+-Osorio, N. W. (2012). pH DEL SUELO Y DISPONIBILIDAD DE NUTRIENTES. 1(4).
+https://www.bioedafologia.com/sites/default/files/documentos/pdf/pH-del-suelo-y-nutrientes.pdf
