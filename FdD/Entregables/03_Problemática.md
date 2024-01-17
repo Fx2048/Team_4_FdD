@@ -28,7 +28,7 @@
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 🚜FUENTES BIBLIOGRÁFICAS: 
-[🎯⛓️Bibliografía base para la constitución del mapa de empatía](../../Bibliografía/Indent_problema.txt)
+[🎯⛓️Bibliografía base para la constitución del mapa de empatía,journey map, diagrama de Ishikawa](../../Bibliografía/Indent_problema.txt)
 
 [🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
 
