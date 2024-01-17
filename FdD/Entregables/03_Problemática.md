@@ -32,7 +32,7 @@
 ## 🚜FUENTES BIBLIOGRÁFICAS: 
 [🎯⛓️Bibliografía base para la constitución del mapa de empatía](../../Bibliografía/Indent_problema.txt)
 
-[🎯⛓️Bibliografía para el hallazo de la problemática](../../Bibliografía/Indent_problema.txt)
+[🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
 
 
 🚜Referencia: mapa de empatía
