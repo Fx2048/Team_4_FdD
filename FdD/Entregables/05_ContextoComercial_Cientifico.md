@@ -48,6 +48,6 @@ Investigación de la situación actual del ámbito comercial y científico, así
 #### 🚜Precio:
 #### 🚜Descripción:
 
-##ESTRATEGIA SOLUCIÓN:
+## 🚜ESTRATEGIA SOLUCIÓN:
 ## 🚜BIBLIOGRAFÍA
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
