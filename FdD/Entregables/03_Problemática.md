@@ -16,7 +16,7 @@
 
 ## <p > 🚜 PROBLEMÁTICA 🔍</p>
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.png" width="850" height="470" style="margin: auto;"></P>
-## Fuente [(Soriano, M. 2021)](https://github.com/Fx2048/Team_4_FdD/tree/main/Documentaci%C3%B3n/IDENTIFICACI%C3%93N%20DEL%20PROBLEMA)
+## Fuente [Soriano, M. 2021](https://github.com/Fx2048/Team_4_FdD/tree/main/Documentaci%C3%B3n/IDENTIFICACI%C3%93N%20DEL%20PROBLEMA)
 
 
 ## <p > 🚜 ESTRATEGIA APLICADA PARA ABORDAR EL PROBLEMA 🔍</p>
