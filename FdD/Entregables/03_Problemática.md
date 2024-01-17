@@ -17,12 +17,10 @@
 ## <p > 🚜 PROBLEMÁTICA 🔍</p>
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.jpg" width="850" height="470" style="margin: auto;"></P>
 
-#### Fuente bibliográfica sobre la alteración de pH:
-
-[Soriano, M. 2021](https://github.com/Fx2048/Team_4_FdD/tree/main/Documentaci%C3%B3n/IDENTIFICACI%C3%93N%20DEL%20PROBLEMA)
 
 
 ## <p > 🚜 ESTRATEGIA APLICADA PARA ABORDAR EL PROBLEMA 🔍</p>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/estrategia.jpg" width="850" height="470" style="margin: auto;"></P>
 
 
 ## <p> 🚜PPT completo, acceder al siguiente enlace:🔍 </p>
@@ -127,3 +125,4 @@ Referencia: Problemática
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
+- Soriano, M. (2021). pH del suelo. Universidad Politécnica de Valencia. https://riunet.upv.es/bitstream/handle/10251/102382/Soriano%20-%20pHdel%20suelo.pdf?sequence=1 
