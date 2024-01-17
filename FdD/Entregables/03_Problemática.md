@@ -15,7 +15,7 @@
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/Ishikawah.png" width="850" height="470" style="margin: auto;"></P>
 
 ## <p > 🚜 PROBLEMÁTICA 🔍</p>
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.png" width="850" height="470" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.jpg" width="850" height="470" style="margin: auto;"></P>
 
 #### Fuente bibliográfica sobre la alteración de pH:
 
