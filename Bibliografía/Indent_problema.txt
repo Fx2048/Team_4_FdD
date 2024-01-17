@@ -1,4 +1,4 @@
-Referencia: mapa de empatía
+🚜Referencia: mapa de empatía
 
 - Salud con lupa. (7 de julio 2023). *De Europa al Perú: el negocio 
   de los pesticidas que amenazan la salud* [Video].Youtube. 
@@ -25,7 +25,9 @@ Referencia: mapa de empatía
   tolerabilidad del carbofurano usando pseudomonas sp proveniente del 
   suelo*. Universidad de la Salle. 
   Obtenido de: https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1000&context=ing_ambiental_sanitaria
-Referencia Journey Map:
+
+🚜Referencia Journey Map:
+
 • D. Balsamo et al., “Graceful Performance Modulation for Power-Neutral Tran�sient Computing Systems,” IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 5, May 2016, pp. 738–49.
 
 • T. Polonelli, D. Brunelli, and L. Benini, “Slotted ALOHA Overlay on LoRaWAN—A Distributed Synchronization Approach,” 2018 IEEE 16th Int’l. Conf. Embedded and Ubiquitous Computing, Oct 2018, pp. 129–32.
@@ -80,75 +82,11 @@ Referencia: Problemática
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
-Sitios web:
-Referencia: mapa de empatía
 
-- Salud con lupa. (7 de julio 2023). *De Europa al Perú: el negocio 
-  de los pesticidas que amenazan la salud* [Video].Youtube. 
-  https://www.youtube.com/watch?v=xnMsnuSX57M
-- RPP Noticias. (20 de octubre 2023). *Residuos de pesticida generaría 
-  algunos desajustes en la salud pública, según ingeniero agrónomo* 
-  [Video]. Youtube. https://www.youtube.com/watch?v=s8I_tjCX6tg
-- TVPerú Noticias. (3 de agosto 2022) . *Senasa advierte que algunos 
-  productos contienen plaguicidas por encima del límite permitido* [Video]. 
-  Youtube. https://www.youtube.com/watch?v=KZ12p_nCNxs
-- TVPerú Noticias. (26 de agosto 2018). *Senasa explica el uso correcto 
-  de plaguicidas* [Video]. Youtube. 
-  https://www.youtube.com/watch?v=Kkx87Eqxjh8
-- TVPerú Noticias. (20 de agosto 2018). *Exceso de plaguicidas en 
-  cultivos pone en riesgo a pobladores* [Video]. Youtube. https://www.youtube.com/watch?v=fbR1ABSkkgo
-- Inia Perú. (27 de noviembre 2018). *Importancia del uso racional 
-  de los pesticidas* [Video]. Youtube. 
-  https://www.youtube.com/watch?v=FgUUJ50oK4U
-- Eva María, T. R. (2019). *Evaluación de la persistencia de carbofuran 
-  en el cultivo de papa solanum tuberosum L.* [Tesis, Universidad 
-  Autónoma del Estado de México]. 
-  https://ri.uaemex.mx/handle/20.500.11799/105108
-- Niño, J. E. M. (2016). *Prueba piloto para la determinación de la 
-  tolerabilidad del carbofurano usando pseudomonas sp proveniente del 
-  suelo*. Universidad de la Salle. 
-  Obtenido de: https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1000&context=ing_ambiental_sanitaria
-
-Referencia: Problemática
+🚜Referencia: Problemática
 - Chuchón Conde, E. Y. (2013). Biodegradación de carbofurán por bacterias aisladas de suelos agrícolas. Ayacucho-2012.
 - Stoorvogel, J. J., Jaramillo, R., Merino, R., & Kosten, S. (2003). Plaguicidas en el medio ambiente. In Los Plaguicidas. Impactos en produccion, salud y medio ambiente en Carchi, Ecuador (pp. 49-69). Centro International de la Papa.
 - INEI. (2022). Ayacucho Compendio Estadístico. https://goo.su/pp3zV
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
--Referencia: mapa de empatía
-
-- Salud con lupa. (7 de julio 2023). *De Europa al Perú: el negocio 
-  de los pesticidas que amenazan la salud* [Video].Youtube. 
-  https://www.youtube.com/watch?v=xnMsnuSX57M
-- RPP Noticias. (20 de octubre 2023). *Residuos de pesticida generaría 
-  algunos desajustes en la salud pública, según ingeniero agrónomo* 
-  [Video]. Youtube. https://www.youtube.com/watch?v=s8I_tjCX6tg
-- TVPerú Noticias. (3 de agosto 2022) . *Senasa advierte que algunos 
-  productos contienen plaguicidas por encima del límite permitido* [Video]. 
-  Youtube. https://www.youtube.com/watch?v=KZ12p_nCNxs
-- TVPerú Noticias. (26 de agosto 2018). *Senasa explica el uso correcto 
-  de plaguicidas* [Video]. Youtube. 
-  https://www.youtube.com/watch?v=Kkx87Eqxjh8
-- TVPerú Noticias. (20 de agosto 2018). *Exceso de plaguicidas en 
-  cultivos pone en riesgo a pobladores* [Video]. Youtube. https://www.youtube.com/watch?v=fbR1ABSkkgo
-- Inia Perú. (27 de noviembre 2018). *Importancia del uso racional 
-  de los pesticidas* [Video]. Youtube. 
-  https://www.youtube.com/watch?v=FgUUJ50oK4U
-- Eva María, T. R. (2019). *Evaluación de la persistencia de carbofuran 
-  en el cultivo de papa solanum tuberosum L.* [Tesis, Universidad 
-  Autónoma del Estado de México]. 
-  https://ri.uaemex.mx/handle/20.500.11799/105108
-- Niño, J. E. M. (2016). *Prueba piloto para la determinación de la 
-  tolerabilidad del carbofurano usando pseudomonas sp proveniente del 
-  suelo*. Universidad de la Salle. 
-  Obtenido de: https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1000&context=ing_ambiental_sanitaria
-
-Referencia: Problemática
-- Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
-- Chuchón Conde, E. Y. (2013). Biodegradación de carbofurán por bacterias aisladas de suelos agrícolas. Ayacucho-2012.
-- INEI. (2022). Ayacucho Compendio Estadístico. https://goo.su/pp3zV
-- Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
-- SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
-- Soriano, M. (2021). pH del suelo. Universidad Politécnica de Valencia. https://riunet.upv.es/bitstream/handle/10251/102382/Soriano%20-%20pHdel%20suelo.pdf?sequence=1
-- Stoorvogel, J. J., Jaramillo, R., Merino, R., & Kosten, S. (2003). Plaguicidas en el medio ambiente. In Los Plaguicidas. Impactos en produccion, salud y medio ambiente en Carchi, Ecuador (pp. 49-69). Centro International de la Papa.
