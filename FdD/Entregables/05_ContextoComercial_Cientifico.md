@@ -1,8 +1,10 @@
-# <p align="center"> PROBLEMÁTICA ACTUALIZADA 🔍</p>
+# <p align="center"> 🚜PROBLEMÁTICA ACTUALIZADA 🔍</p>
+[⛓🛜👉Click para acceder a la problemática](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/03_Problem%C3%A1tica.md)
+
 ## 🚜RECAPITULACIÓN DE LA PROBLEMÁTICA🛜
 ### 🚜 Objetivo:🛜
 Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
-[⛓🛜👉Click para acceder a la problemática](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/03_Problem%C3%A1tica.md)
+
 
 ![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg)
 
@@ -48,6 +50,6 @@ Investigación de la situación actual del ámbito comercial y científico, así
 #### 🚜Precio:
 #### 🚜Descripción:
 
-## 🚜ESTRATEGIA SOLUCIÓN:
-## 🚜BIBLIOGRAFÍA
+##  🚜ESTRATEGIA SOLUCIÓN:
+##  🚜BIBLIOGRAFÍA
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
