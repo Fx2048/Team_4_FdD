@@ -20,7 +20,7 @@ Título:
 ![IoT sensor para el Sistema Smart Agriculture.(Kamelia, L. et al (2019))](https://github.com/Fx2048/Team_4_FdD/assets/131219987/43868154-9e09-4f8b-8748-a07196fbd4df)
 
 Nota:
-El gráfico circular muestra como se observa mayor cantidad de porcentaje en el sector de reconocimiento de pH: Sensores Electro-magnéticos.(14% ) y los sensores de CO2 gracias al sector Gas/chemichals, con 12% de uso. Los más utilizados sensores mencionados antes requieren de IoT, y 
+El gráfico circular muestra como se observa mayor cantidad de porcentaje en el sector de reconocimiento de pH: Sensores Electro-magnéticos.(14% ) y los sensores de CO2 gracias al sector Gas/chemichals, con 12% de uso. Los más utilizados sensores mencionados antes requieren de IoT.
 
 
 
