@@ -91,7 +91,7 @@ El extremo inferior de la carcasa tubular está provisto de una pala en forma de
   <img src="../../Imágenes/Estado_del_arte/Patente_1.png" width="300" height="350" style="margin: auto;">
 </p>
 
-**Fuente:** Dispositivo de medición de gases en el suelo in situ y sin perturbaciones [Imagen](2019).
+**Fuente:** Dispositivo de medición de gases en el suelo in situ y sin perturbaciones (2019). [Imagen]
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
