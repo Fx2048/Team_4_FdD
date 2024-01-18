@@ -13,8 +13,7 @@ Investigación de la situación actual del ámbito comercial y científico, así
 #### 🚜Descripción:
 En esta investigación se analiza el potencial de los WSN o Redes de sensores inalámbricos, gracias a su impacto en las actividad económica de la agricultura, proporcionando un panorama más amplio de las aplicaciones, sensores y técnicas de counicación asociados a las WSN respecto al monitoreo del suelo en tiempo real. Mostrando diversos casos de estudios y soluciones más innovadoras.
 
-Tabla 1:
-
+Tabla 01
 ![Ojha, T. et al (2015)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/16c07f1f-15ac-4976-9796-30812233983b)
 
 
