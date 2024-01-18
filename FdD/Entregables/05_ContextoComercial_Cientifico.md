@@ -11,17 +11,14 @@ Investigación de la situación actual del ámbito comercial y científico, así
 ## ARTÍCULOS
 ### 🚜ARTÍCULO 1 : Wireless sensor networks for agriculture: The state-of-the-art in practice and future challenges
 #### 🚜Descripción:
-En esta investigación se analiza el potencial de los WSN o Redes de sensores inalámbricos, gracias a su impacto en las actividad económica de la agricultura, proporcionando un panorama más amplio de las aplicaciones, sensores y técnicas de counicación asociados a las WSN respecto al monitoreo del suelo en tiempo real. Mostrando diversos casos de estudios y soluciones más innovadoras.
+En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 
-Tabla 01
-![Ojha, T. et al (2015)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/16c07f1f-15ac-4976-9796-30812233983b)
+![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d7f02e48-1643-4bb4-b5f1-586dc415aa81)
 
-
-Ojha, T. et al (2015)
+Gráfica que mmuestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 
 Comparación de sensores junto a diferentes parámetros de medición relacionados al suelo, funcionales para diferentes aplicaciones agrícolas con un alto potencial.
 
-“Ojha et al., 2015.•The existing state-of-the-art in wireless sensor networks for agricultural applications is reviewed thoroughly.Computers and Electronics in Agriculture.Volume 118, October 2015, Pages 66-84. https://doi.org/10.1016/j.compag.2015.08.011
 
 
 
