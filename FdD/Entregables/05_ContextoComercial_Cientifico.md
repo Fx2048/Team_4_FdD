@@ -29,10 +29,13 @@ Comparación de sensores junto a diferentes parámetros de medición relacionado
 
 
 
-### 🚜ARTÍCULO 2 : 
+### 🚜ARTÍCULO 2 : Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
 #### 🚜Descripción: 
+El altículo muestra un análisis genómico de las vías catabólicas aromáticas de Pseudomonas putida KT2440 ha sido estudiado en profundidad. Además menciona que, se ha investigado la degradación de carbofurano por Novosphingobium sp. KN65.2. También se ha desarrollado un método para la eliminación de genes sin marcadores en Pseudomonas putida. Por otro lado, se ha mejorado la transformación de Pseudomonas putida KT2440 mediante electroporación.
+#### 🚜tabla 2 : Degradación simultánea de carbofurano y PC en suelos inoculados con Pseudomonas putida KTU-PGC a razón de 106 células/g de suelo.Símbolos: (●) suelo, inoculado; (▲) suelo, no inoculado.
+![T. Gong et al. (2016)](https://github.com/Fx2048/Team_4_FdD/blob/444be721b4f9c8645bc89db513e963c4f34a4239/Im%C3%A1genes/04_comerci_cientifico/Tabla2_art2.jpg)
 
-#### 🚜tabla 2 :
+Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos por Pseudomonas putida KTU-PGC. Los experimentos de degradación con P. putida KTU-PGC se realizaron a una densidad inicial de inoculación de OD 600 = 0.05 en un medio mínimo M9 suplementado con 100 mg/l de carbofurano y clorpirifos a 30 °C. Los gráficos muestran el crecimiento celular de P. putida KTU-PGC en el medio mínimo M9 suplementado con 100 mg/l de carbofurano o clorpirifos como única fuente de carbono.(T. Gong et al., 2016)
 
 
 ### 🚜ARTÍCULO 3
