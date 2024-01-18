@@ -1,7 +1,7 @@
 #  <p align = "center"> 🚜ESTADO DEL ARTE </p>
 
 <p align="center">
-  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="250" style="margin: auto;">
+  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="350" style="margin: auto;">
 </p>
 
 ### 🚜 Objetivo:🛜
