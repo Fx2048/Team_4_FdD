@@ -1,4 +1,4 @@
-## <p > 🚜ESTADO DEL ARTE🔍</p>
+#  <p align = "center"> 🚜ESTADO DEL ARTE </p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg" width="900" height="250" style="margin: auto;">
@@ -8,7 +8,7 @@
 Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
-## ATÍCULOS
+## ARTÍCULOS
 ### 🚜ARTÍCULO 1 : Real-Time Monitoring System for Measurement Of Soil Fertility Parameters in Smart Farming Applications
 #### 🚜Descripción:
 Sistema web inalámbrico para medir pH y humedad del suelo. El estudio presente investiga y verifica que el monitoreo de los parámetros de pH y de humedad edáficas pueden ser medibles en tiempo real de manera virtual, con el empleo de un microcontrolador Wemos d1 R2, adhedido al módulo wifi esp8266 para una conectividad remota.
