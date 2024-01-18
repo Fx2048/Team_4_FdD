@@ -1,15 +1,19 @@
-# <p align="center"> 🚜PROBLEMÁTICA ACTUALIZADA 🔍</p>
+## <p > 🚜PROBLEMÁTICA ACTUALIZADA 🔍</p>
 [⛓🛜👉Click para acceder a la problemática](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/03_Problem%C3%A1tica.md)
 
-## 🚜RECAPITULACIÓN DE LA PROBLEMÁTICA🛜
+### 🚜RECAPITULACIÓN DE LA PROBLEMÁTICA🛜
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg" width="900" height="250" style="margin: auto;">
+</p>
+
 ### 🚜 Objetivo:🛜
 Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
 
-
-![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg)
-
-## 🚜Contexto CIENTÍFICO
-### 🚜Artículo 1 : Real-Time Monitoring System for Measurement Of Soil Fertility Parameters in Smart Farming Applications
+#  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
+## ATÍCULOS
+### 🚜ARTÍCULO 1 : Real-Time Monitoring System for Measurement Of Soil Fertility Parameters in Smart Farming Applications
 #### 🚜Descripción:
 Sistema web inalámbrico para medir pH y humedad del suelo. El estudio presente investiga y verifica que el monitoreo de los parámetros de pH y de humedad edáficas pueden ser medibles en tiempo real de manera virtual, con el empleo de un microcontrolador Wemos d1 R2, adhedido al módulo wifi esp8266 para una conectividad remota.
 
@@ -30,51 +34,50 @@ Fuente: L. Kamelia, S. Nugraha, M. R. Effendi and S. Gumilar, "Real-Time Monitor
 
 
 
-### 🚜Artículo 2
-#### 🚜Descripción:
-#### 🚜Resultado:
-#### 🚜Figura:
-### 🚜Artículo 3
+### 🚜ARTÍCULO 2
 #### 🚜Descripción:
 #### 🚜Resultado:
 #### 🚜Figura:
 
-## 🚜CONTEXTO COMERCIAL:
-### *💹  EQUIPOS O DISPOSITIVOS EN EL MERCADO:*
-#### 🚜 MODELO 1 (foto):
-##### 🚜Precio:
-##### 🚜Descripción:
 
-#### 🚜 MODELO 2 (foto):
-##### 🚜Precio:
-##### 🚜Descripción:
+### 🚜ARTÍCULO 3
+#### 🚜Descripción:
+#### 🚜Resultado:
+#### 🚜Figura:
 
-#### 🚜 MODELO 3 (foto):
-##### 🚜Precio:
-##### 🚜Descripción:
-
-### *🚜PATENTES:*
+#  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
+## PRODUCTOS
+### 🚜 PRODUCTO 1 (foto):
+#### 🚜Precio:
 #### 🚜Descripción:
 #### 🚜Función:
 #### 🚜Figura:
-### - 🚜Patente 1: PE2021-0638 - UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO
+### - 🚜Patente 1 DE INVENCIÓN:
+#### 🚜Descripción:
 
+### 🚜 PRODUCTO 3 (foto):
+#### 🚜Precio:
 #### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
-### - 🚜Patente 2 DE UTILIDAD:
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
-### - 🚜Patente 3
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
 
-## 🚜LISTA DE REQUERIMIENTOS:
-### 🚜 FUNCIONALES
-### 🚜NO FUNCIONALES
-##  🚜ESTRATEGIA SOLUCIÓN:
+## 🚜PATENTES
+### 🚜PATENTE 1 DE INVENCIÓN:
+
+
+
+
+### 🚜PATENTE 2 DE UTILIDAD:
+
+
+
+
+### 🚜PATENTE 3
+
+
+
+# 🚜LISTA DE REQUERIMIENTOS:
+## 🚜 FUNCIONALES
+## 🚜NO FUNCIONALES
+# 🚜ESTRATEGIA SOLUCIÓN:
 
 ##  🚜BIBLIOGRAFÍA
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
