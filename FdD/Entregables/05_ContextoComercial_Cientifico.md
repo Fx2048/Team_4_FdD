@@ -9,19 +9,16 @@ Investigación de la situación actual del ámbito comercial y científico, así
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
-
 ### 🚜ARTÍCULO 1 : BFSF: A secure IoT based framework for smart farming using blockchain
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 ### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
 ![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06f589a4-0b1b-429c-94cf-18b2c52face2)
-
 Shreya, S. (2023)
-
+Gráfica que muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 El resultado muestra que el modelo de Random Forest funciona mejor con una precisión del 97% en comparación con el Support Vector Classifier (SVC) que tiene un 93%, K-Nearest Neighbors (KNN) con un 90% y Logistic Regression con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.
 
 Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. https://doi.org/10.1016/j.suscom.2023.100917
-
 
 
 
@@ -100,7 +97,7 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
   Los números en los dibujos son: carcasa tubular-1, pala interna en forma de U-2, entrada de aire-3, dispositivo de conexión roscada-4, CO2 Sonda-5, pala en forma de U-6.
 </p>
 <p align ="justify">
-  Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo inferior está equipado con una pala en forma de U, marcada como 6, con una cuchilla que se extiende verticalmente hacia abajo. En la parte superior de la carcasa tubular, se encuentra una entrada de aire numerada como 3. En la pared interna de la parte superior de la carcasa tubular, hay un dispositivo de conexión roscada numerado como 4. Además, dentro de la carcasa tubular, se ha incorporado una pala interna en forma de U, numerada como 2. Esta pala interna en forma de U está conectada a la carcasa tubular mediante la conexión roscada. El dispositivo permite una conexión desmontable, y la carcasa tubular está equipada con una sonda de CO2 numerada como 5.
+  Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo inferior está equipado con una pala en forma de U, marcada como 6, con una cuchilla que se extiende verticalmente hacia abajo. En la parte superior de la carcasa tubular, se encuentra una entrada de aire numerada como 3. En la pared interna de la parte superior de la carcasa tubular, hay un dispositivo de conexión roscada numerado como 4. Además, dentro de la carcasa tubular, se ha incorporado una pala interna en forma de U, numerada como 2. Esta pala interna en forma de U está conectada a la carcasa tubular mediante la conexión roscada. El dispositivo permite una conexión desmontable, y la carcasa tubular está equipada con una sonda de CO2 numerada como 5 (Huang Fen, et al., 2019).
 </p>
 
 ### **🚜PATENTE 2:**
