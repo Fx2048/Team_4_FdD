@@ -14,7 +14,9 @@ Investigación de la situación actual del ámbito comercial y científico, así
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 ### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
 ![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06f589a4-0b1b-429c-94cf-18b2c52face2)
+
 Shreya, S. (2023)
+
 Gráfica que muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 El resultado muestra que el modelo de Random Forest funciona mejor con una precisión del 97% en comparación con el Support Vector Classifier (SVC) que tiene un 93%, K-Nearest Neighbors (KNN) con un 90% y Logistic Regression con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.
 
