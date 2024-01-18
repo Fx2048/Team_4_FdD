@@ -1,8 +1,6 @@
 #  <p align = "center"> 🚜ESTADO DEL ARTE </p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg" width="900" height="250" style="margin: auto;">
-</p>
+![](../../Imágenes/04_comerci_cientifico/logo_04.jpg) 
 
 ### 🚜 Objetivo:🛜
 Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
