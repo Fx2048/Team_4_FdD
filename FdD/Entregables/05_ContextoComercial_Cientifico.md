@@ -90,6 +90,10 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 El extremo inferior de la carcasa tubular está provisto de una pala en forma de U con una cuchilla vertical hacia abajo.
    La carcasa tubular está provista de un entrada de aire
 </p>
+<p align="center">
+  <img src="../../Imágenes/Estado_del_arte/Patente_1.png" width="900" height="350" style="margin: auto;">
+</p>
+
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
