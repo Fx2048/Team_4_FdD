@@ -31,7 +31,7 @@ Comparación de sensores junto a diferentes parámetros de medición relacionado
 
 ### 🚜ARTÍCULO 2: Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
 #### 🚜Descripción: 
-
+El altículo muestra un análisis genómico de las vías catabólicas aromáticas de Pseudomonas putida KT2440 ha sido estudiado en profundidad. Además menciona que, se ha investigado la degradación de carbofurano por Novosphingobium sp. KN65.2. También se ha desarrollado un método para la eliminación de genes sin marcadores en Pseudomonas putida. Por otro lado, se ha mejorado la transformación de Pseudomonas putida KT2440 mediante electroporación.
 #### 🚜tabla 2:
 
 ### 🚜ARTÍCULO 3
