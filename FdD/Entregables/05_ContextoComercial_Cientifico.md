@@ -1,6 +1,8 @@
 #  <p align = "center"> 🚜ESTADO DEL ARTE </p>
 
-![](../../Imágenes/04_comerci_cientifico/logo_04.jpg) 
+<p align="center">
+  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="250" style="margin: auto;">
+</p>
 
 ### 🚜 Objetivo:🛜
 Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
