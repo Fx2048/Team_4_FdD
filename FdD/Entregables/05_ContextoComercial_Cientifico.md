@@ -13,7 +13,7 @@ Investigación de la situación actual del ámbito comercial y científico, así
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 
-![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d7f02e48-1643-4bb4-b5f1-586dc415aa81)
+![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06f589a4-0b1b-429c-94cf-18b2c52face2)
 
 Gráfica que mmuestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 
