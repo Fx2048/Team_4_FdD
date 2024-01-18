@@ -63,6 +63,9 @@ cultivadas en el Perú. Lima, Perú. 219 p.
 • Hooker, W.J. (ed.) (1981). Compendium of potato diseases. St.
 Paul (USA). American Phytopathological Society. 125 p.
 
+• SIPAM, P. (2023). Sistematización del proyecto:" Gestión sostenible de la Agrobiodiversidad y recuperación de ecosistemas vulnerables en la región Andina del Perú a través del Enfoque de Sistemas Importantes del Patrimonio Agrícola Mundial-SIPAM".
+
+### Sitios web
 •Torres, H. (2002). Manual de las enfermedades más importantes
 de la papa en el Perú. Centro Internacional de la Papa
 (CIP). Lima, Perú. 59 p.
@@ -71,14 +74,13 @@ de la papa en el Perú. Centro Internacional de la Papa
 and disorders of Potatoes- A colour handbook.
 Manson Publishing Ltd. London, UK. 176 p.
 
-### Sitios web
+
 
 
 • Dacal, A. C. A. (2022, abril 21). La huella del abuso de los plaguicidas permanece en el suelo durante décadas. Universidad de Las Palmas de Gran Canaria. http://theconversation.com/la-huella-del-abuso-de-los-plaguicidas-permanece-en-el-suelo-durante-decadas-175855
 
 • Xia, J. (2020)Hacia un programa mundial de agricultura sostenible en zonas áridas.Comité de Agricultura.https://www.fao.org/3/nd366es/nd366es.pdf 
 
-• El trabajo “Propuesta de cultivos, crianza, plantaciones forestales y producción acuícola a ser promovidos por el programa Aliados”, se inserta dentro del trabajo de. (s/f). Gob.pe. Recuperado el 14 de enero de 2024, de https://www.midagri.gob.pe/portal/download/pdf/especiales/aliados/Ayacucho.pdf
 
 • Gunstone, T., & Donley, N. (2021). Los pesticidas están matando los suelos del mundo. BIODIVERSIDAD LA. https://www.biodiversidadla.org/Noticias/Los-pesticidas-estan-matando-los-suelos-del-mundo#sidebar
 
