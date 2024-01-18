@@ -15,7 +15,8 @@ En esta investigación se analiza el potencial de los WSN o Redes de sensores in
 
 Tabla 1:
 
-![Ojha, T. et al (2015)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/11a43478-b7cc-4145-8007-5c73486d6fe5)
+![Ojha, T. et al (2015)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/16c07f1f-15ac-4976-9796-30812233983b)
+
 
 Ojha, T. et al (2015)
 
