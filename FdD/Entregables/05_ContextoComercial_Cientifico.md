@@ -56,9 +56,14 @@ Fuente: L. Kamelia, S. Nugraha, M. R. Effendi and S. Gumilar, "Real-Time Monitor
 
 ## 🚜PATENTES
 ### 🚜**PATENTE 1**: *PE2021-0638 - UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO*
+**Fecha de publicación:** 23-03-2021
 
----- YOYOYO
+**Inventores:** 
+- Pedro Antonio GONZALES SANCHEZ
+- Guillermo VASQUEZ RAMIREZ
+- Carlos Armando RIOS LOPEZ  
 
+**Descripción:**
 
 ### 🚜PATENTE 2 DE UTILIDAD:
 
