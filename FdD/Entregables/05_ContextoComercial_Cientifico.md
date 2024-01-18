@@ -63,7 +63,7 @@ Fuente: L. Kamelia, S. Nugraha, M. R. Effendi and S. Gumilar, "Real-Time Monitor
 - Guillermo VASQUEZ RAMIREZ
 - Carlos Armando RIOS LOPEZ  
 
-**Descripción:**
+**Descripción:** ...
 
 ### 🚜PATENTE 2 DE UTILIDAD:
 
