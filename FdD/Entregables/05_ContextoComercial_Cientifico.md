@@ -83,7 +83,10 @@ Precio: S/ 57.00
 - CAO JIANHUA  
 
 **Descripción:**
-<p align ="justify">Este sistema usa el método del pozo, el cual un dispositivo recolecta gas que proporciona el suelo a diferentes profundidades. El modelo de utilidad proporciona un dispositivo de medición de gas del suelo no perturbado in situ, que incluye una carcasa tubular  </p>
+<p align ="justify">Este sistema use basa en el método del pozo, el cual un dispositivo recolecta gas que proporciona el suelo a diferentes profundidades. El modelo de utilidad proporciona un dispositivo de medición de gas del suelo no perturbado in situ, que incluye una carcasa tubular. 
+El extremo inferior de la carcasa tubular está provisto de una pala en forma de U con una cuchilla vertical hacia abajo.
+   La carcasa tubular está provista de un entrada de aire
+</p>
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
