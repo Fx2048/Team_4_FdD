@@ -55,7 +55,7 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 Imágen N°1: SENSOR DE PH, HUMEDAD, LUZ
 
 <p align="center">
-  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_1.png" width="900" height="350" style="margin: auto;">
 </p>
 
 Fuente: Medidor de pH de suelo 3 en 1, medidor de humedad, pH y luz solar, phmetro para plantas y jardines TPH01805A. (s/f). Kusitest. 
