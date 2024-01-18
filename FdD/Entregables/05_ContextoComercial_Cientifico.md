@@ -63,7 +63,9 @@ Precio: S/ 57.00
 
 
 ## 🚜PATENTES
-### 🚜**PATENTE 1**: *PE2021-0638 - UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO*
+### 🚜**PATENTE 1**:
+### <p align = "center"> *PE2021-0638 - UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO*</p>
+
 **Fecha de publicación:** 23-03-2021
 
 **Inventores:** 
@@ -71,7 +73,8 @@ Precio: S/ 57.00
 - Guillermo VASQUEZ RAMIREZ
 - Carlos Armando RIOS LOPEZ  
 
-**Descripción:** ....
+**Descripción:**
+<p align ="justify">...</p>
 
 ### 🚜PATENTE 2 DE UTILIDAD:
 
