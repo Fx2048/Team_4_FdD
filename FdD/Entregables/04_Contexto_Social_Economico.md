@@ -10,7 +10,7 @@
   
   **Figura 1:** Cinética de degradación del carbofurano por parte del consorcio micribiano.
   
-<p>
+
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura%20_1.png" width="600" height="300" style="margin: auto;">
