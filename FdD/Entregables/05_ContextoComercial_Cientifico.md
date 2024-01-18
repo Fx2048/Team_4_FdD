@@ -91,7 +91,7 @@ El extremo inferior de la carcasa tubular está provisto de una pala en forma de
    La carcasa tubular está provista de un entrada de aire
 </p>
 <p align="center">
-  <img src="../../Imágenes/Estado_del_arte/Patente_1.png" width="900" height="350" style="margin: auto;">
+  <img src="../../Imágenes/Estado_del_arte/Patente_1.png" width="300" height="350" style="margin: auto;">
 </p>
 
 
