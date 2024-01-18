@@ -69,15 +69,18 @@ Precio: S/ 57.00
 
 ## 🚜PATENTES
 ### 🚜**PATENTE 1:**
-### <p align = "center"> *UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO*</p>
-**Número de publicación:** 2021-0638
+### <p align = "center"> *UN DISPOSITIVO DE MEDICIÓN DE GASES DEL SUELO IN SITU SIN PERTURBACIONES*</p>
+**Número de publicación:** 208937563
 
-**Fecha de publicación:** 23-03-2021
+**Fecha de publicación:** 04-06-2019
 
 **Inventor:** 
-- Pedro Antonio GONZALES SANCHEZ
-- Guillermo VASQUEZ RAMIREZ
-- Carlos Armando RIOS LOPEZ  
+- HUANG FEN
+- DING MENGKAI
+- YANG HUI
+- WU XIA
+- ZHANG CHUNLAI
+- CAO JIANHUA  
 
 **Descripción:**
 <p align ="justify">...</p>
