@@ -16,9 +16,7 @@ En esta investigación se investigan los modelos de machine learning y block-cha
 ![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06f589a4-0b1b-429c-94cf-18b2c52face2)
 
 Gráfica que mmuestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
-
-Comparación de sensores junto a diferentes parámetros de medición relacionados al suelo, funcionales para diferentes aplicaciones agrícolas con un alto potencial.
-
+El resultado muestra que el modelo de Random Forest funciona mejor con una precisión del 97% en comparación con el Support Vector Classifier (SVC) que tiene un 93%, K-Nearest Neighbors (KNN) con un 90% y Logistic Regression con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.
 
 
 
