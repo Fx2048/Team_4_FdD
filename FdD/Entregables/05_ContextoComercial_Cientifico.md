@@ -22,6 +22,7 @@ Ojha, T. et al (2015)
 
 Comparación de sensores junto a diferentes parámetros de medición relacionados al suelo, funcionales para diferentes aplicaciones agrícolas con un alto potencial.
 
+“Ojha et al., 2015.•The existing state-of-the-art in wireless sensor networks for agricultural applications is reviewed thoroughly.Computers and Electronics in Agriculture.Volume 118, October 2015, Pages 66-84. https://doi.org/10.1016/j.compag.2015.08.011
 
 
 
