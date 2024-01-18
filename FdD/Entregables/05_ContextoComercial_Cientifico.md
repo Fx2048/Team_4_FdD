@@ -52,14 +52,15 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 
 <p align ="justify">El sensor TPH01805A  tiene la funcionalidad de medir las condiciones de humedad, luz y pH del suelo, frutas, flores , verduras, arbustos, etc y cuenta con una alta precisión, así mismo, está compuesto por una escala de lectura de la luz que mide una intensidad de  0-2000 Lux, humedad en una escala de 1-10 y pH que mide desde 3.5-8, para un mejor uso cuenta con un swich para cada uno que se desea identificar. Por otra parte, contiene un sensor de ph  teniendo el color rojo y verde y el sensor de humedad que se basa en el rojo, verde y azul cada uno con una escala distinta. Al mismo tiempo, se puede utilizar con una sola mano e ir visualizando en tiempo real sus resultados. </p>
 
-Imágen N°1: SENSOR DE PH, HUMEDAD, LUZ
+**Imágen N°1:** SENSOR DE PH, HUMEDAD, LUZ
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_1.png" width="900" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_1.png" width="400" height="500" style="margin: auto;">
 </p>
 
-Fuente: Medidor de pH de suelo 3 en 1, medidor de humedad, pH y luz solar, phmetro para plantas y jardines TPH01805A. (s/f). Kusitest. 
-Precio: S/ 57.00
+**Fuente:** Medidor de pH de suelo 3 en 1, medidor de humedad, pH y luz solar, phmetro para plantas y jardines TPH01805A. (s/f). Kusitest. 
+
+**Precio:** S/ 57.00
 
 
 ### 🚜 PRODUCTO 2 (foto):
