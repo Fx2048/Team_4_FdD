@@ -81,20 +81,30 @@ Precio: S/ 57.00
 <p align ="justify">...</p>
 
 ### **🚜PATENTE 2:**
-### <p align = "center"> *APARATO Y MÉTODO PARA MEDIR GASES EN EL SUELO*</p>
-**Número de publicación:** US7520186B2
+### <p align = "center"> *A*</p>
+**Número de publicación:** 
 
-**Fecha de publicación:** 23-03-2021
+**Fecha de publicación:** 
 
 **Inventor:** 
-- David A. RIESGO
+- D
 
 **Descripción:**
 <p align ="justify">...</p>
 
 
+### **🚜PATENTE 3:**
+### <p align = "center"> *A*</p>
+**Número de publicación:** 
 
-### 🚜PATENTE 3
+**Fecha de publicación:** 
+
+**Inventor:** 
+- D
+
+**Descripción:**
+<p align ="justify">...</p>
+
 
 
 
