@@ -9,10 +9,9 @@ Investigación de la situación actual del ámbito comercial y científico, así
 ![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/04_comerci_cientifico/logo_04.jpg)
 
 ## 🚜Contexto CIENTÍFICO
-### 🚜Artículo 1 : BFSF: A secure IoT based framework for smart farming using blockchain
-(BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain)
+### 🚜Artículo 1 : Real-Time Monitoring System for Measurement Of Soil Fertility Parameters in Smart Farming Applications
 #### 🚜Descripción:
-
+Sistema web inalámbrico para medir pH y humedad del suelo. El estudio presente investiga y verifica que el monitoreo de los parámetros de pH y de humedad edáficas pueden ser medibles en tiempo real de manera virtual, con el empleo de un microcontrolador Wemos d1 R2, adhedido al módulo wifi esp8266 para una conectividad remota.
 
 #### 🚜Resultado:
  El sensor utilizado en el sistema es el sensor FC-28 para medir la humedad del suelo y el ETP-110 para medir los valores de pH. Los resultados de las mediciones de pH y humedad del suelo se muestran en el sitio web. Los resultados de la comparación de las mediciones de pH del suelo con un analizador de suelos como control y el sensor de pH ETP-110 mostraron una diferencia promedio de 1.58, mientras que la comparación de las mediciones de FC-28 y Soil Analyzer dio una diferencia de 0.6% para el valor de humedad. Esta investigación construyó con éxito un sistema que puede mostrar datos en el sitio web cuyo valor es el mismo que el valor en la base de datos.
