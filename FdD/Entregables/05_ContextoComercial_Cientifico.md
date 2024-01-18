@@ -29,11 +29,10 @@ Comparación de sensores junto a diferentes parámetros de medición relacionado
 
 
 
-### 🚜ARTÍCULO 2
-#### 🚜Descripción:
-#### 🚜Resultado:
-#### 🚜Figura:
+### 🚜ARTÍCULO 2: Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
+#### 🚜Descripción: 
 
+#### 🚜tabla 2:
 
 ### 🚜ARTÍCULO 3
 #### 🚜Descripción:
