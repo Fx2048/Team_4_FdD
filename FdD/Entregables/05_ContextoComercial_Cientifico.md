@@ -57,7 +57,8 @@ Fuente: L. Kamelia, S. Nugraha, M. R. Effendi and S. Gumilar, "Real-Time Monitor
 #### 🚜Descripción:
 #### 🚜Función:
 #### 🚜Figura:
-### - 🚜Patente 1 DE INVENCIÓN:
+### - 🚜Patente 1: PE2021-0638 - UN SISTEMA DE RED TELEMÁTICA DE DETECCIÓN DE CO2 PARA EL PROCESO DE CUANTIFICACIÓN DE CARBONO ORGÁNICO DEL SUELO
+
 #### 🚜Descripción:
 #### 🚜Función:
 #### 🚜Figura:
