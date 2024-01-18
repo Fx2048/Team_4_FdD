@@ -38,34 +38,38 @@ Fuente: L. Kamelia, S. Nugraha, M. R. Effendi and S. Gumilar, "Real-Time Monitor
 #### 🚜Descripción:
 #### 🚜Resultado:
 #### 🚜Figura:
-## 🚜PATENTES
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
-### 🚜Patente 1 DE INVENCIÓN:
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
-### 🚜Patente 2 DE UTILIDAD:
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
-### 🚜Patente 3
-#### 🚜Descripción:
-#### 🚜Función:
-#### 🚜Figura:
+
 ## 🚜CONTEXTO COMERCIAL:
-### 🚜 MODELO 1 (foto):
-#### 🚜Precio:
-#### 🚜Descripción:
+### *💹  EQUIPOS O DISPOSITIVOS EN EL MERCADO:*
+#### 🚜 MODELO 1 (foto):
+##### 🚜Precio:
+##### 🚜Descripción:
 
-### 🚜 MODELO 2 (foto):
-#### 🚜Precio:
-#### 🚜Descripción:
+#### 🚜 MODELO 2 (foto):
+##### 🚜Precio:
+##### 🚜Descripción:
 
-### 🚜 MODELO 3 (foto):
-#### 🚜Precio:
+#### 🚜 MODELO 3 (foto):
+##### 🚜Precio:
+##### 🚜Descripción:
+
+### *🚜PATENTES:*
 #### 🚜Descripción:
+#### 🚜Función:
+#### 🚜Figura:
+### - 🚜Patente 1 DE INVENCIÓN:
+#### 🚜Descripción:
+#### 🚜Función:
+#### 🚜Figura:
+### - 🚜Patente 2 DE UTILIDAD:
+#### 🚜Descripción:
+#### 🚜Función:
+#### 🚜Figura:
+### - 🚜Patente 3
+#### 🚜Descripción:
+#### 🚜Función:
+#### 🚜Figura:
+
 ## 🚜LISTA DE REQUERIMIENTOS:
 ### 🚜 FUNCIONALES
 ### 🚜NO FUNCIONALES
