@@ -83,15 +83,18 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 - CAO JIANHUA  
 
 **Descripción:**
-<p align ="justify">Este sistema use basa en el método del pozo, el cual un dispositivo recolecta gas que proporciona el suelo a diferentes profundidades. El modelo de utilidad proporciona un dispositivo de medición de gas del suelo no perturbado in situ, que incluye una carcasa tubular. 
-El extremo inferior de la carcasa tubular está provisto de una pala en forma de U con una cuchilla vertical hacia abajo.
-   La carcasa tubular está provista de un entrada de aire
+<p align ="justify">Este sistema se basa en el método del pozo, en el cual un dispositivo recolecta gas del suelo a diferentes profundidades. El modelo de utilidad proporciona un dispositivo de medición de gas del suelo no perturbado in situ, cuyas componentes se detallan en la Figura 1.
+
+**Figura 1:** *Componentes del dispositivo de medición de gas del suelo*
+
 </p>
 <p align="center">
   <img src="../../Imágenes/Estado_del_arte/Patente_1.png" width="300" height="350" style="margin: auto;">
 </p>
 
 **Fuente:** Dispositivo de medición de gases en el suelo in situ y sin perturbaciones (2019). [Imagen]
+
+Los números en los dibujos son: carcasa tubular-1, pala interna en forma de U-2, entrada de aire-3, dispositivo de conexión roscada-4, CO2 Sonda-5, pala en forma de U-6.
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
