@@ -135,11 +135,13 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> *A*</p>
+### <p align = "center"> *SISTEMA DE CULTIVO URBANO*</p>
 **Número de publicación:** 
+2 504 818
 
 **Fecha de publicación:** 
 2014
+
 **Inventor:** 
 - BRIZ ESCRIBANO, Julián;
 - DURAN ALTISENT, José María y
@@ -149,8 +151,10 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 <p align ="justify">Código : US 2011247265 A1 (TSAI-WEN-KUEI) 
 2011
 
-Un sistema capaz de medir pH, humedad, temperatura, CO2.
-Se describe un sistema de cultivo urbano para concentrar CO2, y a través de luces fotovoltaicas O-LED recolecta información de la intensidad y frecuencia lumínica, también su modelo es adaptable para incluir paneles solares.</p>
+La patente describe un sistema de cultivo urbano que permite el cultivo de especies hortícolas y ornamentales en azoteas o terrazas de edificios, aprovechando el CO2, la energía solar y la iluminación nocturna mediante O-LEDs1.
+El sistema de cultivo urbano tiene ventajas medioambientales, económicas y sociales, como la reducción del gradiente térmico, la captura de CO2, la producción de oxígeno, la disminución de la contaminación atmosférica y acústica, la producción de alimentos ecológicos y la creación de empleo.
+El sistema de cultivo urbano se basa en una envolvente plástica que confina el CO2 procedente de las calderas del edificio o de materiales porosos, una plataforma de iluminación que emite luz en el espectro adecuado para cada cultivo, un regulador de iluminación que varía la intensidad luminosa en función de los sensores de temperatura, humedad, radiación, etc., y unos medios de procesamiento que controlan el regulador de iluminación mediante un autómata programable.
+El sistema de cultivo urbano también incluye un aljibe con aliviadero para recoger el agua de lluvia, una tubería de fertirrigación para suministrar nutrientes al sustrato, una lámina impermeable para aislar la cubierta, y un manual de buenas prácticas de cultivo para conducir el cultivo de cada especie.</p>
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ccfbe545-8104-459a-88e2-61aa41e5c806)
