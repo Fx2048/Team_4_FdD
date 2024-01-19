@@ -195,8 +195,8 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 
 (托尼·米勒, et al,2018)
 
-托尼·米勒, 皮埃尔-亨利·勒贝纳雷, & 雨果·马洛里. (2018). Soil chemistry sensor (Patent Núm. CN:104884947:B). En Patent (CN:104884947:B).
-[URL](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1)
+
+Miller, T., Le Bernalet, P. & Mallory, H. (2018). *Soil chemistry sensor*(Patent Núm. CN:104884947:B). En Patent (CN:104884947:B). Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1
 
 [pdf](../../Documentación/pt2.pdf)
 
