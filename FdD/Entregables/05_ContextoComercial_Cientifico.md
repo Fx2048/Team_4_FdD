@@ -97,8 +97,11 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
   Los números en los dibujos son: carcasa tubular-1, pala interna en forma de U-2, entrada de aire-3, dispositivo de conexión roscada-4, CO2 Sonda-5, pala en forma de U-6.
 </p>
 <p align ="justify">
-  Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo inferior está equipado con una pala en forma de U, marcada como 6, con una cuchilla que se extiende verticalmente hacia abajo. En la parte superior de la carcasa tubular, se encuentra una entrada de aire numerada como 3. En la pared interna de la parte superior de la carcasa tubular, hay un dispositivo de conexión roscada numerado como 4. Además, dentro de la carcasa tubular, se ha incorporado una pala interna en forma de U, numerada como 2. Esta pala interna en forma de U está conectada a la carcasa tubular mediante la conexión roscada. El dispositivo permite una conexión desmontable, y la carcasa tubular está equipada con una sonda de CO2 numerada como 5 (Huang Fen, et al., 2019).
+  Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo inferior está equipado con una pala en forma de U, marcada como 6, con una cuchilla que se extiende verticalmente hacia abajo. En la parte superior de la carcasa tubular, se encuentra una entrada de aire numerada como 3. En la pared interna de la parte superior de la carcasa tubular, hay un dispositivo de conexión roscada numerado como 4. Además, dentro de la carcasa tubular, se ha incorporado una pala interna en forma de U, numerada como 2. Esta pala interna en forma de U está conectada a la carcasa tubular mediante la conexión roscada. El dispositivo permite una conexión desmontable, y la carcasa tubular está equipada con una sonda de CO2 numerada como 5 (Huang Fen et al., 2019).
 </p>
+
+**Referencia:**
+Huang, F., DING, M., YANG, H., WU, X., ZHANG, C. & CAO J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301  
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
