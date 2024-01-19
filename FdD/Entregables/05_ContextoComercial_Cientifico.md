@@ -39,7 +39,7 @@ El altículo muestra que han desarrollado una cepa recombinante de Pseudomonas p
 
 La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en suelos inoculados con Pseudomonas putida KTU-PGC a una tasa de 10^6 células/g de suelo. Muestra la disminución de la concentración de carbofurano y clorpirifos en el suelo a lo largo del tiempo, demostrando la capacidad de la cepa recombinante para degradar ambos pesticidas(T. Gong et al., 2016).
 
-
+**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016).
 
 
 
