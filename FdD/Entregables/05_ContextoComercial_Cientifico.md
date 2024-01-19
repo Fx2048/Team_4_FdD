@@ -31,11 +31,12 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 ### 🚜ARTÍCULO 2 : Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
 #### 🚜Descripción: 
-El altículo muestra un análisis genómico de las vías catabólicas aromáticas de Pseudomonas putida KT2440 ha sido estudiado en profundidad. Además menciona que, se ha investigado la degradación de carbofurano por Novosphingobium sp. KN65.2. También se ha desarrollado un método para la eliminación de genes sin marcadores en Pseudomonas putida.
+El altículo muestra que han desarrollado una cepa recombinante de Pseudomonas putida KT2440 capaz de degradar simultáneamente los pesticidas carbofurano y clorpirifos en suelos agrícolas. Estos pesticidas son ampliamente utilizados en la agricultura pero representan un riesgo para la salud humana y el medio ambiente. La cepa recombinante mostró una mayor tasa de degradación de los pesticidas en comparación con los compuestos originales. Además, la cepa recombinante es capaz de utilizar el carbofurano y el clorpirifos como únicas fuentes de carbono para su crecimiento. Se introdujo una proteína fluorescente verde en la cepa recombinante como biomarcador para rastrear su presencia durante la biorremediación de suelos contaminados con carbofurano y clorpirifos. Estos resultados sugieren que la cepa recombinante tiene el potencial de ser aplicada en la biorremediación de suelos agrícolas contaminados con estos pesticidas(T. Gong et al., 2016).
+
 #### 🚜tabla 2 : Degradación simultánea de carbofurano y PC en suelos inoculados con Pseudomonas putida KTU-PGC a razón de 106 células/g de suelo.Símbolos: (●) suelo, inoculado; (▲) suelo, no inoculado(T. Gong et al., 2016).
 ![T. Gong et al. (2016)](https://github.com/Fx2048/Team_4_FdD/blob/1ff248c9ab3929edb5bc76d0521324d4ae98cad8/Im%C3%A1genes/04_comerci_cientifico/art2.jpg)
 
-Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos por Pseudomonas putida KTU-PGC. Los experimentos de degradación con P. putida KTU-PGC se realizaron a una densidad inicial de inoculación de OD 600 = 0.05 en un medio mínimo M9 suplementado con 100 mg/l de carbofurano y clorpirifos a 30 °C. Los gráficos muestran el crecimiento celular de P. putida KTU-PGC en el medio mínimo M9 suplementado con 100 mg/l de carbofurano o clorpirifos como única fuente de carbono.(T. Gong et al., 2016)
+La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en suelos inoculados con Pseudomonas putida KTU-PGC a una tasa de 10^6 células/g de suelo. Muestra la disminución de la concentración de carbofurano y clorpirifos en el suelo a lo largo del tiempo, demostrando la capacidad de la cepa recombinante para degradar ambos pesticidas(T. Gong et al., 2016).
 
 
 ### 🚜ARTÍCULO 3
@@ -134,18 +135,29 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> *A*</p>
+### <p align = "center"> *SISTEMA DE CULTIVO URBANO*</p>
 **Número de publicación:** 
+2 504 818
 
 **Fecha de publicación:** 
+2014
 
 **Inventor:** 
-- D
+- BRIZ ESCRIBANO, Julián;
+- DURAN ALTISENT, José María y
+- NAVAS GRACIA, Luis Manuel
 
 **Descripción:**
-<p align ="justify">...</p>
+<p align ="justify">Código : US 2011247265 A1 (TSAI-WEN-KUEI) 
+2011
+
+La patente describe un sistema de cultivo urbano que permite el cultivo de especies hortícolas y ornamentales en azoteas o terrazas de edificios, aprovechando el CO2, la energía solar y la iluminación nocturna mediante O-LEDs1.
+El sistema de cultivo urbano tiene ventajas medioambientales, económicas y sociales, como la reducción del gradiente térmico, la captura de CO2, la producción de oxígeno, la disminución de la contaminación atmosférica y acústica, la producción de alimentos ecológicos y la creación de empleo.
+El sistema de cultivo urbano se basa en una envolvente plástica que confina el CO2 procedente de las calderas del edificio o de materiales porosos, una plataforma de iluminación que emite luz en el espectro adecuado para cada cultivo, un regulador de iluminación que varía la intensidad luminosa en función de los sensores de temperatura, humedad, radiación, etc., y unos medios de procesamiento que controlan el regulador de iluminación mediante un autómata programable.
+El sistema de cultivo urbano también incluye un aljibe con aliviadero para recoger el agua de lluvia, una tubería de fertirrigación para suministrar nutrientes al sustrato, una lámina impermeable para aislar la cubierta, y un manual de buenas prácticas de cultivo para conducir el cultivo de cada especie.</p>
 
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ccfbe545-8104-459a-88e2-61aa41e5c806)
 
 
 ## 🚜LISTA DE REQUERIMIENTOS:
