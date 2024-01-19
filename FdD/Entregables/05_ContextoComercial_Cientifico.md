@@ -136,30 +136,32 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> *SISTEMA DE CULTIVO URBANO*</p>
+### <p align = "center"> *Método y sistema para medir múltiples propiedades del suelo*</p>
 **Número de publicación:** 
-2 504 818
+US9651536B1
 
 **Fecha de publicación:** 
-2014
+2017
 
 **Inventor:** 
-- BRIZ ESCRIBANO, Julián;
-- DURAN ALTISENT, José María y
-- NAVAS GRACIA, Luis Manuel
+-Lund, E.
+-Salina, KS. 
+-Chase, A.
+-Kyle Jensen, M.
+
 
 **Descripción:**
-<p align ="justify">Código : US 2011247265 A1 (TSAI-WEN-KUEI) 
-2011
+<p align ="justify"> Código : US9651536B1  </p>
 
-La patente describe un sistema de cultivo urbano que permite el cultivo de especies hortícolas y ornamentales en azoteas o terrazas de edificios, aprovechando el CO2, la energía solar y la iluminación nocturna mediante O-LEDs1.
-El sistema de cultivo urbano tiene ventajas medioambientales, económicas y sociales, como la reducción del gradiente térmico, la captura de CO2, la producción de oxígeno, la disminución de la contaminación atmosférica y acústica, la producción de alimentos ecológicos y la creación de empleo.
-El sistema de cultivo urbano se basa en una envolvente plástica que confina el CO2 procedente de las calderas del edificio o de materiales porosos, una plataforma de iluminación que emite luz en el espectro adecuado para cada cultivo, un regulador de iluminación que varía la intensidad luminosa en función de los sensores de temperatura, humedad, radiación, etc., y unos medios de procesamiento que controlan el regulador de iluminación mediante un autómata programable.
-El sistema de cultivo urbano también incluye un aljibe con aliviadero para recoger el agua de lluvia, una tubería de fertirrigación para suministrar nutrientes al sustrato, una lámina impermeable para aislar la cubierta, y un manual de buenas prácticas de cultivo para conducir el cultivo de cada especie.</p>
+La patente describe un sistema que utiliza un módulo sensor montado en un implemento para atravesar un campo y que recoge datos del suelo en contacto con una placa de desgaste en la parte inferior del módulo.
+El módulo sensor incluye un módulo óptico, un dispositivo de medición de la conductividad eléctrica del suelo, un dispositivo de medición de la humedad del suelo y un dispositivo de medición de la temperatura del suelo, que se organizan para medir las propiedades del suelo a aproximadamente la misma profundidad y en estrecha proximidad al módulo óptico.
+Los datos recogidos por el módulo sensor se pueden utilizar para mejorar diversos procesos, como la irrigación variable, el mapeo del suelo y la siembra, mediante el uso de un controlador que crea un mapa georreferenciado de los datos y que ajusta la profundidad de operación del módulo sensor y/o la tasa de siembra en tiempo real en función de las propiedades del suelo.</p>
+#### Imagen 3 : Diseño del prototipo patentado
+ ![Lund, E.,et al.(2017)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c)
 
+Lund, E.,et al.(2017)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ccfbe545-8104-459a-88e2-61aa41e5c806)
-
+Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
 
 ## 🚜LISTA DE REQUERIMIENTOS:
 ### 🚜 FUNCIONALES
