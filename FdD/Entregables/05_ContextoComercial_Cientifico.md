@@ -170,26 +170,29 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 
 
 ### **🚜PATENTE 2:**
-### <p align = "center"> *Derivados tetracíclicos activos como plaguicidas con sustituyentes que contienen azufre
+### <p align = "center"> *Sensor químico del suelo
 *</p>
 **Número de publicación:** 
-2 731 078 
+CN104884947B
 **Fecha de publicación:** 
-2019
-**Inventor:** 
--  JUNG, PIERRE JOSEPH MARCEL
--   HUETER, OTTMAR FRANZ
--   EDMUNDS, ANDREW
--   MUEHLEBACH, MICHEL
--   HALL, ROGER GRAHAM
--   CASSAYRE, JÉRÔME YVES  
+2018
+**Inventores:** 
+-托尼·米勒
+-皮埃尔-亨利·勒贝纳雷
+-& 雨果·马洛里
 
 **Descripción:**
-<p align ="justify">La presente invención se refiere a derivados tetracíclicos activos como plaguicidas, en particular a derivados tetracíclicos activos como plaguicidas que contienen sustituyentes de azufre, a composiciones que comprenden esos compuestos y a su uso para controlar plagas de animales (incluyendo artrópodos y, en particular, insectos o representantes del orden Acarina). 10 Compuestos heterocíclicos con acción plaguicida son conocidos y se describen, por ejemplo, en los documentos WO 2012/086848 y WO 2013/018928. Se han encontrado ahora nuevos derivados tetracíclicos activos como plaguicidas con un resto bicíclico que 15 contiene azufre. La presente invención se refiere, por consiguiente, a compuestos de fórmula I,![JUNG, P. et al, 2019](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a1a81a65-86ac-48ef-b4d6-f13cef94a266)
+<p align ="justify">Describimos un tipo de sensor de química del suelo para la detección química del suelo de posición original, el sensor incluye la sonda, la sonda combina primero, ISE y segundo, electrodo de referencia, en el que ISE descrito incluye la primera carcasa del electrodo para limitar la primera cámara del tubo, la primera cámara del tubo tiene el tapón de selectividad iónica hacia el extremo distal, el primer electrodo se incluye en el primer conductor en el primer electrolito, En el que el electrodo de referencia descrito incluye la segunda carcasa del electrodo para limitar la segunda cámara del tubo, la segunda cámara del tubo tiene el tapón del electrodo de referencia poroso hacia el extremo distal, el segundo electrodo se incluye en el segundo conductor del segundo electrolito, en el que el tapón de selectividad iónica descrito y el tapón del electrodo de referencia poroso están entre sí en 10 mm, Y en el que se describe el tapón de electrodo de referencia poroso y cada polímero autónomo del tapón de selectividad iónica.
 </p>
-(JUNG, P. et al, 2019)
+(托尼·米勒, et al,2018)
 
+![托尼·米勒, et al (2018)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e)
+(托尼·米勒, et al,2018)
 
+托尼·米勒, 皮埃尔-亨利·勒贝纳雷, & 雨果·马洛里. (2018). Soil chemistry sensor (Patent Núm. CN:104884947:B). En Patent (CN:104884947:B).
+[url](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301)
+
+[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/pt2.pdf)
 ### **🚜PATENTE 3:**
 ### <p align = "center"> *Método y sistema para medir múltiples propiedades del suelo*</p>
 **Número de publicación:** 
