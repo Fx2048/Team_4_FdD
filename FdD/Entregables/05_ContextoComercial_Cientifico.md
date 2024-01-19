@@ -68,7 +68,9 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 ### 🚜 PRODUCTO 1:
 ### <p align = "center"> SENSOR TPH01805A</p>
 
-<p align ="justify">El sensor TPH01805A  tiene la funcionalidad de medir las condiciones de humedad, luz y pH del suelo, frutas, flores , verduras, arbustos, etc y cuenta con una alta precisión, así mismo, está compuesto por una escala de lectura de la luz que mide una intensidad de  0-2000 Lux, humedad en una escala de 1-10 y pH que mide desde 3.5-8, para un mejor uso cuenta con un swich para cada uno que se desea identificar. Por otra parte, contiene un sensor de ph  teniendo el color rojo y verde y el sensor de humedad que se basa en el rojo, verde y azul cada uno con una escala distinta. Al mismo tiempo, se puede utilizar con una sola mano e ir visualizando en tiempo real sus resultados. </p>
+<p align ="justify">El sensor TPH01805A ofrece una funcionalidad integral al medir las condiciones de humedad, luz y pH en diversas aplicaciones como suelos, frutas, flores, verduras y arbustos. Destaca por su alta precisión, con una escala de lectura de luz que abarca desde 0 hasta 2000 Lux. Además, permite evaluar la humedad en una escala de 1 a 10 y el pH en un rango de 3.5 a 8, brindando versatilidad para diferentes entornos.</p>
+<p align ="justify">
+Cada parámetro cuenta con un interruptor dedicado para una identificación sencilla. El sensor de pH presenta indicadores de color en rojo y verde, mientras que el sensor de humedad utiliza el espectro de colores rojo, verde y azul, cada uno con su propia escala única. Su diseño ergonómico facilita su uso con una sola mano, permitiendo al usuario visualizar en tiempo real los resultados de manera conveniente y eficiente. </p>
 
 **Parámetros:** humedad, pH, Luz
 
@@ -85,7 +87,7 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 ### 🚜 PRODUCTO 2:
 ### <p align = "center"> MEDIDOR DE DIÓXIDO DE CARBONO CO2 CALIDAD DE AIRE 5 EN 1</p>
 
-<p align ="justify">El "Medidor de Dióxido de Carbono CO2 Calidad de Aire 5 en 1", disponible en la tienda virtual de Mercado Libre, es una herramienta increíblemente útil para evaluar la calidad del aire en diferentes entornos. Este dispositivo va más allá al proporcionar mediciones precisas de varios parámetros clave, incluyendo niveles de CO2, compuestos volátiles orgánicos totales (TVOC), formaldehído, temperatura y humedad. Estos datos en tiempo real ofrecen una visión completa de la calidad del aire, permitiendo a los usuarios tomar decisiones informadas.</p>
+<p align ="justify">El "Medidor de Dióxido de Carbono CO2 Calidad de Aire 5 en 1", disponible en la tienda virtual de Mercado Libre, es una herramienta imprescindible para evaluar la calidad del aire en diversos entornos. Este dispositivo va más allá al proporcionar mediciones precisas de varios parámetros clave, entre ellos, niveles de CO2, compuestos volátiles orgánicos totales (TVOC), formaldehído, temperatura y humedad. Con la capacidad de ofrecer datos en tiempo real, brinda una visión completa de la calidad del aire, permitiendo a los usuarios tomar decisiones informadas para mejorar el entorno en el que se encuentran. Esta versatilidad y precisión hacen del medidor una herramienta esencial para garantizar ambientes saludables y seguros. No solo se limita a indicar la presencia de CO2, sino que también abarca factores adicionales que afectan la calidad del aire, convirtiéndolo en un aliado integral para el bienestar ambiental. La facilidad de acceso a través de Mercado Libre facilita a los usuarios adquirir esta herramienta avanzada y mantener un control constante sobre la calidad del aire en sus espacios.</p>
 
 **Parámetros:** CO2, TVOC (Compuestos Volátiles Orgáncios Totales), Formaldehido, Temperatura, humedad
 
