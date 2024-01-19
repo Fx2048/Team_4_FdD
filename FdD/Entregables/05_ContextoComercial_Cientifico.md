@@ -40,9 +40,15 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 
 
 ### 🚜ARTÍCULO 3
-#### 🚜Descripción:
-#### 🚜Resultado:
-#### 🚜Figura:
+
+<p align = "justify" > En el presente artículo, se emplea el sensor Veris pH Manager con el objetivo de determinar el pH del suelo en las tierras de cultivo en Alemania. La investigación se enfoca en tres escenarios: (a) la realización de pruebas en un entorno de laboratorio bajo condiciones controladas, (b) la ejecución de pruebas en transectos con interrupciones y marchas, y (c) la realización de pruebas en condiciones prácticas en el campo.</p>
+
+
+<p align = "justify" > Los datos recopilados revelan una relación consistente y estrecha entre los valores convencionales del laboratorio y las mediciones registradas por los sensores. Estos estudios ofrecen una evaluación exhaustiva del rendimiento del sensor de pH del suelo en diversas circunstancias. El análisis de estos enfoques contribuye a comprender la versatilidad y aplicabilidad del sistema en diferentes entornos. La exitosa implementación del sensor en condiciones prácticas se refleja en la automatización de mediciones en movimiento y la comparación con valores de laboratorio para validar los resultados.</p>
+
+
+<p align = "justify" >En condiciones prácticas de campo, la correlación entre los valores de pH del sensor y del laboratorio mejoró significativamente con la calibración, especialmente al incorporar datos de conductividad eléctrica del suelo en un campo con variaciones de textura. A pesar de algunos problemas mecánicos, la precisión del mapeo móvil del pH del suelo superó los métodos de muestreo estándar, resaltando la utilidad de este método para obtener una mayor densidad de muestreo y comprender la variabilidad del pH del suelo en el campo.</p>
+
 
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 ## PRODUCTOS
