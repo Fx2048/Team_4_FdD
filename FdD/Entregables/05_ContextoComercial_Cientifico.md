@@ -9,7 +9,7 @@ Investigación de la situación actual del ámbito comercial y científico, así
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
-### 🚜ARTÍCULO 1 : BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain
+### <p align = "center"> 🚜ARTÍCULO 1 : BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain. </p>
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde y la capa de red blockchain. La capa de cultivo se encarga de recopilar y transmitir datos de los sensores desplegados en el campo agrícola. La capa de borde utiliza un modelo basado en inteligencia artificial para analizar los datos y generar información útil para la toma de decisiones. La capa de red blockchain proporciona una plataforma segura y descentralizada para registrar y verificar los datos agrícolas y facilitar las transacciones entre los participantes de la cadena de suministro.
@@ -28,8 +28,9 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 
 
-### 🚜ARTÍCULO 2 : Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
-### (IngenieríaPseudomonas putidaKT2440 para la degradación simultánea de carbofurano y clorpirifos)
+### 🚜ARTÍCULO 2 : 
+### <p align = "center"> Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos.</p> 
+### <p align = "center"> (IngenieríaPseudomonas putidaKT2440 para la degradación simultánea de carbofurano y clorpirifos). </p>
 #### 🚜Descripción: 
 <p align = "justify" >El estudio de este artículo se centra en la contaminación combinada, causada por los pesticidas clorpirifos (CP) y carbofurano en suelos agrícolas. Su objetivo fue desarrollar un microorganismo recombinante capaz de degradar simultáneamente el CP y el carbofurano. Para lograr esto, se integraron los genes para la degradación de estos pesticidas en una cepa de Pseudomonas putidaKT2440. La cepa recombinante resultante mostró una menor toxicidad de los productos de hidrólisis en comparación con los compuestos originales y pudo utilizar CP o carbofurano como única fuente de carbono para el crecimiento. La inoculación de la cepa recombinante en suelos tratados con carbofurano y CP resultó en una tasa de degradación más alta que en suelos no inoculados. Además, la proteína fluorescente verde introducida se puede utilizar como biomarcador para rastrear la cepa recombinante durante la biorremediación. Esto sugiere que la cepa recombinante tiene potencial para ser aplicada en la biorremediación de suelos contaminados con carbofurano y CP.</p>
 
@@ -57,12 +58,13 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
 
-### 🚜ARTÍCULO 4 :Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana.
+### 🚜ARTÍCULO 4 :
+### <p align = "center"> Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana. </p>
 El estudio examinó la influencia de la temperatura del suelo, humedad y actividad microbiana en la mineralización y disipación del carbofurano en suelos agrícolas de Marruecos. La temperatura y humedad impactaron significativamente en las tasas de mineralización y disipación. El tratamiento con autoclave prolongó la vida media del insecticida. En suelos no tratados, las tasas de mineralización aumentaron con la humedad y temperatura del suelo, donde la vida media del carbofurano varió entre 26 y más de 90 días, con una disipación de primer orden. La degradación química y microbiana fueron las principales vías, dependientes de temperatura y humedad. El autoclave evitó la mineralización, resaltando la importancia de los microorganismos. Hallazgos útiles para evaluar riesgos y validar modelos en suelos agrícolas de Marruecos (Mohamed, 2022).
 
-Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.
-[Url](https://www.researchgate.net/profile/Rachid-Mrabet/publication/362294001_Study_on_Degradation_Processes_of_14_C-Carbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
-[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_4.pdf)
+**Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.
+
+[documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_4.pdf)
 
 
 
@@ -116,22 +118,23 @@ Su practicidad radica en la capacidad de proporcionar información clave para la
 La ausencia de dependencia de baterías facilita su uso en diversos entornos. Este analizador se convierte en una herramienta valiosa para quienes buscan mantener un control preciso sobre las condiciones del suelo, contribuyendo al éxito de proyectos agrícolas y de jardinería. Con su enfoque práctico y versatilidad, el Test Analizador de Suelo Fertilidad y pH es una solución accesible para mejorar la calidad del suelo y maximizar el rendimiento de los cultivos.</p>
 
 
-*Parámetros:* PH, fertilidad del suelo
+**Parámetros:** PH, fertilidad del suelo
 
-*Imágen N°3:* Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro
+**Imágen N°3:** Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/88a4417f67ad36a5916d12ab30be7082380be1f9/Im%C3%A1genes/Estado_del_arte/producto_3.png" width="400" height="500" style="margin: auto;">
 </p>
 
-*Fuente:* Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro. Mercado Libre [tienda virtual].
+**Fuente:** Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro. Mercado Libre [tienda virtual].
 
-*Precio:* S/ 99.00
+**Precio:** S/ 99.00
 
 
 ## 🚜PATENTES
 ### 🚜**PATENTE 1:**
 ### <p align = "center"> *UN DISPOSITIVO DE MEDICIÓN DE GASES DEL SUELO IN SITU SIN PERTURBACIONES*</p>
+
 **Número de publicación:** 208937563
 
 **Fecha de publicación:** 04-06-2019
@@ -163,8 +166,8 @@ Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo infer
 Se instala una pantalla de filtrado en la entrada de aire con el propósito de prevenir la entrada de partículas de tierra más grandes. Se incluyen al menos dos aberturas de entrada de aire ubicadas en distintas posiciones de la carcasa tubular. El diseño de múltiples aberturas de entrada de aire en este modelo permite la entrada completa del gas, lo que contribuye a obtener mediciones más precisas. El material utilizado para la construcción de la carcasa tubular es acero inoxidable. De manera adicional, la pala en forma de U está fabricada también en acero inoxidable. Esto asegura que el dispositivo de medición pueda ser enterrado en el suelo para realizar mediciones a largo plazo sin experimentar corrosión, garantizando la continuidad de las mediciones. El diseño del modelo incluye un rango de ángulo de apertura de la pala interna en forma de U, que varía entre 60° y 90°. Esto asegura que la tierra pueda entrar en la pala en forma de U y ser retirada después de adherirse. El sensor llega a una profundidad establecida, se sella y inicia la medición una vez que se ha alcanzado el equilibrio en la difusión del gas. Asimismo, en este modelo específico, si se sustituye el sensor de CO2 por otro sensor destinado a la medición de gases, el dispositivo puede ser empleado para evaluar la presencia de distintos gases en el suelo, sin restricciones al dióxido de carbono (Huang Fen et al., 2019).
 </p>
 
-**Referencia:**
-Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301  
+**Fuente:** Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). Un dispositivo de medición de gases del suelo in situ sin perturbaciones
+
 
 
 
@@ -204,7 +207,8 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 [pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/pt2.pdf)
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> * Método y sistema para medir múltiples propiedades del suelo*</p>
+### <p align = "center"> Método y sistema para medir múltiples propiedades del suelo </p>
+
 **Número de publicación:** 
 US9651536B1
 
@@ -241,10 +245,12 @@ condiciones del suelo.</p>
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="750" height="350" style="margin: auto;">
 </p>
 
-Lund, E.,et al.(2017)
+Fuente: Lund, E.,et al.(2017)
 
 Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
-[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/patente_3.pdf)
+[Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/patente_3.pdf)
+
+
 ## 🚜LISTA DE REQUERIMIENTOS:
 
 ### 🚜 FUNCIONALES:
@@ -271,12 +277,15 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 
 
 ### Presentación: 
+[CLICK](https://www.canva.com/design/DAF6FI-bhh8/3-qk_cwKuTzv0XqdTK-b5Q/edit)
 
 
 
-##  🚜BIBLIOGRAFÍA
-[⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
-[Presentación](https://www.canva.com/design/DAF6FI-bhh8/3-qk_cwKuTzv0XqdTK-b5Q/edit)
--  Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
+##  🚜REFERENCIA BIBLIOGRÁFICA
+
+
 - Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016). Engineering Pseudomonas putida KT 2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial biotechnology, 9(6), 792-800.
 - Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301
+- Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
+- Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.[Url](https://www.researchgate.net/profile/RachidMrabet/publication/362294001_Study_on_Degradation_Processes_of_14_CCarbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
+- Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
