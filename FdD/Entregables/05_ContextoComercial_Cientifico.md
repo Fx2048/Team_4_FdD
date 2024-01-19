@@ -193,7 +193,7 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 ![托尼·米勒, et al (2018)]
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="900" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="350" height="350" style="margin: auto;">
 </p>
 
 (托尼·米勒, et al,2018)
@@ -238,7 +238,7 @@ se puede utilizar para proporcionar una fuerza descendente ajustable que coincid
 condiciones del suelo.</p>
 #### Imagen 1 : Diseño del prototipo patentado
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="900" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="750" height="350" style="margin: auto;">
 </p>
 
 Lund, E.,et al.(2017)
