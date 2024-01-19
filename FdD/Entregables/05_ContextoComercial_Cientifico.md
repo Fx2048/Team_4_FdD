@@ -188,7 +188,17 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 </p>
 
 **Figura 2:** *Partes sensor químico del suelo*
+<p align = "center"> 
+122 Carcasa tubular externa
+116 a:Electrodos de medición standar: Mantiene el potencial constante.
+116 b:Electrodos de trabajo: Detecta nitrato
+118 b: Membrana de iones
+106:Celda para compensar variaciones de temperatura y presión.
+112: Circuito de acondicionamiento de señal: Amplifica,  filtra y procesa la señal de los electrodos con la muestra. Conectada a una fuente de 72 mV, las cuales reconocen los químicos.
+108:Trasductor de señales
+114 b:Carcasa tubular interna
 
+</p>
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="350" height="350" style="margin: auto;">
 </p>
