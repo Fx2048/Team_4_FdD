@@ -187,13 +187,13 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 (Tony Miller et al.,2018).
 </p>
 
-![托尼·米勒, et al (2018)]
+**Figura 2:** *Partes sensor químico del suelo*
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="350" height="350" style="margin: auto;">
 </p>
 
-(托尼·米勒, et al,2018)
+**Fuente:** Sensor químico del suelo (2018). [Imagen]
 
 
 Miller, T., Le Bernalet, P. & Mallory, H. (2018). *Soil chemistry sensor*(Patent Núm. CN:104884947:B). En Patent (CN:104884947:B). Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1
