@@ -186,8 +186,8 @@ CN104884947B
 **Descripción:**
 <p align ="justify">El  presente investigación explica el funcionamiento de un sensor químico para detectar niveles de nitrato en el suelo en la agricultura, la gestión eficaz de los fertilizantes inorgánicos, especialmente los basados en nitrógeno, es crucial para beneficios económicos y ambientales.
 La invención propone un sensor que se inserta directamente en el suelo para detectar los niveles de nitrato de manera más eficiente. Se destaca la importancia del buen funcionamiento. También se menciona la resistencia al agua del sensor y donde se propone sellarlo en una carcasa impermeable. Además, se sugiere la posibilidad de utilizar múltiples sensores conectados a un registrador de datos para obtener datos más precisos y mejorar la eficiencia en la aplicación de fertilizantes. El sensor incluye una compensación de humedad y utiliza tecnologías inalámbricas para transmitir datos. Además, se explican aplicaciones como la identificación de la zona de raíces y la medición de la movilidad de sustancias químicas en el suelo a diferentes profundidades.
-</p>
 (托尼·米勒, et al,2018)
+</p>
 
 ![托尼·米勒, et al (2018)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e)
 (托尼·米勒, et al,2018)
