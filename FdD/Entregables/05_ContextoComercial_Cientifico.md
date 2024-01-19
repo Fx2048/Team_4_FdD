@@ -191,7 +191,7 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 </p>
 
 ![托尼·米勒, et al (2018)]
-<p align="center">![托尼·米勒, et al (2018)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e)</p>
+<p align="center"> ![托尼·米勒, et al.(2018)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e)</p>
 
 
 (托尼·米勒, et al,2018)
