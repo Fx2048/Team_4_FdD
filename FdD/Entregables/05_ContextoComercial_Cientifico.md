@@ -139,14 +139,21 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 **Número de publicación:** 
 
 **Fecha de publicación:** 
-
+2014
 **Inventor:** 
-- D
+- BRIZ ESCRIBANO, Julián;
+- DURAN ALTISENT, José María y
+- NAVAS GRACIA, Luis Manuel
 
 **Descripción:**
-<p align ="justify">...</p>
+<p align ="justify">Código : US 2011247265 A1 (TSAI-WEN-KUEI) 
+2011
+
+Un sistema capaz de medir pH, humedad, temperatura, CO2.
+Se describe un sistema de cultivo urbano para concentrar CO2, y a través de luces fotovoltaicas O-LED recolecta información de la intensidad y frecuencia lumínica, también su modelo es adaptable para incluir paneles solares.</p>
 
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ccfbe545-8104-459a-88e2-61aa41e5c806)
 
 
 ## 🚜LISTA DE REQUERIMIENTOS:
