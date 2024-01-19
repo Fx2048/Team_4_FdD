@@ -17,11 +17,11 @@ La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde
 
 Shreya, S. (2023)
 
-Gráfica que muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
-El resultado muestra que el modelo de Random Forest funciona mejor con una precisión del 97% en comparación con el Support Vector Classifier (SVC) que tiene un 93%, K-Nearest Neighbors (KNN) con un 90% y Logistic Regression con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.
+En el estudio muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
+El resultado destaca que el modelo de Random Forest funciona mejor con una precisión del 97% en comparación con el Support Vector Classifier (SVC) que tiene un 93%, K-Nearest Neighbors (KNN) con un 90% y Logistic Regression con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.
 
 Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. https://doi.org/10.1016/j.suscom.2023.100917
-
+[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_1.pdf)
 
 
 
@@ -215,7 +215,7 @@ condiciones del suelo.</p>
 Lund, E.,et al.(2017)
 
 Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
-
+[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/patente_3.pdf)
 ## 🚜LISTA DE REQUERIMIENTOS:
 ### 🚜 FUNCIONALES
 ### 🚜NO FUNCIONALES
