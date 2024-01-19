@@ -104,9 +104,7 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 ### 🚜 PRODUCTO 3 : 
 ### <p align = "center">Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro</p>
 
-<p align ="justify">El Test Analizador de Suelo para la Fertilidad y pH es un dispositivo analógico sin baterías que mide el pH y la fertilidad del suelo. Con sondas de inserción profunda, es ideal para agricultores, jardineros y estudiantes de agronomía. Su diseño intuitivo ofrece mediciones precisas para optimizar el crecimiento de cultivos.
-
-La facilidad de uso y la operación sin baterías hacen que sea práctico en diversos entornos. Este analizador se destaca por brindar información clave para la gestión eficiente de suelos, contribuyendo al éxito de proyectos agrícolas y de jardinería. Con su enfoque versátil, el Test Analizador de Suelo Fertilidad y pH es una herramienta valiosa para mejorar la calidad del suelo y maximizar el rendimiento de los cultivos.</p>
+<p align ="justify">El Test Analizador de Suelo para la Fertilidad y pH es un dispositivo analógico sin baterías que mide el pH y la fertilidad del suelo. Con sondas de inserción profunda, es ideal para agricultores, jardineros y estudiantes de agronomía. Su diseño intuitivo ofrece mediciones precisas para optimizar el crecimiento de cultivos.La facilidad de uso y la operación sin baterías hacen que sea práctico en diversos entornos. Este analizador se destaca por brindar información clave para la gestión eficiente de suelos, contribuyendo al éxito de proyectos agrícolas y de jardinería. Con su enfoque versátil, el Test Analizador de Suelo Fertilidad y pH es una herramienta valiosa para mejorar la calidad del suelo y maximizar el rendimiento de los cultivos.</p>
 
 
 *Parámetros:* PH, fertilidad del suelo
