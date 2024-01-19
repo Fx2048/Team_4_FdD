@@ -240,8 +240,20 @@ Lund, E.,et al.(2017)
 Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
 [pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/patente_3.pdf)
 ## 🚜LISTA DE REQUERIMIENTOS:
-### 🚜 FUNCIONALES
+
+### 🚜 FUNCIONALES:
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Funcionales.png" width="900" height="500" style="margin: auto;">
+</p>
+
+
 ### 🚜NO FUNCIONALES
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/No_funcionales.png" width="900" height="500" style="margin: auto;">
+</p>
+
 ## 🚜ESTRATEGIA SOLUCIÓN:
 
 ##  🚜BIBLIOGRAFÍA
