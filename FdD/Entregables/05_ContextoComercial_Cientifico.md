@@ -57,6 +57,15 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
 
+### 🚜ARTÍCULO 4 :
+Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana
+El estudio examinó la influencia de la temperatura del suelo, humedad y actividad microbiana en la mineralización y disipación del carbofurano en suelos agrícolas de Marruecos. La temperatura y humedad impactaron significativamente en las tasas de mineralización y disipación. El tratamiento con autoclave prolongó la vida media del insecticida. En suelos no tratados, las tasas de mineralización aumentaron con la humedad y temperatura del suelo, donde la vida media del carbofurano varió entre 26 y más de 90 días, con una disipación de primer orden. La degradación química y microbiana fueron las principales vías, dependientes de temperatura y humedad. El autoclave evitó la mineralización, resaltando la importancia de los microorganismos. Hallazgos útiles para evaluar riesgos y validar modelos en suelos agrícolas de Marruecos (Mohamed, 2022).
+
+Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.
+[Url](https://www.researchgate.net/profile/Rachid-Mrabet/publication/362294001_Study_on_Degradation_Processes_of_14_C-Carbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
+[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_4.pdf)
+
+
 
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 ## PRODUCTOS
