@@ -42,8 +42,9 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 
 
 
-### 🚜ARTÍCULO 3:  Soil pH Mapping with an On-The-Go Sensor.     
-### (Mapeo de pH del suelo con un sensor On-The-Go)
+### 🚜ARTÍCULO 3:  
+### <p align = "center"> Soil pH Mapping with an On-The-Go Sensor.  </p>   
+###  <p align = "center"> (Mapeo de pH del suelo con un sensor On-The-Go) </p>   
 
 
 <p align = "justify" > En el presente artículo, se emplea el sensor Veris pH Manager con el objetivo de determinar el pH del suelo en las tierras de cultivo en Alemania. Es así que, se enfoca en tres escenarios: (a) la realización de pruebas en un entorno de laboratorio bajo condiciones controladas, (b) la ejecución de pruebas en transectos con interrupciones y marchas, y (c) la realización de pruebas en condiciones prácticas en el campo. Los datos recopilados revelan una relación consistente y estrecha entre los valores convencionales del laboratorio y las mediciones registradas por los sensores. Estos estudios ofrecen una evaluación exhaustiva del rendimiento del sensor de pH del suelo en diversas circunstancias. El análisis de estos enfoques contribuye a comprender la versatilidad y aplicabilidad del sistema en diferentes entornos. La exitosa implementación del sensor en condiciones prácticas se refleja en la automatización de mediciones en movimiento y la comparación con valores de laboratorio para validar los resultados.</p>
