@@ -49,6 +49,13 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 
 <p align = "justify" >En condiciones prácticas de campo, la correlación entre los valores de pH del sensor y del laboratorio mejoró significativamente con la calibración, especialmente al incorporar datos de conductividad eléctrica del suelo en un campo con variaciones de textura. A pesar de algunos problemas mecánicos, la precisión del mapeo móvil del pH del suelo superó los métodos de muestreo estándar, resaltando la utilidad de este método para obtener una mayor densidad de muestreo y comprender la variabilidad del pH del suelo en el campo.</p>
 
+**Figura 3: ** Mediciones calibradas del pH.
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Figura_3.png" width="400" height="500" style="margin: auto;">
+</p>
+**Nota:** 
+**Fuente:**
 
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 ## PRODUCTOS
