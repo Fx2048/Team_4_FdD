@@ -201,7 +201,7 @@ Miller, T., Le Bernalet, P. & Mallory, H. (2018). *Soil chemistry sensor*(Patent
 [pdf](../../Documentación/pt2.pdf)
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> Método y sistema para medir múltiples propiedades del suelo </p>
+### <p align = "center"> *MÉTODO Y SISTEMA PARA MEDIR MÚLTIPLES PROPIEDADES DEL SUELO*</p>
 
 **Número de publicación:** 
 US9651536B1
