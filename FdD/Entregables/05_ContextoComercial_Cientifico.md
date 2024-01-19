@@ -206,3 +206,4 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
 
   -  Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
+- Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016). Engineering Pseudomonas putida KT 2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial biotechnology, 9(6), 792-800.
