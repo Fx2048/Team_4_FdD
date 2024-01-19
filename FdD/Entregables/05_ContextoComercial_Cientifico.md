@@ -103,7 +103,7 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 </p>
 
 **Referencia:**
-Huang, F., DING, M., YANG, H., WU, X., ZHANG, C. & CAO J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301  
+Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301  
 
 ### **🚜PATENTE 2:**
 ### <p align = "center"> *A*</p>
