@@ -30,6 +30,7 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 
 ### 🚜ARTÍCULO 2 : Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos
+###(IngenieríaPseudomonas putidaKT2440 para la degradación simultánea de carbofurano y clorpirifos)
 #### 🚜Descripción: 
 El altículo muestra que han desarrollado una cepa recombinante de Pseudomonas putida KT2440 capaz de degradar simultáneamente los pesticidas carbofurano y clorpirifos en suelos agrícolas. Estos pesticidas son ampliamente utilizados en la agricultura pero representan un riesgo para la salud humana y el medio ambiente. La cepa recombinante mostró una mayor tasa de degradación de los pesticidas en comparación con los compuestos originales. Además, la cepa recombinante es capaz de utilizar el carbofurano y el clorpirifos como únicas fuentes de carbono para su crecimiento. Se introdujo una proteína fluorescente verde en la cepa recombinante como biomarcador para rastrear su presencia durante la biorremediación de suelos contaminados con carbofurano y clorpirifos. Estos resultados sugieren que la cepa recombinante tiene el potencial de ser aplicada en la biorremediación de suelos agrícolas contaminados con estos pesticidas(T. Gong et al., 2016).
 
