@@ -9,7 +9,7 @@ Investigación de la situación actual del ámbito comercial y científico, así
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
-### 🚜ARTÍCULO 1 : BFSF: A secure IoT based framework for smart farming using blockchain
+### 🚜ARTÍCULO 1 : BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 ### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
