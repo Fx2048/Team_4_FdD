@@ -52,7 +52,7 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 
 **Parámetros:** humedad, pH, Luz
 
-**Imágen N°1:** SENSOR DE PH, HUMEDAD, LUZ
+**Imágen N°1:** *SENSOR DE PH, HUMEDAD, LUZ*
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_1.png" width="400" height="500" style="margin: auto;">
@@ -62,8 +62,23 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 
 **Precio:** S/ 57.00
 
+### 🚜 PRODUCTO 2:
+### <p align = "center"> MEDIDOR DE DIÓXIDO DE CARBONO CO2 CALIDAD DE AIRE 5 EN 1</p>
 
-### 🚜 PRODUCTO 2 (foto):
+<p align ="justify">El  </p>
+
+**Parámetros:** CO2, TVOC (Compuestos Volátiles Orgáncios Totales), Formaldehido, Temperatura, humedad
+
+**Imágen N°2:** *MEDIDOR DE CO2, CALIDAD DEL AIRE 5 EN 1*
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_1.png" width="400" height="500" style="margin: auto;">
+</p>
+
+**Fuente:** Medidor de pH de suelo 3 en 1, medidor de humedad, pH y luz solar, phmetro para plantas y jardines TPH01805A. (s/f). Kusitest. 
+
+**Precio:** S/ 229.00
+
 
 ### 🚜 PRODUCTO 3 (foto):
 
