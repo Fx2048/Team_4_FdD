@@ -112,7 +112,7 @@ Cada parámetro cuenta con un interruptor dedicado para una identificación senc
 ### 🚜 PRODUCTO 3 : 
 ### <p align = "center">Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro</p>
 
-<p align ="justify">El Test Analizador de Suelo para la Fertilidad y pH es un dispositivo analógico, sin necesidad de baterías, diseñado para medir el nivel de pH y fertilidad del suelo. Su operación sencilla implica la inserción profunda de sondas, brindando mediciones precisas. Este instrumento versátil es perfecto para agricultores, jardineros, estudiantes de agronomía y entusiastas de las plantas.</p>
+<p align ="justify">El Analizador de Suelo para la Fertilidad y pH es un instrumento analógico que no requiere baterías y ha sido desarrollado para evaluar de manera precisa los niveles de fertilidad y pH en el suelo. Su operación sencilla implica la inserción profunda de sondas, brindando mediciones precisas. Este instrumento versátil es perfecto para agricultores, jardineros, estudiantes de agronomía y entusiastas de las plantas.</p>
 <p align ="justify">
 Su practicidad radica en la capacidad de proporcionar información clave para la gestión de cultivos. El diseño analógico garantiza una operación intuitiva y libre de complicaciones logísticas. La inserción profunda de sondas permite una evaluación precisa del suelo, mejorando las condiciones de crecimiento de cultivos y plantas.</p>
 <p align ="justify">
