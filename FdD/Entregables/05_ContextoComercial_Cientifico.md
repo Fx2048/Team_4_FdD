@@ -170,19 +170,22 @@ Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un disposit
 
 
 ### **🚜PATENTE 2:**
-### <p align = "center"> *Sensor químico del suelo
-*</p>
+### <p align = "center"> *Sensor químico del suelo*</p>
+
 **Número de publicación:** 
 CN104884947B
+
 **Fecha de publicación:** 
 2018
+
 **Inventores:** 
 -托尼·米勒
 -皮埃尔-亨利·勒贝纳雷
 -& 雨果·马洛里
 
 **Descripción:**
-<p align ="justify">Describimos un tipo de sensor de química del suelo para la detección química del suelo de posición original, el sensor incluye la sonda, la sonda combina primero, ISE y segundo, electrodo de referencia, en el que ISE descrito incluye la primera carcasa del electrodo para limitar la primera cámara del tubo, la primera cámara del tubo tiene el tapón de selectividad iónica hacia el extremo distal, el primer electrodo se incluye en el primer conductor en el primer electrolito, En el que el electrodo de referencia descrito incluye la segunda carcasa del electrodo para limitar la segunda cámara del tubo, la segunda cámara del tubo tiene el tapón del electrodo de referencia poroso hacia el extremo distal, el segundo electrodo se incluye en el segundo conductor del segundo electrolito, en el que el tapón de selectividad iónica descrito y el tapón del electrodo de referencia poroso están entre sí en 10 mm, Y en el que se describe el tapón de electrodo de referencia poroso y cada polímero autónomo del tapón de selectividad iónica.
+<p align ="justify">El  presente investigación explica el funcionamiento de un sensor químico para detectar niveles de nitrato en el suelo en la agricultura, la gestión eficaz de los fertilizantes inorgánicos, especialmente los basados en nitrógeno, es crucial para beneficios económicos y ambientales.
+La invención propone un sensor que se inserta directamente en el suelo para detectar los niveles de nitrato de manera más eficiente. Se destaca la importancia del buen funcionamiento. También se menciona la resistencia al agua del sensor y donde se propone sellarlo en una carcasa impermeable. Además, se sugiere la posibilidad de utilizar múltiples sensores conectados a un registrador de datos para obtener datos más precisos y mejorar la eficiencia en la aplicación de fertilizantes. El sensor incluye una compensación de humedad y utiliza tecnologías inalámbricas para transmitir datos. Además, se explican aplicaciones como la identificación de la zona de raíces y la medición de la movilidad de sustancias químicas en el suelo a diferentes profundidades.
 </p>
 (托尼·米勒, et al,2018)
 
