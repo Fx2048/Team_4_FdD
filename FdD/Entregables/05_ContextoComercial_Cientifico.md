@@ -180,7 +180,9 @@ CN104884947B
 
 **Inventores:** 
 -托尼·米勒
+
 -皮埃尔-亨利·勒贝纳雷
+
 -& 雨果·马洛里
 
 **Descripción:**
@@ -196,6 +198,7 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 [url](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301)
 
 [pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/pt2.pdf)
+
 ### **🚜PATENTE 3:**
 ### <p align = "center"> *Método y sistema para medir múltiples propiedades del suelo*</p>
 **Número de publicación:** 
