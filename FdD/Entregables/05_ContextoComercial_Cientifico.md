@@ -200,7 +200,7 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 [pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/pt2.pdf)
 
 ### **🚜PATENTE 3:**
-### <p align = "center"> *Método y sistema para medir múltiples propiedades del suelo*</p>
+### <p align = "center"> * Método y sistema para medir múltiples propiedades del suelo*</p>
 **Número de publicación:** 
 US9651536B1
 
