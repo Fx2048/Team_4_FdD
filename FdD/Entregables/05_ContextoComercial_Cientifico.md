@@ -75,7 +75,8 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Producto_2.png" width="400" height="500" style="margin: auto;">
 </p>
 
-**Fuente:** Medidor de pH de suelo 3 en 1, medidor de humedad, pH y luz solar, phmetro para plantas y jardines TPH01805A. (s/f). Kusitest. 
+**Fuente:** Medidor De Dióxido De Carbono Co2 Calidad De Aire 5 En 1(s. f.). Mercado Libre [tienda virtual].
+ 
 
 **Precio:** S/ 229.00
 
