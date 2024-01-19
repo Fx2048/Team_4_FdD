@@ -12,6 +12,7 @@ Investigación de la situación actual del ámbito comercial y científico, así
 ### 🚜ARTÍCULO 1 : BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
+La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde y la capa de red blockchain. La capa de cultivo se encarga de recopilar y transmitir datos de los sensores desplegados en el campo agrícola. La capa de borde utiliza un modelo basado en inteligencia artificial para analizar los datos y generar información útil para la toma de decisiones. La capa de red blockchain proporciona una plataforma segura y descentralizada para registrar y verificar los datos agrícolas y facilitar las transacciones entre los participantes de la cadena de suministro.
 ### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
 ![Shreya, S. (2023)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06f589a4-0b1b-429c-94cf-18b2c52face2)
 
