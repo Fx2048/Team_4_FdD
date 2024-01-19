@@ -45,8 +45,7 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 
 
 
-### 🚜ARTÍCULO 3:  Soil pH Mapping with an On-The-Go Sensor
-  (Mapeo de pH del suelo con un sensor On-The-Go)
+### 🚜ARTÍCULO 3:  Soil pH Mapping with an On-The-Go Sensor.     (Mapeo de pH del suelo con un sensor On-The-Go)
 
 <p align = "justify" > En el presente artículo, se emplea el sensor Veris pH Manager con el objetivo de determinar el pH del suelo en las tierras de cultivo en Alemania. La investigación se enfoca en tres escenarios: (a) la realización de pruebas en un entorno de laboratorio bajo condiciones controladas, (b) la ejecución de pruebas en transectos con interrupciones y marchas, y (c) la realización de pruebas en condiciones prácticas en el campo.</p>
 
