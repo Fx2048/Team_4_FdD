@@ -234,12 +234,13 @@ el abridor de surcos 14 y el módulo sensor 15 para seguir las ondulaciones del 
 Una pluralidad de resortes 19 o un sistema neumático (no mostrado)
 se puede utilizar para proporcionar una fuerza descendente ajustable que coincida
 condiciones del suelo.</p>
-#### Imagen 1 : Diseño del prototipo patentado
+
+**Figura 3:** *Diseño del prototipo patentado*
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="750" height="350" style="margin: auto;">
 </p>
 
-Fuente: Lund, E.,et al.(2017)
+**Fuente:** Lund, E.,et al.(2017)
 
 Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
 
