@@ -167,7 +167,7 @@ Este dispositivo incluye una carcasa tubular numerada como 1, cuyo extremo infer
 Se instala una pantalla de filtrado en la entrada de aire con el propósito de prevenir la entrada de partículas de tierra más grandes. Se incluyen al menos dos aberturas de entrada de aire ubicadas en distintas posiciones de la carcasa tubular. El diseño de múltiples aberturas de entrada de aire en este modelo permite la entrada completa del gas, lo que contribuye a obtener mediciones más precisas. El material utilizado para la construcción de la carcasa tubular es acero inoxidable. De manera adicional, la pala en forma de U está fabricada también en acero inoxidable. Esto asegura que el dispositivo de medición pueda ser enterrado en el suelo para realizar mediciones a largo plazo sin experimentar corrosión, garantizando la continuidad de las mediciones. El diseño del modelo incluye un rango de ángulo de apertura de la pala interna en forma de U, que varía entre 60° y 90°. Esto asegura que la tierra pueda entrar en la pala en forma de U y ser retirada después de adherirse. El sensor llega a una profundidad establecida, se sella y inicia la medición una vez que se ha alcanzado el equilibrio en la difusión del gas. Asimismo, en este modelo específico, si se sustituye el sensor de CO2 por otro sensor destinado a la medición de gases, el dispositivo puede ser empleado para evaluar la presencia de distintos gases en el suelo, sin restricciones al dióxido de carbono (Huang Fen et al., 2019).
 </p>
 
-**Fuente:** Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). Un dispositivo de medición de gases del suelo in situ sin perturbaciones
+**Fuente:** Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). Un dispositivo de medición de gases del suelo in situ sin perturbaciones.
 
 
 
@@ -199,9 +199,9 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 (托尼·米勒, et al,2018)
 
 托尼·米勒, 皮埃尔-亨利·勒贝纳雷, & 雨果·马洛里. (2018). Soil chemistry sensor (Patent Núm. CN:104884947:B). En Patent (CN:104884947:B).
-[url](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301)
+[URL](https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1)
 
-[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/pt2.pdf)
+[pdf](../../Documentación/pt2.pdf)
 
 ### **🚜PATENTE 3:**
 ### <p align = "center"> Método y sistema para medir múltiples propiedades del suelo </p>
