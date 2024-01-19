@@ -254,7 +254,19 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/No_funcionales.png" width="900" height="500" style="margin: auto;">
 </p>
 
+
 ## 🚜ESTRATEGIA SOLUCIÓN:
+
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Estrategias.png" width="900" height="500" style="margin: auto;">
+</p>
+
+
+
+### Presentación: 
+
+
 
 ##  🚜BIBLIOGRAFÍA
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
