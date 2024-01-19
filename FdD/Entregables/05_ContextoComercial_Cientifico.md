@@ -65,7 +65,7 @@ Los gráficos muestran la degradación simultánea de carbofurano y clorpirifos 
 ### 🚜 PRODUCTO 2:
 ### <p align = "center"> MEDIDOR DE DIÓXIDO DE CARBONO CO2 CALIDAD DE AIRE 5 EN 1</p>
 
-<p align ="justify">El  </p>
+<p align ="justify">El "Medidor de Dióxido de Carbono CO2 Calidad de Aire 5 en 1", disponible en la tienda virtual de Mercado Libre, es una herramienta increíblemente útil para evaluar la calidad del aire en diferentes entornos. Este dispositivo va más allá al proporcionar mediciones precisas de varios parámetros clave, incluyendo niveles de CO2, compuestos volátiles orgánicos totales (TVOC), formaldehído, temperatura y humedad. Estos datos en tiempo real ofrecen una visión completa de la calidad del aire, permitiendo a los usuarios tomar decisiones informadas. Además, la facilidad de acceso a través de Mercado. </p>
 
 **Parámetros:** CO2, TVOC (Compuestos Volátiles Orgáncios Totales), Formaldehido, Temperatura, humedad
 
