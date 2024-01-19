@@ -38,6 +38,13 @@ El altículo muestra que han desarrollado una cepa recombinante de Pseudomonas p
 
 La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en suelos inoculados con Pseudomonas putida KTU-PGC a una tasa de 10^6 células/g de suelo. Muestra la disminución de la concentración de carbofurano y clorpirifos en el suelo a lo largo del tiempo, demostrando la capacidad de la cepa recombinante para degradar ambos pesticidas(T. Gong et al., 2016).
 
+
+
+
+
+
+
+
 ### 🚜ARTÍCULO 3:  Soil pH Mapping with an On-The-Go Sensor
   (Mapeo de pH del suelo con un sensor On-The-Go)
 
@@ -49,7 +56,7 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 
 <p align = "justify" >En condiciones prácticas de campo, la correlación entre los valores de pH del sensor y del laboratorio mejoró significativamente con la calibración, especialmente al incorporar datos de conductividad eléctrica del suelo en un campo con variaciones de textura. A pesar de algunos problemas mecánicos, la precisión del mapeo móvil del pH del suelo superó los métodos de muestreo estándar, resaltando la utilidad de este método para obtener una mayor densidad de muestreo y comprender la variabilidad del pH del suelo en el campo.</p>
 
-**Fuente:**Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). 
+**Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). 
 
 
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
