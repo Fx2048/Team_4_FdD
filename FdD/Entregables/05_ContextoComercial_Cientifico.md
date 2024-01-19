@@ -95,7 +95,23 @@ La gráfica muestra la degradación simultánea de carbofurano y clorpirifos en 
 **Precio:** S/ 229.00
 
 
-### 🚜 PRODUCTO 3 (foto):
+### 🚜 PRODUCTO 3 : 
+### <p align = "center">Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro</p>
+
+<p align ="justify">Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro es un dispositivo de pantalla analógica que no requiere baterías para funcionar. Este dispositivo permite medir el nivel de pH o fertilidad del suelo al insertar las sondas profundamente, y es adecuado para agricultores, jardineros, estudiantes de agronomía y entusiastas de las plantas.</p>
+
+
+*Parámetros:* PH, fertilidad del suelo
+
+*Imágen N°3:* Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/88a4417f67ad36a5916d12ab30be7082380be1f9/Im%C3%A1genes/Estado_del_arte/producto_3.png" width="400" height="500" style="margin: auto;">
+</p>
+
+*Fuente:* Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro. Mercado Libre [tienda virtual].
+
+*Precio:* S/ 99.00
 
 
 ## 🚜PATENTES
