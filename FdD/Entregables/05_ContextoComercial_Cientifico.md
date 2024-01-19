@@ -196,7 +196,19 @@ US9651536B1
 
 La patente describe un sistema que utiliza un módulo sensor montado en un implemento para atravesar un campo y que recoge datos del suelo en contacto con una placa de desgaste en la parte inferior del módulo.
 El módulo sensor incluye un módulo óptico, un dispositivo de medición de la conductividad eléctrica del suelo, un dispositivo de medición de la humedad del suelo y un dispositivo de medición de la temperatura del suelo, que se organizan para medir las propiedades del suelo a aproximadamente la misma profundidad y en estrecha proximidad al módulo óptico.
-Los datos recogidos por el módulo sensor se pueden utilizar para mejorar diversos procesos, como la irrigación variable, el mapeo del suelo y la siembra, mediante el uso de un controlador que crea un mapa georreferenciado de los datos y que ajusta la profundidad de operación del módulo sensor y/o la tasa de siembra en tiempo real en función de las propiedades del suelo.</p>
+Los datos recogidos por el módulo sensor se pueden utilizar para mejorar diversos procesos, como la irrigación variable, el mapeo del suelo y la siembra, mediante el uso de un controlador que crea un mapa georreferenciado de los datos y que ajusta la profundidad de operación del módulo sensor y/o la tasa de siembra en tiempo real en función de las propiedades del suelo.
+La figura ilustra un implemento 10 que tiene una unidad de hilera 11 especialmente configurada para medir múltiples suelos adecuados.
+bridas según la presente invención. El implemento 10
+incluye una reja 13 para cortar los residuos y para
+abriendo una ranura en el suelo. La unidad de hilera 11 incluye un surco.
+conjunto abridor 14 que crea un surco en el suelo, y un
+módulo de sensor 15 que contiene sensores para medir múltiples
+propiedades del suelo. La unidad de hilera 11 se puede montar en una barra de herramientas.
+17 del implemento 10 por un varillaje paralelo 18 que permite
+el abridor de surcos 14 y el módulo sensor 15 para seguir las ondulaciones del suelo mientras se mantiene una profundidad constante en el suelo.
+Una pluralidad de resortes 19 o un sistema neumático (no mostrado)
+se puede utilizar para proporcionar una fuerza descendente ajustable que coincida
+condiciones del suelo.</p>
 #### Imagen 3 : Diseño del prototipo patentado
  ![Lund, E.,et al.(2017)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c)
 
