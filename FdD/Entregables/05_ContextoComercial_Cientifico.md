@@ -235,5 +235,6 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 ##  🚜BIBLIOGRAFÍA
 [⛓️🎯🚜Referencias bibliográficas para el contexto comercio-cientifico](https://github.com/Fx2048/Team_4_FdD/blob/main/Bibliograf%C3%ADa/comercial_cientifico.txt)
 [Presentación](https://www.canva.com/design/DAF6FI-bhh8/3-qk_cwKuTzv0XqdTK-b5Q/edit)
-  -  Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
+-  Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
 - Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016). Engineering Pseudomonas putida KT 2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial biotechnology, 9(6), 792-800.
+- Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301
