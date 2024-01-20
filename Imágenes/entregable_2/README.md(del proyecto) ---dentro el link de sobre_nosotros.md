@@ -31,8 +31,9 @@ Nació en una familia de campesinos pobres de Manchuria. Con veinte años, se al
 ##### <p align="center"> Descripción: </p>
 <p align ="justify">Es un perro muy comercial usado como slogan de marca de zapatos
 </p>
-
+#### anexos : 
 ![Hola, me llamo Boby! soy un pitbul y muerdo rico, mirame](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White_Pitbull.jpg/220px-White_Pitbull.jpg)
-
+#### pdf
+[enlace a entregable _03](https://github.com/Fx2048/Team_4_FdD/tree/main/Im%C3%A1genes/03_problematica)
 [Hola soy el chino de la guerra ven a mi pagina web](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
