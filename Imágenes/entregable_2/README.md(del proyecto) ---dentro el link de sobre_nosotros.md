@@ -1,6 +1,6 @@
 # <p align="center"> titulo flofy </p>
-<p align ="justify">
-##  es muy bueno y amiguero
+
+## <p align ="justify"> es muy bueno y amiguero
 ### edad:
 3 años
 ### 1. raza:
