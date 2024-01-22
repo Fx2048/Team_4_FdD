@@ -43,13 +43,28 @@
 
 ## Ejercicio 1:
 
+
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: 0 auto;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.2.jpg" alt="" style="width: 100%; max-width: 100px; display: block; margin: 0 auto;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.2.jpg" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
+        </td>
+    </tr>
+</table>
+
+
+
+
+<table style="width: 100%;">
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: ;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 180px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.2.jpg" alt="" style="width: 70%; max-width: 50px; display: block; margin:;">
         </td>
     </tr>
 </table>
