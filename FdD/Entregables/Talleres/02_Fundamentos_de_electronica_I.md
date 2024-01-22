@@ -43,16 +43,17 @@
 
 ## Ejercicio 1:
 
-   <table>
+<table style="width: 100%;">
     <tr>
-        <td style="border: 0px solid #ddd; padding: 4px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.png" alt="">
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: 0 auto;">
         </td>
-        <td style="border: 0px solid #ddd; padding: 4px;">
-            <img src="" alt="">
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.1.jpg" alt="" style="width: 100%; max-width: 100px; display: block; margin: 0 auto;">
         </td>
-       
-</table>  
+    </tr>
+</table>
+  
 
 ## Ejercicio 2:
 
