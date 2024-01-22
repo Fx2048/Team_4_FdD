@@ -46,20 +46,20 @@
 ### Explicación: 
   - En el presente circuit0 trabajamos resistencias de 220 ohm, de las cuales se encontraban en serie y paralelo respectivamente:
 
-   **Calculando en serie:**
-    Rs= 220 ohm + 220ohm = 440ohm
+  **Calculando en serie:**
+   Rs= 220 ohm + 220ohm = 440ohm
     
-    conciderando dicho resultado (Rs) procedemos a calcular en paralelo
+   conciderando dicho resultado (Rs) procedemos a calcular en paralelo
     
-    **Calculando en paralelo:**
+   **Calculando en paralelo:**
     
-    1/Rt = 1/Rs + 1/220 ohm
+   1/Rt = 1/Rs + 1/220 ohm
     
-    1/Rt = 1/440ohm + 1/220ohm
+   1/Rt = 1/440ohm + 1/220ohm
     
-    Rt = (440ohm)(220ohm)/440ohm+220ohm
+   Rt = (440ohm)(220ohm)/440ohm+220ohm
     
-    Rt = 146.6 ohm
+   Rt = 146.6 ohm
 
   - Por lo cual de este caso concluimos que la resistencia total nos daría 146.6 ohm.
 
