@@ -43,6 +43,17 @@
 
 ## Ejercicio 1:
 
+   <table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/5v.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/(im%C3%A1genes)Gu%C3%ADa2_lab_equipamiento/medidas_multimetro_v/6v.jpg" alt="">
+        </td>
+       
+</table>  
+
 ## Ejercicio 2:
 
 ## Ejercico 3:
