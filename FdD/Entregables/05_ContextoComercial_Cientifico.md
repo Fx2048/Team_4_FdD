@@ -10,11 +10,11 @@ Investigación de la situación actual del ámbito comercial y científico, así
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
 ### 🚜ARTÍCULO 1 :
-### <p align = "center">  BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain. </p>
+### <p align = "center">  BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain </p>
 #### 🚜Descripción:
 En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde y la capa de red blockchain. La capa de cultivo se encarga de recopilar y transmitir datos de los sensores desplegados en el campo agrícola. La capa de borde utiliza un modelo basado en inteligencia artificial para analizar los datos y generar información útil para la toma de decisiones. La capa de red blockchain proporciona una plataforma segura y descentralizada para registrar y verificar los datos agrícolas y facilitar las transacciones entre los participantes de la cadena de suministro.
-### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
+#### Medición de confianza de los distintos modelos de aprendizaje automático a prueba
 En el estudio muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 El informe indica que el rendimiento del modelo de Random Forest es superior, alcanzando una precisión del 97%, en contraste con el Support Vector Classifier (SVC) que registra un 93%, el K-Nearest Neighbors (KNN) con un 90%, y la Regresión Logística con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.(Shreya, S.,2023)
 
@@ -30,8 +30,8 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 
 ### 🚜ARTÍCULO 2 : 
-### <p align = "center"> Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos.</p> 
-### <p align = "center"> (IngenieríaPseudomonas putidaKT2440 para la degradación simultánea de carbofurano y clorpirifos). </p>
+### <p align = "center"> Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos</p> 
+### <p align = "center"> (IngenieríaPseudomonas putidaKT2440 para la degradación simultánea de carbofurano y clorpirifos) </p>
 #### 🚜Descripción: 
 <p align = "justify" >El estudio de este artículo se centra en la contaminación combinada, causada por los pesticidas clorpirifos (CP) y carbofurano en suelos agrícolas. Su objetivo fue desarrollar un microorganismo recombinante capaz de degradar simultáneamente el CP y el carbofurano. Para lograr esto, se integraron los genes para la degradación de estos pesticidas en una cepa de Pseudomonas putidaKT2440. La cepa recombinante resultante mostró una menor toxicidad de los productos de hidrólisis en comparación con los compuestos originales y pudo utilizar CP o carbofurano como única fuente de carbono para el crecimiento. La inoculación de la cepa recombinante en suelos tratados con carbofurano y CP resultó en una tasa de degradación más alta que en suelos no inoculados. Además, la proteína fluorescente verde introducida se puede utilizar como biomarcador para rastrear la cepa recombinante durante la biorremediación. Esto sugiere que la cepa recombinante tiene potencial para ser aplicada en la biorremediación de suelos contaminados con carbofurano y CP.</p>
 
@@ -45,7 +45,7 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 
 
 ### 🚜ARTÍCULO 3:  
-### <p align = "center"> Soil pH Mapping with an On-The-Go Sensor.  </p>   
+### <p align = "center"> Soil pH Mapping with an On-The-Go Sensor  </p>   
 ###  <p align = "center"> (Mapeo de pH del suelo con un sensor On-The-Go) </p>   
 
 
@@ -60,7 +60,7 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
 
 ### 🚜ARTÍCULO 4 :
-### <p align = "center"> Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana. </p>
+### <p align = "center"> Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana </p>
 El estudio examinó la influencia de la temperatura del suelo, humedad y actividad microbiana en la mineralización y disipación del carbofurano en suelos agrícolas de Marruecos. La temperatura y humedad impactaron significativamente en las tasas de mineralización y disipación. El tratamiento con autoclave prolongó la vida media del insecticida. En suelos no tratados, las tasas de mineralización aumentaron con la humedad y temperatura del suelo, donde la vida media del carbofurano varió entre 26 y más de 90 días, con una disipación de primer orden. La degradación química y microbiana fueron las principales vías, dependientes de temperatura y humedad. El autoclave evitó la mineralización, resaltando la importancia de los microorganismos. Hallazgos útiles para evaluar riesgos y validar modelos en suelos agrícolas de Marruecos (Mohamed, 2022).
 
 **Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.
