@@ -122,4 +122,12 @@ Antes de comenzar, cabe resaltar que, para encontrar una relación entre las res
   <img src="../../../Imágenes/Imagen_formula.png">
 </p>
 
+El desarrollo se basa en lo siguiente: 
+
+- Despejando la relación entre las resistencias para el correspondiente estimado. 
+
+<p align="center">
+  <img src="../../..//Imágenes/Imagen_desarrollo.jpg"
+  width="400" height="180">
+</p>
 
