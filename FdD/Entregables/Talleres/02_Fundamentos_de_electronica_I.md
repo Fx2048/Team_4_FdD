@@ -85,24 +85,26 @@
 En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos y al centro en forma de serie, para colocar las resistencias
 
 
- ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1276cc8b-9d7a-4eb3-8dc4-0769e31030c2)
 
+<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/1276cc8b-9d7a-4eb3-8dc4-0769e31030c2" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1">
 
  
 
 
 
 Lo cual al calcularse el valor resultante se obtuvo 87.9 ohmios,
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a)
+
+<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1">
 
 
 Luego, al momento de analizar la estructura faltante la cual era proveniente de la resistencia de 220 ohmios, dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se comprobó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a)
 
+
+<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="200" align="center" border="1">
 
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 
- ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2)
+<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1">
 
 
  
