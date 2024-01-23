@@ -189,7 +189,7 @@ La invención propone un sensor que se inserta directamente en el suelo para det
 
 </p>
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="350" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d06abb4-a279-4576-a905-a94728b00a3e" width="350" height="360" style="margin: auto;">
 </p>
 
 **Fuente:** Sensor químico del suelo (2018). [Imagen]
@@ -246,7 +246,7 @@ utilizado con la presente invención.</p>
 **Figura 3:** *Una vista en alzado lateral de un implemento equipado con un sistema para medir múltiples propiedades del suelo según
 ing a la presente invención*
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="750" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb56f1bc-2200-4081-87aa-3804ccdba28c" width="550" height="355" style="margin: auto;">
 </p>
 
 **Fuente:** Lund, E.,et al.(2017)
@@ -292,6 +292,6 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 - Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016). Engineering Pseudomonas putida KT 2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial biotechnology, 9(6), 792-800.
 - Huang, F., Ding, M., Yang, H., Wu, X., Zhang, C., & Cao, J. (2019). *Un dispositivo de medición de gases del suelo in situ sin perturbaciones.* Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN243779301
 - Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U.S. Patent No.9651536B1) - Google Patents. https://patents.google.com/patent/US9651536B1/en?q=(monitoring+soil)&oq=monitoring+soil+. United States Patent.
-- Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.[Url](https://www.researchgate.net/profile/RachidMrabet/publication/362294001_Study_on_Degradation_Processes_of_14_CCarbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
+- Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.Recuperado de [URL](https://www.researchgate.net/profile/RachidMrabet/publication/362294001_Study_on_Degradation_Processes_of_14_CCarbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
 - Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
 - Miller, T., Le Bernalet, P. & Mallory, H. (2018). *Soil chemistry sensor*(Patent Núm. CN:104884947:B). En Patent (CN:104884947:B). Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1
