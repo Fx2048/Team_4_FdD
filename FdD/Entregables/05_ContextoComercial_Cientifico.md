@@ -31,7 +31,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 
 <p align = "justify" >Los resultados de los experimentos de degradación con P. putida KTU-PGC mostraron una eficiente capacidad de degradación de carbofurano y CP, con una tasa de degradación más alta en comparación con P. putida KTU en las mismas condiciones. Además, los experimentos de remediación de suelos con muestras no expuestas previamente a pesticidas demostraron que la inoculación con P. putida KTU-PGC resultó en una reducción significativa de la concentración de carbofurano y CP en el suelo. Estos hallazgos sugieren que la cepa recombinante tiene un gran potencial para la biorremediación de suelos co-contaminados con carbofurano y CP (T. Gong et al., 2016).</p>
 
-**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [URL](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12381) o[Documento.](../../Documentación/art_2.pdf)
+**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [URL](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12381) o [Documento.](../../Documentación/art_2.pdf)
 
 
 ### 🚜ARTÍCULO 3:  
