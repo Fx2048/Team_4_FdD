@@ -104,7 +104,7 @@ Luego, al momento de analizar la estructura faltante la cual era proveniente de 
 
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="300" height="600" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="200" height="300" align="center" border="1"></p>
 
 
  
