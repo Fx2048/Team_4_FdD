@@ -47,12 +47,16 @@
   - En el presente circuito, trabajamos con resistencias de 220 ohm de las cuales se encontraban en serie y paralelo, respectivamente:
 
   **Calculando en serie:**
+  
+  Rs: Suma de resistencia en serie
 
    Rs= 220 ohm + 220 ohm = 440 ohm
     
    Considerando dicho resultado (Rs), procedemos a calcular en paralelo.
     
    **Calculando en paralelo:**
+
+   Rt: Suma de resistencia en paralelo
     
    1/Rt = 1/Rs + 1/220 ohm
     
