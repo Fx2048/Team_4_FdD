@@ -113,7 +113,9 @@ Para el desarrollo de este ejercicio identificamos las ubicaciones de las resist
 Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), R6(220 ohm).
 
 Serie_1: R1, R3
+
 Serie_2: R5, R6
+
 Serie_3: R2, R4
 
 Paralelo: serie_1, Serie_2, Serie_3
