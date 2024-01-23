@@ -128,11 +128,17 @@ Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición 
 
 Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
 Resistencias: 
+
 *R1(220 ohm)
+
 *R2(220 ohm)
+
 *R3(220 ohm)
+
 *R4(1000 ohm)
+
 *R5(220 ohm)
+
 *R6(220 ohm).
 
 Rs: Resistencia en serie
