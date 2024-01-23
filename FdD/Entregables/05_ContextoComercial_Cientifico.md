@@ -20,8 +20,7 @@ La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde
 En el estudio muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 El informe indica que el rendimiento del modelo de Random Forest es superior, alcanzando una precisión del 97%, en contraste con el Support Vector Classifier (SVC) que registra un 93%, el K-Nearest Neighbors (KNN) con un 90%, y la Regresión Logística con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.(Shreya, S.,2023)
 
-**Fuente** Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. Recuperado de [URL](https://doi.org/10.1016/j.suscom.2023.100917) o
-[Documento.](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_1.pdf)
+**Fuente** Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. Recuperado de [URL](https://doi.org/10.1016/j.suscom.2023.100917) o [Documento.](../../Documentación/art_1.pdf)
 
 
 ### 🚜ARTÍCULO 2: 
@@ -32,7 +31,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 
 <p align = "justify" >Los resultados de los experimentos de degradación con P. putida KTU-PGC mostraron una eficiente capacidad de degradación de carbofurano y CP, con una tasa de degradación más alta en comparación con P. putida KTU en las mismas condiciones. Además, los experimentos de remediación de suelos con muestras no expuestas previamente a pesticidas demostraron que la inoculación con P. putida KTU-PGC resultó en una reducción significativa de la concentración de carbofurano y CP en el suelo. Estos hallazgos sugieren que la cepa recombinante tiene un gran potencial para la biorremediación de suelos co-contaminados con carbofurano y CP (T. Gong et al., 2016).</p>
 
-**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [Documento.](../../Documentación/art_2.pdf)
+**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [URL](https://ami-journals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12381) o[Documento.](../../Documentación/art_2.pdf)
 
 
 ### 🚜ARTÍCULO 3:  
@@ -44,7 +43,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 
 <p align = "justify" >En condiciones prácticas de campo, la correlación entre los valores de pH obtenidos mediante el sensor y los del laboratorio experimentó una mejora significativa con la calibración, especialmente al incorporar datos de conductividad eléctrica del suelo en un entorno con variaciones de textura. Aunque este sensor muestra cierta precisión, es importante destacar que aún presenta limitaciones al determinar el pH en suelos que contienen ciertos bloques de maleza. A pesar de resaltar la utilidad de este método para lograr una mayor densidad de muestreo y comprender la variabilidad del pH del suelo en el campo, es crucial reconocer que existen desafíos, como la presencia de maleza, que afectan la exactitud del sensor. Este estudio subraya la importancia de continuar trabajando en el desarrollo de dispositivos similares para mejorar la determinación del pH del suelo y garantizar su idoneidad para el cultivo.</p>
 
-**Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH Mapping with an On-The-Go Sensor. Sensors, 11(1), Article 1. Recuperado de [Documento.](../../Documentación/art_3.pdf)
+**Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH Mapping with an On-The-Go Sensor. Sensors, 11(1), Article 1. Recuperado de [URL](https://www.mdpi.com/1424-8220/11/1/573) o [Documento.](../../Documentación/art_3.pdf)
 
 ### 🚜ARTÍCULO 4:
 ### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
@@ -52,7 +51,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 ### <p align = "center"> (Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana) </p>
 El estudio examinó la influencia de la temperatura del suelo, humedad y actividad microbiana en la mineralización y disipación del carbofurano en suelos agrícolas de Marruecos. La temperatura y humedad impactaron significativamente en las tasas de mineralización y disipación. El tratamiento con autoclave prolongó la vida media del insecticida. En suelos no tratados, las tasas de mineralización aumentaron con la humedad y temperatura del suelo, donde la vida media del carbofurano varió entre 26 y más de 90 días, con una disipación de primer orden. La degradación química y microbiana fueron las principales vías, dependientes de temperatura y humedad. El autoclave evitó la mineralización, resaltando la importancia de los microorganismos. Hallazgos útiles para evaluar riesgos y validar modelos en suelos agrícolas de Marruecos (Mohamed, 2022).
 
-**Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39. Recuperado de [Documento.](../../Documentación/art_4.pdf)
+**Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39. Recuperado de [URL](https://www.researchgate.net/profile/Rachid-Mrabet/publication/362294001_Study_on_Degradation_Processes_of_14_C-Carbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf) o [Documento.](../../Documentación/art_4.pdf)
 
 
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
