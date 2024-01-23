@@ -47,6 +47,7 @@
   - En el presente circuito, trabajamos con resistencias de 220 ohm de las cuales se encontraban en serie y paralelo, respectivamente:
 
   **Calculando en serie:**
+  
   Rs: Resultado en serie
 
    Rs= 220 ohm + 220 ohm = 440 ohm
