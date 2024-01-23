@@ -160,3 +160,12 @@ El desarrollo se basa en lo siguiente:
   <img src="../../../Imágenes/Imagen_desarrollo_1.jpg"
   width="400" height="80">
 </p>
+
+- Verificamos con el modelo del circuito.
+
+<p align="center">
+  <img src="../../../Imágenes/Imagen_desarrollo_2.jpg"
+  width="400" height="200">
+</p>
+
+- De este modo, obtenemos:
