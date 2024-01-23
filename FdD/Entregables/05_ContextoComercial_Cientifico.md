@@ -5,7 +5,7 @@
 </p>
 
 ### 🚜 Objetivo:🛜
-Investigación de la situación actual del ámbito comercial y científico, así como una lista de requisitos. Establecer una solución para aplicar. 
+Realizar una investigación sobre la situación actual en los ámbitos comercial y científico, con el fin de identificar una serie de requisitos. Posteriormente, plantear una solución para abordar una problemática específica.
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
