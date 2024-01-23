@@ -9,7 +9,7 @@ Realizar una investigación sobre la situación actual en los ámbitos comercial
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
-### 🚜ARTÍCULO 1 :
+### 🚜ARTÍCULO 1:
 ### <p align = "center">  BFSF: A secure IoT based framework for smart farming using blockchain </p>
 ### <p align = "center">  (BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain) </p>
 
@@ -24,7 +24,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 [Documento.](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_1.pdf)
 
 
-### 🚜ARTÍCULO 2 : 
+### 🚜ARTÍCULO 2: 
 ### <p align = "center"> Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos</p> 
 ### <p align = "center"> (Ingeniería Pseudomonas putida KT2440 para la degradación simultánea de carbofurano y clorpirifos) </p>
 #### 🚜Descripción: 
@@ -46,7 +46,7 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 
 **Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH Mapping with an On-The-Go Sensor. Sensors, 11(1), Article 1. Recuperado de [Documento.](../../Documentación/art_3.pdf)
 
-### 🚜ARTÍCULO 4 :
+### 🚜ARTÍCULO 4:
 ### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
 
 ### <p align = "center"> (Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana) </p>
