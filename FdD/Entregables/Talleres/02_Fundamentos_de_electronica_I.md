@@ -125,11 +125,11 @@ Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), 
 
  Rs2 = 220ohm + 220ohm = 440 ohm
 
-Serie_3: R2, R4
+**Serie_3:** **R2,** **R4**
 
  Rs3 = 220ohm + 1000ohm = 1220ohm
 
-Paralelo: serie_1, Serie_2, Serie_3
+**Paralelo:** **serie_1,** **Serie_2,** **Serie_3**
 
  1/RT = 1/ 440ohm + 1/440ohm + 1/1220ohm
 
