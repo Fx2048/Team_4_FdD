@@ -100,7 +100,7 @@ Lo cual al calcularse el valor resultante se obtuvo 87.9 ohmios,
 Luego, al momento de analizar la estructura faltante la cual era proveniente de la resistencia de 220 ohmios, dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se comprobó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios
 
 
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="350" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="400" align="center" border="1"></p>
 
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 
