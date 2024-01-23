@@ -56,7 +56,7 @@
     
    **Calculando en paralelo:**
 
-   Rt: Suma de resistencia en paralelo
+   Rt: Suma de resistencia total
     
    1/Rt = 1/Rs + 1/220 ohm
     
@@ -110,7 +110,8 @@ Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
 
 Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición del multímetro, sin presencia de cortocircuito y con normalidad. ¡Verificado!
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/05b00d42-12d5-4b2a-bd41-4331350672c1
+" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
 
 
 
