@@ -102,12 +102,19 @@ Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="400" height="500" align="center" border="1"></p>
 
-Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera más eficiente es la expuesta sin la resistencia apéndice de 220 ohm, contando con los cálculos
+Por lo que, testeamos la manera de evitar dicho corto circuito,y es así que, concideramos trabajar solamente con la parte hexagonal que esta conformado por serie y paralelo.
 
- Por lo que analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
+Calculando la serie:
+
+ Rs= 220ohm + 220ohm = 440ohm 
+
+De lo cual, nos quedaría lo siguiente:
+
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
 
- Por lo que analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
+Por otra parte, a partir de ello procedemos a calcular lo paralelo y de esa manera obtener la resistencia total.
+
+
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/699dd8a4-6ed3-4b60-8280-9b6ec9ae026a" alt="88_ohm_experimento_2" width="400" height="200" align="center" border="1"></p>
 
 Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición del multímetro, sin presencia de cortocircuito y con normalidad. ¡Verificado!
