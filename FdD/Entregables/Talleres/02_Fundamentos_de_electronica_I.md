@@ -117,13 +117,23 @@ Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición 
 Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
 Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), R6(220 ohm).
 
-Serie_1: R1, R3
+**Serie_1:** **R1,** **R3**
 
-Serie_2: R5, R6
+ Rs1 = 220ohm + 220ohm = 440 ohm
+
+**Serie_2:** **R5,** **R6**
+
+ Rs2 = 220ohm + 220ohm = 440 ohm
 
 Serie_3: R2, R4
 
+ Rs3 = 220ohm + 1000ohm = 1220ohm
+
 Paralelo: serie_1, Serie_2, Serie_3
+
+ 1/RT = 1/ 440ohm + 1/440ohm + 1/1220ohm
+
+ RT = 186.0ohm
 
 Calculando y remplazando con los valores de las resistencias respectivamente y aplicando la fórmula de la resistencia como también del paralelo, el resultado final fue 186.39 ohm, en la imagen podemos ver la respuesta comparada con el resultado del multímetro que fue 186.0 ohm.
 
