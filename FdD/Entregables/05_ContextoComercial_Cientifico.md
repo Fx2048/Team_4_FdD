@@ -53,6 +53,13 @@ El estudio examinó la influencia de la temperatura del suelo, humedad y activid
 
 **Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39. Recuperado de [URL](https://www.researchgate.net/profile/Rachid-Mrabet/publication/362294001_Study_on_Degradation_Processes_of_14_C-Carbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf) o [Documento.](../../Documentación/art_4.pdf)
 
+### 🚜ARTÍCULO 5:
+### <p align = "center">St----</p>
+
+### <p align = "center"> () </p>
+
+**Fuente:** Mo----. Recuperado de [URL]() o [Documento.]()
+
 
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 ## PRODUCTOS
