@@ -100,7 +100,7 @@ Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="400" height="500" align="center" border="1"></p>
 
-Por lo que, testeamos la manera de evitar dicho corto circuito,y es así que, concideramos trabajar solamente con la parte hexagonal que esta conformado por serie y paralelo.
+Por lo que testeamos la manera de evitar dicho corto circuito,y es así que concideramos trabajar solamente con la parte hexagonal que esta conformado por serie y paralelo.
 
 Calculando la serie:
 
@@ -110,7 +110,7 @@ De lo cual, nos quedaría lo siguiente:
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
 
-Por otra parte, a partir de ello procedemos a calcular lo paralelo y de esa manera obtener la resistencia total.
+De este modo, procedemos a calcular la resistencia equivalente de la distribución en paralelo.
 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/699dd8a4-6ed3-4b60-8280-9b6ec9ae026a" alt="88_ohm_experimento_2" width="400" height="200" align="center" border="1"></p>
