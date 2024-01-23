@@ -194,3 +194,7 @@ El desarrollo se basa en lo siguiente:
 
 Este último resultado corrobora la parte teórica del ejercicio, pero también se comprobó en la parte experimental, como se muestra a continuación:
 
+<p align="center">
+  <img src="../../../Imágenes/Imagen_desarrollo_4.png"
+  width="400" height="600">
+</p>
