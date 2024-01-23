@@ -48,7 +48,6 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 ### <p align = "center"> Soil pH Mapping with an On-The-Go Sensor  </p>   
 ###  <p align = "center"> (Mapeo de pH del suelo con un sensor On-The-Go) </p>   
 
-
 <p align = "justify" > En el presente artículo, se emplea el sensor Veris pH Manager con el objetivo de determinar el pH del suelo en las tierras de cultivo en Alemania. Es así que, se enfoca en tres escenarios: (a) la realización de pruebas en un entorno de laboratorio bajo condiciones controladas, (b) la ejecución de pruebas en transectos con interrupciones y marchas, y (c) la realización de pruebas en condiciones prácticas en el campo. Los datos recopilados revelan una relación consistente y estrecha entre los valores convencionales del laboratorio y las mediciones registradas por los sensores. Estos estudios ofrecen una evaluación exhaustiva del rendimiento del sensor de pH del suelo en diversas circunstancias. El análisis de estos enfoques contribuye a comprender la versatilidad y aplicabilidad del sistema en diferentes entornos. La exitosa implementación del sensor en condiciones prácticas se refleja en la automatización de mediciones en movimiento y la comparación con valores de laboratorio para validar los resultados.</p>
 
 
@@ -60,7 +59,9 @@ Artículo: [Documento](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
 
 ### 🚜ARTÍCULO 4 :
-### <p align = "center"> Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana </p>
+### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
+
+### <p align = "center"> (Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana) </p>
 El estudio examinó la influencia de la temperatura del suelo, humedad y actividad microbiana en la mineralización y disipación del carbofurano en suelos agrícolas de Marruecos. La temperatura y humedad impactaron significativamente en las tasas de mineralización y disipación. El tratamiento con autoclave prolongó la vida media del insecticida. En suelos no tratados, las tasas de mineralización aumentaron con la humedad y temperatura del suelo, donde la vida media del carbofurano varió entre 26 y más de 90 días, con una disipación de primer orden. La degradación química y microbiana fueron las principales vías, dependientes de temperatura y humedad. El autoclave evitó la mineralización, resaltando la importancia de los microorganismos. Hallazgos útiles para evaluar riesgos y validar modelos en suelos agrícolas de Marruecos (Mohamed, 2022).
 
 **Fuente:** Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.
