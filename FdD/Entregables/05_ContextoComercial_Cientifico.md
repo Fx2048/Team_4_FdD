@@ -7,6 +7,8 @@
 ### 🚜 Objetivo:🛜
 Realizar una investigación sobre la situación actual en los ámbitos comercial y científico, con el fin de identificar una serie de requisitos. Posteriormente, plantear una solución para abordar una problemática específica.
 
+---
+
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
 ## ARTÍCULOS
 ### 🚜ARTÍCULO 1:
@@ -61,6 +63,7 @@ El estudio examinó la influencia de la temperatura del suelo, humedad y activid
 **Fuente:** Mo----. Recuperado de [URL]() o [Documento.]()
 
 
+---
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 ## PRODUCTOS
 ### 🚜 PRODUCTO 1:
