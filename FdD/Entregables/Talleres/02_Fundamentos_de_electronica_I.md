@@ -115,6 +115,7 @@ Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), 
 Serie_1: R1, R3
 Serie_2: R5, R6
 Serie_3: R2, R4
+
 Paralelo: serie_1, Serie_2, Serie_3
 
 Calculando y remplazando con los valores de las resistencias respectivamente y aplicando la fórmula de la resistencia como también del paralelo, el resultado final fue 186.39 ohm, en la imagen podemos ver la respuesta comparada con el resultado del multímetro que fue 186.0 ohm.
