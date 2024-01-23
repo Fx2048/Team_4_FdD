@@ -86,8 +86,7 @@
 
 
 
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/78390f63-4ad6-4481-ab82-2b1eaea1d1e7
-" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/78390f63-4ad6-4481-ab82-2b1eaea1d1e7" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1"></p>
 
 
 
@@ -98,8 +97,7 @@ Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los 
 
 Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera más eficiente es la expuesta sin la resistencia apéndice de 220 ohm, contando con los cálculos
 
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/699dd8a4-6ed3-4b60-8280-9b6ec9ae026a
-" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/699dd8a4-6ed3-4b60-8280-9b6ec9ae026a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
 
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="200" height="300" align="center" border="1"></p>
