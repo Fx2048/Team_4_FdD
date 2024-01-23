@@ -150,10 +150,13 @@ El desarrollo se basa en lo siguiente:
 - Despejando la relación entre las resistencias para el correspondiente estimado. 
 
 <p align="center">
-  <img src="../../..//Imágenes/Imagen_desarrollo.jpg"
+  <img src="../../../Imágenes/Imagen_desarrollo.jpg"
   width="400" height="180">
 </p>
 
 - Asignando el valor de 1k ohm a la resistencia 2 (R2) para encontrar la resistencia 1 (R1). 
 
- ........ aqui aqui
+<p align="center">
+  <img src="../../../Imágenes/Imagen_desarrollo_1.jpg"
+  width="400" height="80">
+</p>
