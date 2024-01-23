@@ -96,13 +96,7 @@
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/78390f63-4ad6-4481-ab82-2b1eaea1d1e7" alt="Imagen_General_experimento_2" width="400" height="200" align="center" border="1"></p>
 
 
-
-<<<<<<< HEAD
 Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohm , se verificó que producía un cortocircuito, este hecho fue corraborado al medir su voltaje y resultaba 0 ohm,  con ayuda del multímetro.
-=======
-Dado que  se conectaba  a un mismo nodo(a) que las resistencias en paralelo de los extremos de 220 ohm , se verificó que producía un cortocircuito, este hecho fue corraborado al medir su voltaje y resultaba 0 ohm,  con ayuda del multimetro.
->>>>>>> 539f255783dbdd8ebbceb53cedf4306681063008
-
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="400" height="500" align="center" border="1"></p>
 
