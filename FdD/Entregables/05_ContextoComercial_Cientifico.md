@@ -39,7 +39,7 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 <p align = "justify" >Los resultados de los experimentos de degradación con P. putida KTU-PGC mostraron una eficiente capacidad de degradación de carbofurano y CP, con una tasa de degradación más alta en comparación con P. putida KTU en las mismas condiciones. Además, los experimentos de remediación de suelos con muestras no expuestas previamente a pesticidas demostraron que la inoculación con P. putida KTU-PGC resultó en una reducción significativa de la concentración de carbofurano y CP en el suelo. Estos hallazgos sugieren que la cepa recombinante tiene un gran potencial para la biorremediación de suelos co-contaminados con carbofurano y CP (T. Gong et al., 2016).</p>
 
-**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [Documento.](https://github.com/Fx2048/Team_4_FdD/blob/15974109eef794e28eff947a8354dde0daf1e5ab/Documentaci%C3%B3n/Articulo_2.pdf)
+**Fuente:** Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., Song, C., Liu, Y., & Yang, C. (2016). Engineering Pseudomonas putida KT2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial Biotechnology, 9(6), 792-800. Recuperado de [Documento.](../../Documentación/art_2.pdf)
 
 
 ### 🚜ARTÍCULO 3:  
@@ -51,10 +51,7 @@ Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framewo
 
 <p align = "justify" >En condiciones prácticas de campo, la correlación entre los valores de pH obtenidos mediante el sensor y los del laboratorio experimentó una mejora significativa con la calibración, especialmente al incorporar datos de conductividad eléctrica del suelo en un entorno con variaciones de textura. Aunque este sensor muestra cierta precisión, es importante destacar que aún presenta limitaciones al determinar el pH en suelos que contienen ciertos bloques de maleza. A pesar de resaltar la utilidad de este método para lograr una mayor densidad de muestreo y comprender la variabilidad del pH del suelo en el campo, es crucial reconocer que existen desafíos, como la presencia de maleza, que afectan la exactitud del sensor. Este estudio subraya la importancia de continuar trabajando en el desarrollo de dispositivos similares para mejorar la determinación del pH del suelo y garantizar su idoneidad para el cultivo.</p>
 
-**Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). 
-
-
-[Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/Articulo_3.pdf)
+**Fuente:** Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH Mapping with an On-The-Go Sensor. Sensors, 11(1), Article 1. Recuperado de [Documento.](../../Documentación/art_3.pdf)
 
 ### 🚜ARTÍCULO 4 :
 ### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
