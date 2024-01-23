@@ -56,7 +56,7 @@
     
    **Calculando en paralelo:**
 
-   Rt: Suma de resistencia en paralelo
+   Rt: Suma de resistencia total
     
    1/Rt = 1/Rs + 1/220 ohm
     
@@ -89,7 +89,7 @@
 ## *Ejercicio 2:*
 
 
-<p align="justify">En el experimento aplicativo, se elaboró un esquema en hexagonal, situando en paralelo las resistencias de 220 ohm a los extremos cada uno, y al centro en forma de serie, dos resistencias de 220 ohm y por el lado derecho, lleva una resistencia de 220 ohms, adicional.</p>
+<p align="justify">En el experimento aplicativo, se elaboró un esquema en hexagonal, situando en paralelo las resistencias de 220 ohm a los extremos cada uno, y al centro en forma de serie, dos resistencias de 220 ohm y por el lado derecho, lleva una resistencia de 220 ohm, adicional.</p>
 
 
 
@@ -97,20 +97,23 @@
 
 
 
-Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se verificó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios, en colaboración con el multimetro.
+Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohm , se verificó que producía un cortocircuito, este hecho fue corraborado al medir su voltaje y resultaba 0 ohm,  con ayuda del multimetro.
 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="400" height="500" align="center" border="1"></p>
 
-Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera más eficiente es la expuesta sin la resistencia apéndice de 220 ohm. Contando con los cálculos,analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
+Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera más eficiente es la expuesta sin la resistencia apéndice de 220 ohm, contando con los cálculos
 
+ Por lo que analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
 
-Y por consiguiente, realizamos el cálculo teórico de la resistencia equivalente.
+ Por lo que analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/699dd8a4-6ed3-4b60-8280-9b6ec9ae026a" alt="88_ohm_experimento_2" width="400" height="200" align="center" border="1"></p>
 
 Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición del multímetro, sin presencia de cortocircuito y con normalidad. ¡Verificado!
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="400" height="300" align="center" border="1"></p>
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/05b00d42-12d5-4b2a-bd41-4331350672c1" alt="88_ohm_experimento_2" width="400" height="600" align="center" border="1"></p>
+
+
 
 
 
