@@ -39,9 +39,9 @@
 </p>
 
 
-# Practica 1: Manejo de protoboard
+# Práctica 1: Manejo de protoboard
 
-## Ejercicio 1:
+## *Ejercicio 1:*
 
 ### Explicación: 
   - En el presente circuito, trabajamos resistencias de 220 ohm de las cuales se encontraban en serie y paralelo, respectivamente:
@@ -79,7 +79,7 @@
 
   
 
-## Ejercicio 2:
+## *Ejercicio 2:*
 
 
 En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos y al centro en forma de serie, para colocar las resistencias
@@ -107,13 +107,19 @@ Luego, al momento de analizar la estructura faltante la cual era proveniente de 
 
  
 
-## Ejercico 3:
+## *Ejercico 3:*
 
 
 ## Tema 1.1: Circuitos útiles
 
-## Ejercicio 4:
+## *Ejercicio 4:*
 
+En este ejercicio se presenta la implementación de resistencias para lograr una salida de 1.1V (OUTPUT) partiendo de una entrada de 5V (INPUT). A continuación, se dará a conocer el procedimiento teórico para encontrar dicho diferencial de potencial de 1.1 V:
+ 
+Antes de comenzar, cabe resaltar que, para encontrar una relación entre las resistencias, se utilizó el "Circuito Divisor de Tensión", el cual es una aplicación de la Ley de ohm que nos permite encontrar el voltaje de salida reducido de una resistencia y se basa en la siguiente fórmula:
 
+<p align="center">
+  <img src="../../../Imágenes/Imagen_formula.png">
+</p>
 
 
