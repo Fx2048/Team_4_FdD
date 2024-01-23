@@ -107,7 +107,32 @@ Luego, al momento de analizar la estructura faltante la cual era proveniente de 
 
  
 
-## *Ejercico 3:*
+## Ejercico 3:
+
+Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
+Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), R6(220 ohm).
+
+Serie_1: R1, R3
+
+Serie_2: R5, R6
+
+Serie_3: R2, R4
+
+Paralelo: serie_1, Serie_2, Serie_3
+
+Calculando y remplazando con los valores de las resistencias respectivamente y aplicando la fórmula de la resistencia como también del paralelo, el resultado final fue 186.39 ohm, en la imagen podemos ver la respuesta comparada con el resultado del multímetro que fue 186.0 ohm.
+
+<table style="width: 100%;">
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/da6e65f5dd195d752efc92a2db35e866a13971aa/Im%C3%A1genes/Taller_03/ejercicio3.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/f336c85fe123c5ead3596861d5a282d3fe95fd08/Im%C3%A1genes/Taller_03/ejerc_im3.jpeg" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
+        </td>
+    </tr>
+</table>
+
 
 
 ## Tema 1.1: Circuitos útiles
