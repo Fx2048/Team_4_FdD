@@ -127,6 +127,7 @@ Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición 
 ## Ejercicio 3:
 
 Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
+
 Resistencias: 
 
 *R1(220 ohm)
