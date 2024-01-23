@@ -102,6 +102,7 @@ Por lo que testeamos la manera de evitar dicho circuito, evaluando que la manera
  Por lo que analizamos que la mejor manera de no producir cortocircuito y sea más eficiente el esquema planteado es de la siguiente forma:
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/81d9ea9e-bb60-40ba-892f-edcda40eb726" alt="88_ohm_experimento_2" width="200" height="300" align="center" border="1"></p>
 
+Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición del multímetro, sin presencia de cortocircuito y con normalidad. ¡Verificado!
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="200" height="300" align="center" border="1"></p>
 
 
