@@ -97,7 +97,7 @@
 
 
 
-Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohm , se verificó que producía un cortocircuito, este hecho fue corraborado al medir su voltaje y resultaba 0 ohm,  con ayuda del multimetro.
+Dado que  se conectaba  a un mismo nodo(a) que las resistencias en paralelo de los extremos de 220 ohm , se verificó que producía un cortocircuito, este hecho fue corraborado al medir su voltaje y resultaba 0 ohm,  con ayuda del multimetro.
 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="400" height="500" align="center" border="1"></p>
@@ -129,7 +129,17 @@ Y tal como planteamos, el circuito cumple con eficacia el objetivo en medición 
 ## Ejercicio 3:
 
 Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
-Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), R6(220 ohm).
+Resistencias: 
+*R1(220 ohm)
+*R2(220 ohm)
+*R3(220 ohm)
+*R4(1000 ohm)
+*R5(220 ohm)
+*R6(220 ohm).
+
+Rs: Resistencia en serie
+
+RT: Resistencia total
 
 **Serie_1:** **R1,** **R3**
 
