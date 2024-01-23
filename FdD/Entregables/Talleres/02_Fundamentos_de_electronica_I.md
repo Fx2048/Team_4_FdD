@@ -44,13 +44,13 @@
 ## *Ejercicio 1:*
 
 ### Explicación: 
-  - En el presente circuito, trabajamos resistencias de 220 ohm de las cuales se encontraban en serie y paralelo, respectivamente:
+  - En el presente circuito, trabajamos con resistencias de 220 ohm de las cuales se encontraban en serie y paralelo, respectivamente:
 
   **Calculando en serie:**
 
    Rs= 220 ohm + 220 ohm = 440 ohm
     
-   conciderando dicho resultado (Rs), procedemos a calcular en paralelo.
+   Considerando dicho resultado (Rs), procedemos a calcular en paralelo.
     
    **Calculando en paralelo:**
     
@@ -62,7 +62,7 @@
     
    Rt = 146.6 ohm
 
-  - Por lo cual de este caso concluimos que la resistencia total nos dió 146.6 ohm.
+  - Por lo cual de este caso concluimos que la resistencia total nos dió 146.6 ohm y comparando con el resultado del multimetro, dicho cálculo estaría correcto.
 
 
 <table style="width: 100%;">
@@ -82,26 +82,22 @@
 ## *Ejercicio 2:*
 
 
-<p align="justify">En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos y al centro en forma de serie, para colocar las resistencias</p>
+<p align="justify">En el experimento aplicativo, se elaboró un esquema en hexagonal, situando en paralelo las resistencias de 220 ohm a los extremos cada uno, y al centro en forma de serie, dos resistencias de 220 ohm y por el lado derecho, lleva una resistencia de 220 ohms, adicional.</p>
 
 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/1276cc8b-9d7a-4eb3-8dc4-0769e31030c2" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1"></p>
 
- 
 
 
-
-Lo cual al calcularse el valor resultante se obtuvo 87.9 ohmios,
-
-<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
-
-
-Luego, al momento de analizar la estructura faltante la cual era proveniente de la resistencia de 220 ohmios, dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se comprobó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios
+Dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se verificó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios, en colaboración con el multimetro.
 
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="400" align="center" border="1"></p>
 
+Por lo que calculamos
+
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 
 <p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="200" height="300" align="center" border="1"></p>
