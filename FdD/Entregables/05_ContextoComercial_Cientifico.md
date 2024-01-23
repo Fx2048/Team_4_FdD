@@ -90,9 +90,7 @@ Cada parámetro cuenta con un interruptor dedicado para una identificación senc
 
 **Fuente:** Medidor De Dióxido De Carbono Co2 Calidad De Aire 5 En 1(s. f.). Mercado Libre [tienda virtual].
  
-
 **Precio:** S/ 229.00
-
 
 ### 🚜 PRODUCTO 3 : 
 ### <p align = "center">Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro</p>
@@ -106,7 +104,7 @@ La ausencia de dependencia de baterías facilita su uso en diversos entornos. Es
 
 **Parámetros:** PH, fertilidad del suelo
 
-**Imágen N°3:** Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro
+**Imágen N°3:** *TEST ANALIZADOR DE SUELO, FERTILIDAD, pH TIERRA CULTIVOS AGRO*
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/88a4417f67ad36a5916d12ab30be7082380be1f9/Im%C3%A1genes/Estado_del_arte/producto_3.png" width="400" height="500" style="margin: auto;">
@@ -115,7 +113,6 @@ La ausencia de dependencia de baterías facilita su uso en diversos entornos. Es
 **Fuente:** Test Analizador Suelo Fertilidad Ph Tierra Cultivos Agro. Mercado Libre [tienda virtual].
 
 **Precio:** S/ 99.00
-
 
 ## 🚜PATENTES
 ### 🚜**PATENTE 1:**
