@@ -172,7 +172,7 @@ El desarrollo se basa en lo siguiente:
 
 <p align="center">
   <img src="../../../Imágenes/Imagen_desarrollo_2.jpg"
-  width="400" height="200">
+  width="400" height="250">
 </p>
 
 - De este modo, obtenemos:
