@@ -157,3 +157,5 @@ El desarrollo se basa en lo siguiente:
 </p>
 
 - Asignando el valor de 1k ohm a la resistencia 2 (R2) para encontrar la resistencia 1 (R1). 
+
+ ........ aqui aqui
