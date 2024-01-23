@@ -156,3 +156,4 @@ El desarrollo se basa en lo siguiente:
   width="400" height="180">
 </p>
 
+- Asignando el valor de 1k ohm a la resistencia 2 (R2) para encontrar la resistencia 1 (R1). 
