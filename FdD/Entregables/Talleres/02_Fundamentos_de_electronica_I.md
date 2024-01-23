@@ -168,6 +168,9 @@ Calculando y remplazando con los valores de las resistencias respectivamente y a
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/da6e65f5dd195d752efc92a2db35e866a13971aa/Im%C3%A1genes/Taller_03/ejercicio3.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e105e545-8986-49cf-880d-2cbdde48b3d1.png" alt="" style="width: 100%; max-width: 100px; display: block; margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/f336c85fe123c5ead3596861d5a282d3fe95fd08/Im%C3%A1genes/Taller_03/ejerc_im3.jpeg" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
         </td>
     </tr>
@@ -183,7 +186,7 @@ En este ejercicio se presenta la implementación de resistencias para lograr una
  
 Antes de comenzar, cabe resaltar que, para encontrar una relación entre las resistencias, se utilizó el "Circuito Divisor de Tensión", el cual es una aplicación de la Ley de ohm que nos permite encontrar el voltaje de salida reducido de una resistencia y se basa en la siguiente fórmula:
 
-Vou: Voltaje de salida
+Vout: Voltaje de salida
 
 Vin: Voltaje de entrada
 
