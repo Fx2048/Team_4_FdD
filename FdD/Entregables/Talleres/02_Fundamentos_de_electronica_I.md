@@ -165,6 +165,11 @@ RT: Resistencia total
 
 Calculando y remplazando con los valores de las resistencias respectivamente y aplicando la fórmula de la resistencia como también del paralelo, el resultado final fue 186.39 ohm, en la imagen podemos ver la respuesta comparada con el resultado del multímetro que fue 186.0 ohm.
 
+Vou: Voltaje de salida
+
+Vin: Voltaje de entrada
+
+
 <table style="width: 100%;">
     <tr>
         <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
