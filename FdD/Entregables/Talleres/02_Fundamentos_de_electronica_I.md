@@ -82,11 +82,11 @@
 ## *Ejercicio 2:*
 
 
-En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos y al centro en forma de serie, para colocar las resistencias
+<p align="justify">En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos y al centro en forma de serie, para colocar las resistencias</p>
 
 
 
-<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/1276cc8b-9d7a-4eb3-8dc4-0769e31030c2" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1">
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/1276cc8b-9d7a-4eb3-8dc4-0769e31030c2" alt="Imagen_General_experimento_2" width="300" height="200" align="center" border="1"></p>
 
  
 
@@ -94,22 +94,22 @@ En el experimento aplicativo, se elaboró un esquema en paralelo  a los extremos
 
 Lo cual al calcularse el valor resultante se obtuvo 87.9 ohmios,
 
-<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1">
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74fe31b3-b65d-402f-9dcc-4b5680c4591a" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
 
 
 Luego, al momento de analizar la estructura faltante la cual era proveniente de la resistencia de 220 ohmios, dado que  se conectaba  a un mismo nodo que las resistencias en paralelo de los extremos de 220 ohmios , se comprobó que producía un cortocircuito al medir su voltaje y resultaba 0 ohmios
 
 
-<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="200" align="center" border="1">
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/3195662c-925f-4197-825a-119dd6953b1a" alt="0_ohm_experimento_2" width="300" height="200" align="center" border="1"></p>
 
  Por lo que nos mantuvimos con la respuesta inicial preevaluada.
 
-<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="300" height="200" align="center" border="1">
+<p align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a0d8b736-984f-473d-a762-5ee81156a3f2" alt="88_ohm_experimento_2" width="300" height="600" align="center" border="1"></p>
 
 
  
 
-## Ejercico 3:
+## Ejercicio 3:
 
 Para el desarrollo de este ejercicio identificamos las ubicaciones de las resistencias(serie o paralelo).
 Resistencias: R1(220 ohm), R2(220 ohm), R3(220 ohm), R4(1000 ohm), R5(220 ohm), R6(220 ohm).
