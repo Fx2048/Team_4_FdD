@@ -189,7 +189,7 @@ El desarrollo se basa en lo siguiente:
 
 <p align="center">
   <img src="../../../Imágenes/Imagen_desarrollo_3.jpg"
-  width="400" height="250">
+  width="400" height="300">
 </p>
 
 Este último resultado corrobora la parte teórica del ejercicio, pero también se comprobó en la parte experimental, como se muestra a continuación:
