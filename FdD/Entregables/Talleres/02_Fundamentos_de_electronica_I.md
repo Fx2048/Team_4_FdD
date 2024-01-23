@@ -73,6 +73,9 @@
         <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/Img_1.2.jpg" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
         </td>
+        <td style="border: 0px solid #ddd; padding: 4px; text-align: center;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_03/taller_03_ejer_1.jpg" alt="" style="width: 70%; max-width: 50px; display: block; margin: auto;">
+        </td>
     </tr>
 </table>
 
