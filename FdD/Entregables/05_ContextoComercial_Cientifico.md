@@ -20,15 +20,8 @@ La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde
 En el estudio muestra la evolución de los modelos de machine learning que determinan la condición actual del cultivo , y muestra la forma predictiva mediante su base de datos la forma de mejorar la condición ambiental del cultivo.
 El informe indica que el rendimiento del modelo de Random Forest es superior, alcanzando una precisión del 97%, en contraste con el Support Vector Classifier (SVC) que registra un 93%, el K-Nearest Neighbors (KNN) con un 90%, y la Regresión Logística con un 84%. Esta tecnología ayuda a reducir costos y mejorar la calidad general del proceso agrícola y la gestión de productos con una gestión de cadena de suministro basada en blockchain para mejorar el contexto económico de los agricultores.(Shreya, S.,2023)
 
-
-Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. 
-[url](https://doi.org/10.1016/j.suscom.2023.100917)
-[pdf](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_1.pdf)
-
-
-
-
-
+**Fuente** Shreya, S., Chatterjee, K., & Singh, A. (2023). BFSF: A secure IoT based framework for smart farming using blockchain. Sustainable Computing: Informatics and Systems, 40, 100917. Recuperado de [URL](https://doi.org/10.1016/j.suscom.2023.100917) o
+[Documento.](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art_1.pdf)
 
 
 ### 🚜ARTÍCULO 2 : 
