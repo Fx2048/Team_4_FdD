@@ -206,7 +206,7 @@ Los registros obtenidos a partir de esta configuración y visualización proporc
 <table border="1">
   <tr>
     <th>Frecuencia(KHz) </th>
-    <th>Amplitud(V)(</th>
+    <th>Amplitud(V)</th>
     <th>Periodo(ms)</th> 
   </tr>
   <tr>
