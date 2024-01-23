@@ -159,9 +159,7 @@ RT: Resistencia total
 
 Calculando y remplazando con los valores de las resistencias respectivamente y aplicando la fórmula de la resistencia como también del paralelo, el resultado final fue 186.39 ohm, en la imagen podemos ver la respuesta comparada con el resultado del multímetro que fue 186.0 ohm.
 
-Vou: Voltaje de salida
 
-Vin: Voltaje de entrada
 
 
 <table style="width: 100%;">
@@ -184,6 +182,11 @@ Vin: Voltaje de entrada
 En este ejercicio se presenta la implementación de resistencias para lograr una salida de 1.1V (OUTPUT) partiendo de una entrada de 5V (INPUT). A continuación, se dará a conocer el procedimiento teórico para encontrar dicho diferencial de potencial de 1.1 V:
  
 Antes de comenzar, cabe resaltar que, para encontrar una relación entre las resistencias, se utilizó el "Circuito Divisor de Tensión", el cual es una aplicación de la Ley de ohm que nos permite encontrar el voltaje de salida reducido de una resistencia y se basa en la siguiente fórmula:
+
+Vou: Voltaje de salida
+
+Vin: Voltaje de entrada
+
 
 <p align="center">
   <img src="../../../Imágenes/Imagen_formula.png">
