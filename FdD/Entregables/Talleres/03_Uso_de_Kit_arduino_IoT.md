@@ -306,7 +306,7 @@ La característica de la MKR IoT Carrier es que presenta 5 botones táctiles y e
     if (carrier.Buttons.onTouchDown(TOUCH3)) {
       printHumidity();
     }
-  }
+  
 
 
 
