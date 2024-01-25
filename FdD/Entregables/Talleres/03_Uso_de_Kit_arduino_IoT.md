@@ -64,10 +64,7 @@
 
   
 
-<p align="center"> 
-
-  Lima-2024 
-
+<p align="center">  Lima-2024 
 </p> 
 
   
@@ -83,9 +80,7 @@
 ##   Introducción 🔖: 
 
 <p align="justify"> 
-
 En la actualidad, la medición de factores climatológicos ha sido más accesible gracias a recursos como el internet de las cosas, es por ello; que mediante una adaptación experimental básica y simplificada, se ha procedido a recrear cómo registrar la temperatura y la humedad localmente leyendo el sensor HTS221 con el que viene equipado el MKR IoT Carrier usando un kit de IoT lúdico y educativo. Para ello, nuestros tres objetivos planteados son los siguientes:  
-
 </p> 
 
  
@@ -135,7 +130,6 @@ Esta actividad empezamos unir las partes del sensor y de esa manera implementar 
  
 
 <p align="justify"> 
-
 Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carrier y todo esto ponerlo dentro de un pote circular implementado para este tipo y conectarlo a nuestro ordenador a través de un cable USB para que funcione y a la vez transmitir el código implementado, por otra parte, una vez transferido el código, si queremos que funcione sin estar conectado a la laptop se le conecta a una batería a través de dos cables pequeños. 
 
 </p> 
@@ -155,7 +149,6 @@ Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 ### Explicación:  
 
 <p align="justify"> 
-
 Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que determina la humedad y la temperatura, donde los datos serán mostrados en la pantalla del MKR IoT y para un mejor funcionamiento y visualización serán intercambiados a través del touch. Asimismo, para realizar todo lo anterior, se nos brindó un código, lo cual se visualizan en las siguientes líneas:  
 
 </p> 
@@ -191,7 +184,6 @@ Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que d
  
 
 <p align="justify"> 
-
 En este bucle principal del loop(), la primera parte nos permite leer la temperatura y la humedad del sensor, asimismo, mediante el método .update nos facilita actualizar y tener una información contundente sobre los botones táctiles. Después, en el Serial se imprimen los valores actuales de la temperatura y humedad importantes para un buen funcionamiento, además, la parte final verifica si los botones táctiles han sido tocados y así cumplir lo solicitado, como observamos el TOUCH0 nos habilita la opción de cambiar a temperatura y, por otra parte, el TOUCH1 nos posibilita cambiar a humedad, por lo cual, estas funciones nos proporcionan la facilidad de configurar los colores y el tamaño de las letras de la pantalla.  
 
 </p> 
