@@ -135,7 +135,12 @@ Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 </p> 
 
  
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_3/img1.jpg"></td>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_3/img2.jpg"></td>
+  </tr>
+</table>
  
 
  
