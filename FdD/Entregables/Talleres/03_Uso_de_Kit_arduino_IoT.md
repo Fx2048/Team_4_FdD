@@ -179,10 +179,9 @@ Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que d
       printHumidity();
     }
   }
-   
 
- 
 
+  
 <p align="justify"> 
 En este bucle principal del loop(), la primera parte nos permite leer la temperatura y la humedad del sensor, asimismo, mediante el método .update nos facilita actualizar y tener una información contundente sobre los botones táctiles. Después, en el Serial se imprimen los valores actuales de la temperatura y humedad importantes para un buen funcionamiento, además, la parte final verifica si los botones táctiles han sido tocados y así cumplir lo solicitado, como observamos el TOUCH0 nos habilita la opción de cambiar a temperatura y, por otra parte, el TOUCH1 nos posibilita cambiar a humedad, por lo cual, estas funciones nos proporcionan la facilidad de configurar los colores y el tamaño de las letras de la pantalla.  
 
@@ -358,11 +357,6 @@ Como se podrá notar, se declaró tres funciones de las escalas de temperatura y
     
 
 
- 
-
- 
-
- 
 
 <p align="justify">  
 
@@ -373,7 +367,13 @@ También se mostrarán a continuación, como evidencia de lo trabajado, las foto
 </p> 
 
  
-
+<table>
+  <tr>
+    <td><img src="../../../Imágenes/Taller_3/Imagen_C.jpg"></td>
+    <td><img src="../../../Imágenes/Taller_3/Imagen_F.jpg"></td>
+    <td><img src="../../../Imágenes/Taller_3/Imagen_K.jpg"></td>
+  </tr>
+</table>
  
 
  
