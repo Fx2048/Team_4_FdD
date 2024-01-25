@@ -178,7 +178,7 @@ Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que d
     if (carrier.Buttons.onTouchDown(TOUCH1)) {
       printHumidity();
     }
-  }
+  
 
 
   
