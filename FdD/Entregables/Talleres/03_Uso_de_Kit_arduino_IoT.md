@@ -110,9 +110,9 @@ Con todo lo anterior expuesto, esperamos presentar la correcta realización de l
  
 
 <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/39318f60-6392-407d-bc85-67d681408d55
-" width="900" height="350" style="margin: auto;"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/39318f60-6392-407d-bc85-67d681408d55" width="900" height="350" style="margin: auto;"> 
 </p> 
+
 
 
 ## Procedimiento 🔎: 
@@ -236,7 +236,16 @@ Y todo lo anterior nos brindó la siguiente salida:
 
  
 
-Insertando imagen...Insertando imagen...Insertando imagen...Insertando imagen... 
+<table>
+  <tr>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/14fb5249-290b-42a8-a0e9-5c3004873a49"></td>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/058bbba3-ff0c-4c71-9aef-ad841fe3c18f"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/33e57359-450b-4f4f-8dc0-48ba5518cce8"></td>
+    <td><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/5c0e05b4-a793-4e79-b7d9-9f9cf8b666b0"></td>
+  </tr>
+</table>
 
 <p align="justify"> 
 
