@@ -114,9 +114,6 @@ Con todo lo anterior expuesto, esperamos presentar la correcta realización de l
 
  
 
-<p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c0077439-a26c-407f-9186-0fe03975fbe3" width="600" height="750" style="margin: auto;"> 
-</p>
 
 
 ## Procedimiento: 
@@ -137,7 +134,10 @@ Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 
  
 
- 
+ <p align="center"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c0077439-a26c-407f-9186-0fe03975fbe3" width="600" height="750" style="margin: auto;"> 
+</p>
+
 
  
 
@@ -156,6 +156,9 @@ Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que d
 </p> 
 
  
+  <p align="center"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
+</p>
 
  
 
@@ -165,9 +168,6 @@ En este bucle principal del loop(), la primera parte nos permite leer la tempera
 
 </p> 
 
-  <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
-</p>
 
 
 Continuando con lo implementado tenemos el siguiente código. 
