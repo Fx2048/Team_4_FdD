@@ -80,7 +80,7 @@
 
   
 
-##   Introducción: 
+##   Introducción 🔖: 
 
 <p align="justify"> 
 
@@ -114,10 +114,17 @@ Con todo lo anterior expuesto, esperamos presentar la correcta realización de l
 
  
 
+<p align="center"> 
+  <img src=" https://github.com/Fx2048/Team_4_FdD/assets/131219987/c0077439-a26c-407f-9186-0fe03975fbe3" width="350" height="900" style="margin: auto;"> 
+</p> 
 
 
-## Procedimiento: 
+## Procedimiento 🔎: 
 
+### Materiales 📄:
+  - Arduino MKR WiFi 1010.
+  - MKR IoT Carrier.
+  - Cable Micro USB.
 <p align="justify"> 
 
 Esta actividad empezamos unir las partes del sensor y de esa manera implementar el código, por lo cual seguimos los siguientes pasos: 
@@ -134,16 +141,13 @@ Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 
  
 
- <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c0077439-a26c-407f-9186-0fe03975fbe3" width="600" height="750" style="margin: auto;"> 
-</p>
-
+ 
 
  
 
  
 
-## *Ejercicio 1:* 
+## *Ejercicio 1 📑:* 
 
   
 
@@ -155,10 +159,33 @@ Para la ejecución de este primer ejercicio se hará uso del sensor HTS221 que d
 
 </p> 
 
- 
-  <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
-</p>
+    void loop() {
+    // lee los valores del sensor
+    temperature = carrier.Env.readTemperature();
+    humidity = carrier.Env.readHumidity();
+  
+    // Actualiza los botones táctiles
+    carrier.Buttons.update();
+  
+    // imprime cada uno de los valores del sensor
+    Serial.print("Temperature = ");
+    Serial.print(temperature);
+    Serial.println(" °C");
+  
+    Serial.print("Humidity = ");
+    Serial.print(humidity);
+    Serial.println(" %");
+  
+    // función para imprimir los valores
+    if (carrier.Buttons.onTouchDown(TOUCH0)) {
+      printTemperature();
+    }
+  
+    if (carrier.Buttons.onTouchDown(TOUCH1)) {
+      printHumidity();
+    }
+  }
+   
 
  
 
@@ -168,14 +195,37 @@ En este bucle principal del loop(), la primera parte nos permite leer la tempera
 
 </p> 
 
-
+ 
 
 Continuando con lo implementado tenemos el siguiente código. 
 
-  <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a1a2ef3e-9adf-425b-8ede-074616b6f3df" width="650" height="350" style="margin: auto;"> 
-</p>
+    void printTemperature() {
+      // Configura la pantalla, establece el color de fondo, el tamaño del texto y el color del texto
+      carrier.display.fillScreen(ST77XX_RED); // fondo rojo
+      carrier.display.setTextColor(ST77XX_WHITE); // texto blanco
+      carrier.display.setTextSize(6); // texto grande
+    
+      carrier.display.setCursor(30, 50); // posición para imprimir (x y y)
+      carrier.display.print("Temp: ");
+      carrier.display.setTextSize(4); // disminuye el tamaño del texto
+      carrier.display.setCursor(40, 120); // nueva posición para imprimir (x y y)
+      carrier.display.print(temperature);
+      carrier.display.print(" C");
+    }
+    
+    void printHumidity() {
+      // Configura la pantalla, establece el color de fondo, el tamaño del texto y el color del texto
+      carrier.display.fillScreen(ST77XX_BLUE); // fondo azul
+      carrier.display.setTextColor(ST77XX_WHITE); // texto blanco
+      carrier.display.setTextSize(2); // texto de tamaño medio
+    
+      carrier.display.setCursor(20, 110); // posición para imprimir (x y y)
+      carrier.display.print("Humi: ");
+      carrier.display.print(humidity);
+      carrier.display.println(" %");
+    }
 
+ 
 
 <p align="justify"> 
 
@@ -191,10 +241,9 @@ Y todo lo anterior nos brindó la siguiente salida:
 
  
 
+ 
 
-
-
-
+Insertando imagen...Insertando imagen...Insertando imagen...Insertando imagen... 
 
 <p align="justify"> 
 
@@ -204,7 +253,7 @@ En base a lo anterior, según los datos presentados en la pantalla digital, anal
 
  
 
-## *Ejercicio 2:*  **Visualizar temperaturas: Fahrenheit, Celsius y Kelvin** 
+## *Ejercicio 2 📑:*  **Visualizar temperaturas: Fahrenheit, Celsius y Kelvin** 
 
  
 
@@ -218,7 +267,21 @@ Para este ejercicio, se pidió mostrar en la pantalla de la MKR IoT Carrier las 
 
 </p> 
 
- 
+     void printTemperature() {
+      // Configura la pantalla, establece el color de fondo, el tamaño del texto y el color del texto
+      carrier.display.fillScreen(ST77XX_RED); // fondo rojo
+      carrier.display.setTextColor(ST77XX_WHITE); // texto blanco
+      carrier.display.setTextSize(6); // texto grande
+    
+      carrier.display.setCursor(30, 50); // posición para imprimir (x y y)
+      carrier.display.print("Temp: ");
+      carrier.display.setTextSize(4); // disminuye el tamaño del texto
+      carrier.display.setCursor(40, 120); // nueva posición para imprimir (x y y)
+      carrier.display.print(temperature);
+      carrier.display.print(" C");
+    }
+
+
 
  
 
@@ -238,7 +301,8 @@ Como se podrá notar, se declaró tres funciones de las escalas de temperatura y
 
 </p> 
 
- 
+
+
 
  
 
@@ -272,7 +336,7 @@ En este ejercicio es importante resaltar que se implementaron funciones requerid
 
  
 
-CONCLUSIÓN: 
+## CONCLUSIÓN 💡: 
 
 <p align="justify"> 
 
