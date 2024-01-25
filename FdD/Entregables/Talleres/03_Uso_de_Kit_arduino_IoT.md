@@ -293,9 +293,23 @@ La característica de la MKR IoT Carrier es que presenta 5 botones táctiles y e
 
 </p> 
 
- 
+  
+    //function to print out values
+    if (carrier.Buttons.onTouchDown(TOUCH0)) {
+      printTemperatureInCelsius();
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH1)) {
+      printTemperatureInKelvin();
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH2)) {
+      printTemperatureInFahrenheit();
+    }
+    if (carrier.Buttons.onTouchDown(TOUCH3)) {
+      printHumidity();
+    }
+  }
 
-Insertando imagen... 
+
 
 <p align="justify">  
 
@@ -303,7 +317,45 @@ Como se podrá notar, se declaró tres funciones de las escalas de temperatura y
 
 </p> 
 
-
+    void printTemperatureInCelsius() {
+      //configuring display, setting background color, text size and text color
+      carrier.display.fillScreen(ST77XX_RED); //red background
+      carrier.display.setTextColor(ST77XX_WHITE); //white text
+      carrier.display.setTextSize(6); //large sized text
+      carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+      carrier.display.print("Temp: ");
+      carrier.display.setTextSize(4); //decreasing text size
+      carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+      carrier.display.print(temperature);
+      carrier.display.print(" C");
+    }
+    void printTemperatureInKelvin() {
+      //configuring display, setting background color, text size and text color
+      float temperatureK = temperature + 273.15; // Coversion de escala a Kelvin
+      carrier.display.fillScreen(ST77XX_RED); //red background
+      carrier.display.setTextColor(ST77XX_WHITE); //white text
+      carrier.display.setTextSize(6); //large sized text
+      carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+      carrier.display.print("Temp: ");
+      carrier.display.setTextSize(4); //decreasing text size
+      carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+      carrier.display.print(temperatureK);
+      carrier.display.print(" K");
+    }
+    void printTemperatureInFahrenheit() {
+      //configuring display, setting background color, text size and text color
+      float temperatureF = (temperature * 9/5) + 32; // Convesión de escala a Fahrenheit
+      carrier.display.fillScreen(ST77XX_RED); //red background
+      carrier.display.setTextColor(ST77XX_WHITE); //white text
+      carrier.display.setTextSize(6); //large sized text
+      carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+      carrier.display.print("Temp: ");
+      carrier.display.setTextSize(4); //decreasing text size
+      carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+      carrier.display.print(temperatureF);
+      carrier.display.print(" F");
+    }
+    
 
 
  
@@ -326,9 +378,7 @@ También se mostrarán a continuación, como evidencia de lo trabajado, las foto
 
  
 
-<p align="justify"> 
-
-En este ejercicio es importante resaltar que se implementaron funciones requeridas para mostrar las temperaturas en diferentes escalas en la pantalla MKR IoT  Carrier. Además, las fotos de las temperaturas en la pantalla proporcionan los resultados de los códigos mostrados en dicho ejercicio. 
+<p align="justify"> En este ejercicio, es fundamental resaltar que se implementaron funciones necesarias para mostrar las temperaturas en diferentes escalas en la pantalla del MKR IoT Carrier. Además, las imágenes adjuntas de las temperaturas en la pantalla proporcionan los resultados visuales de los códigos presentados en dicho ejercicio, ofreciendo un mapeo claro de los datos recopilados.
 
 </p> 
 
