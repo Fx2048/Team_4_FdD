@@ -185,9 +185,12 @@ Y todo lo anterior nos brindó la siguiente salida:
 
  
 
- 
+ <p align="center"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
+</p>
 
-Insertando imagen...Insertando imagen...Insertando imagen...Insertando imagen... 
+
+
 
 <p align="justify"> 
 
