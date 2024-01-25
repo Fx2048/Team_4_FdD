@@ -116,9 +116,10 @@ Con todo lo anterior expuesto, esperamos presentar la correcta realización de l
 
 <p align="center"> 
 
-  <img src=" https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e23c065-a203-41e2-b5ed-30a76e7e362f " width="350" height="900" style="margin: auto;"> 
+  <img src=" https://github.com/Fx2048/Team_4_FdD/assets/131219987/c0077439-a26c-407f-9186-0fe03975fbe3" width="350" height="900" style="margin: auto;"> 
 
 </p> 
+
 
 ## Procedimiento: 
 
