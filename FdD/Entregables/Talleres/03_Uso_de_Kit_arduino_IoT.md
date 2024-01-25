@@ -121,7 +121,7 @@ Con todo lo anterior expuesto, esperamos presentar la correcta realización de l
 
 ## Procedimiento 🔎: 
 
-### Materiales 📄:
+- ### Materiales 📄:
   - Arduino MKR WiFi 1010.
   - MKR IoT Carrier.
   - Cable Micro USB.
@@ -147,7 +147,7 @@ Primero necesitamos montar la placa Arduino MKR WiFi 1010 sobre la MKR IoT Carri
 
  
 
-## *Ejercicio 1 📑:* 
+## *Ejercicio 1 📑:*  Visualizar temperatura y humedad.
 
   
 
