@@ -165,7 +165,10 @@ En este bucle principal del loop(), la primera parte nos permite leer la tempera
 
 </p> 
 
- 
+  <p align="center"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
+</p>
+
 
 Continuando con lo implementado tenemos el siguiente código. 
 
@@ -185,8 +188,9 @@ Y todo lo anterior nos brindó la siguiente salida:
 
  
 
+
  <p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/669eabd5-07f9-4c79-932d-04d16c2e8772" width="350" height="350" style="margin: auto;"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a1a2ef3e-9adf-425b-8ede-074616b6f3df" width="350" height="350" style="margin: auto;"> 
 </p>
 
 
