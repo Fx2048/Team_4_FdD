@@ -1,7 +1,11 @@
 
 # <p align="center"> 🚜CAJA NEGRA Y ESQUEMA DE FUNCIONES 💡 </p>
 
-<img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f2053d33-5914-40b6-ad90-8f640e51be34" alt="Descripción de la imagen" width="900" height="600">
+
+
+<center>
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f2053d33-5914-40b6-ad90-8f640e51be34" alt="Descripción de la imagen" width="920" height="640">
+</center>
 
 
 ## <p align = "center"> 🚜Caja negra</p>
