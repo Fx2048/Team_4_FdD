@@ -63,10 +63,11 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 
 ### <p align = "center"> (Biodegradación de carbofurano en suelos pretratados y no pretratados) </p>
 
-<p align = "justify" >En este presente artículo, se describe un estudio sobre el grado de degradación del insecticida carbofurán y el tipo de productos de degradación en suelos. Se distinguen dos tipos de suelos: "históricos", que han sido tratados con carbofurán durante 3 y 8 años consecutivos, y "no históricos", que no han tenido un historial extenso de tratamiento.</p>
+<p align = "justify" >En este presente artículo, se describe un estudio sobre el grado de degradación del insecticida carbofurán y el tipo de productos de degradación en suelos. Se distinguen dos tipos de suelos: "históricos", que han sido tratados con carbofurán durante 3 y 8 años consecutivos, y "no históricos", que no han tenido un historial extenso de tratamiento. </p>
 
 
-**Fuente:** Mo----. Recuperado de [URL]() o [Documento.]()
+**Fuente:** 
+Camper, N D, Fleming, M M, & Skipper, H D. Biodegradation of carbofuran in pretreated and non-pretreated soils. United States. Recuperado de [URL](https://doi.org/10.1007/BF01698447) o [Documento.](../../Documentación/art_5.pdf)
 
 
 ---
