@@ -4,7 +4,8 @@
 
 <p align="> </p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/empatia_03.png" width="850" height="470" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/744413ad-5943-40dd-93a9-3d1ac99ef8cf" width="850" height="470" style="margin: auto;"></P>
+
 
 ## <p > 🚜MAPA DE VIAJE 🛩️</p>
 
