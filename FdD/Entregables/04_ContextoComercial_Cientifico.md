@@ -292,7 +292,7 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 ### 🚜 FUNCIONALES:
 
 <p align="center">
-  <img srchttps://github.com/Fx2048/Team_4_FdD/assets/131219987/9fdc9197-d567-41a3-93b2-cc04c7c8e761" width="900" height="500" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/507c4828-9bf8-47e8-ab7b-74985eca4ee7" width="900" height="500" style="margin: auto;">
 </p>
 
 ### 🚜NO FUNCIONALES
