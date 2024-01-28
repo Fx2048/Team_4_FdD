@@ -4,18 +4,32 @@
   <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="350" style="margin: auto;">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/02cd6c5b-e591-4ba6-ae8c-e0dd9d15eefc" width="900" height="350" style="margin: auto;">
+</p>
+
+
 ### 🚜 Objetivo:🛜
 Realizar una investigación sobre la situación actual en los ámbitos comercial y científico, con el fin de identificar una serie de requisitos. Posteriormente, plantear una solución para abordar una problemática específica.
 
----
+
 
 #  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74b2196e-2183-471c-ba6e-5a2d0da23cdf" width="850" height="470" style="margin: auto;"></P>
+
+
+
 ## ARTÍCULOS
+
 ### 🚜ARTÍCULO 1:
+
 ### <p align = "center">  BFSF: A secure IoT based framework for smart farming using blockchain </p>
+
 ### <p align = "center">  (BFSF: un marco seguro basado en IoT para la agricultura inteligente utilizando blockchain) </p>
 
 #### 🚜Descripción:
+
 <p align = "justify" >En esta investigación se investigan los modelos de machine learning y block-chain para partir por el registro de las condiciones donde se están gestando los cultivos, luego, detecta los problemas que acarrean dichas condiciones mediante sus algoritmos, y después predice los medios óptimos para que se desarrolle un mejor ambiente para preservarlos.
 La arquitectura consta de tres capas: la capa de cultivo (CPS), la capa de borde y la capa de red blockchain. La capa de cultivo se encarga de recopilar y transmitir datos de los sensores desplegados en el campo agrícola. La capa de borde utiliza un modelo basado en inteligencia artificial para analizar los datos y generar información útil para la toma de decisiones. La capa de red blockchain proporciona una plataforma segura y descentralizada para registrar y verificar los datos agrícolas y facilitar las transacciones entre los participantes de la cadena de suministro.</p>
 
@@ -73,6 +87,10 @@ Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran 
 
 ---
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e217f445-55b8-4b40-b6ee-89e538c2f2df" width="850" height="470" style="margin: auto;"></P>
+
+
 ## PRODUCTOS
 ### 🚜 PRODUCTO 1:
 ### <p align = "center"> SENSOR TPH01805A</p>
@@ -269,32 +287,28 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 
 ## 🚜LISTA DE REQUERIMIENTOS:
 
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/68415fe1-32cf-49db-b9c2-9630003a532f" width="850" height="470" style="margin: auto;"></P>
+
 ### 🚜 FUNCIONALES:
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Funcionales.png" width="900" height="500" style="margin: auto;">
+  <img srchttps://github.com/Fx2048/Team_4_FdD/assets/131219987/9fdc9197-d567-41a3-93b2-cc04c7c8e761" width="900" height="500" style="margin: auto;">
 </p>
-
 
 ### 🚜NO FUNCIONALES
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/No_funcionales.png" width="900" height="500" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/572e6321-611e-465e-b2a6-e89ebac402ab" width="900" height="500" style="margin: auto;">
 </p>
-
 
 ## 🚜ESTRATEGIA SOLUCIÓN:
 
-
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Estado_del_arte/Estrategias.png" width="900" height="500" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/61c931d0-3b9b-4446-a57a-342c93d2151c" width="900" height="500" style="margin: auto;">
 </p>
-
-
 
 ### Presentación: 
 [CLICK](https://www.canva.com/design/DAF6FI-bhh8/3-qk_cwKuTzv0XqdTK-b5Q/edit)
-
 
 
 ##  🚜REFERENCIA BIBLIOGRÁFICA
@@ -306,3 +320,9 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 - Mohamed, B., Rachid, M., Rachid, M., & Amina, A. (2022). Study on Degradation Processes of 14 C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity. Current Topics on Chemistry and Biochemistry Vol. 4, 17-39.Recuperado de [URL](https://www.researchgate.net/profile/RachidMrabet/publication/362294001_Study_on_Degradation_Processes_of_14_CCarbofuran_in_Soil_from_Northwest_Morocco_as_Influenced_by_Soil_Water_Content_Temperature_and_Microbial_Activity/links/62e1cb3c9d410c5ff3696471/Study-on-Degradation-Processes-of-14-C-Carbofuran-in-Soil-from-Northwest-Morocco-as-Influenced-by-Soil-Water-Content-Temperature-and-Microbial-Activity.pdf)
 - Schirrmann, M., Gebbers, R., Kramer, E., & Seidel, J. (2011). Soil pH mapping with an on-the-go sensor. Sensors, 11(1), 573-598.
 - Miller, T., Le Bernalet, P. & Mallory, H. (2018). *Soil chemistry sensor*(Patent Núm. CN:104884947:B). En Patent (CN:104884947:B). Recuperado de https://patentscope.wipo.int/search/en/detail.jsf?docId=CN151962031&_cid=P21-LRKM0M-09294-1
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/7fd90939-3bcd-48fc-a17d-456d631718a5" width="900" height="500" style="margin: auto;">
+</p>
+
+
