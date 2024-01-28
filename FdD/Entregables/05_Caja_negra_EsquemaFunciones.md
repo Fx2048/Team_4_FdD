@@ -15,18 +15,15 @@
 </center>
 
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/1511e0a5-1c22-4373-9fdf-15f10fa28de1" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d431662-fc88-4be6-a135-42556440de25" alt="Descripción de la imagen" width="920" height="600">
 </center>
 
 
 ## <p align = "center"> 🚜Lista de Entradas y Salidas </p>
 
-
-
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ebbf5da2-8f97-42ed-91f2-e52fb691209b" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e734d76-7fe7-44a9-9422-09b054b2f4f5" alt="Descripción de la imagen" width="920" height="600">
 </center>
-
 
 ## <p align = "center"> 🚜Esquema de funciones </p>
 
@@ -35,23 +32,14 @@
 </center>
 
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f5c66f91-ca40-4786-a8f8-f7ba08bda14f" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e5e8e72-9fc2-483e-8289-ea8fcac1c035" alt="Descripción de la imagen" width="920" height="600">
 </center>
-
-
-
-
 
 ## <p align = "center"> 🚜Definición de funciones</p>
 
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/15e4e729-4872-45bb-b138-6d1aef3c57bb" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f97b60c6-cd1f-452a-9223-a107a40874ed" alt="Descripción de la imagen" width="920" height="600">
 </center>
-
-
-
-
-
 
 ## <p align = "center"> 🚜Agradecimiento</p>
 
