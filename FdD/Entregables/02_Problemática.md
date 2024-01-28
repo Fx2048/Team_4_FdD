@@ -9,19 +9,28 @@
 
 ## <p > 🚜MAPA DE VIAJE 🛩️</p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/viaje.png" width="850" height="470" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/0b4c9a85-7964-4d12-9a16-f5115848bd8b" width="850" height="470" style="margin: auto;"></P>
+
 
 ## <p > 🚜 DIAGRAMA DE ISHIKAWA 🐠</p>
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/ishikawaa.jpg" width="850" height="470" style="margin: auto;"></P>
 
 ## <p > 🚜 PROBLEMÁTICA 🔍</p>
+
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b420066-d793-437c-a641-d5bb8f0c5b4d" width="850" height="470" style="margin: auto;"></P>
+
+
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.jpg" width="850" height="470" style="margin: auto;"></P>
 
 
 
 ## <p > 🚜 ESTRATEGIA APLICADA PARA ABORDAR EL PROBLEMA 🔍</p>
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/estrategia.jpg" width="850" height="470" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a40b8c84-aba7-4741-a20a-0381bf8c2d96" width="850" height="470" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444" width="850" height="470" style="margin: auto;"></P>
 
 
 ## <p> 🚜PPT completo, acceder al siguiente enlace:🔍 </p>
@@ -29,6 +38,11 @@
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 🚜FUENTES BIBLIOGRÁFICAS: 
+
+
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ef49a8e7-aa46-44e4-923b-2f0b4f880c9f" width="850" height="470" style="margin: auto;"></P>
+
 [🎯⛓️Bibliografía base para la constitución del mapa de empatía,journey map, diagrama de Ishikawa](../../Bibliografía/Indent_problema.txt)
 
 [🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
@@ -126,4 +140,7 @@ Referencia: Problemática
 - Armero Cifuentes, A., & Guerrero Ortiz, D. (2016). Contaminación del suelo por Plaguicidas Carbofurán y Organofosforados en un sistema productivo de papa.
 - SENASA. (2022). Guía para la implementación de Buenas Prácticas Agrícolas (BPA) para el cultivo de Papa.
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
-- Soriano, M. (2021). pH del suelo. Universidad Politécnica de Valencia. https://riunet.upv.es/bitstream/handle/10251/102382/Soriano%20-%20pHdel%20suelo.pdf?sequence=1 
+- Soriano, M. (2021). pH del suelo. Universidad Politécnica de Valencia. https://riunet.upv.es/bitstream/handle/10251/102382/Soriano%20-%20pHdel%20suelo.pdf?sequence=1
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/af63734b-a7b6-41cd-b9d4-4d9b9520d6f3" width="850" height="470" style="margin: auto;"></P>
+
