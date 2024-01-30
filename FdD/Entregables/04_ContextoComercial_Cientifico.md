@@ -158,6 +158,9 @@ La ausencia de dependencia de baterías facilita su uso en diversos entornos. Es
 
 **Fecha de publicación:** 04-06-2019
 
+**CIP:** G01N 33/00
+
+
 **Inventor:** 
 - HUANG FEN
 - DING MENGKAI
@@ -193,6 +196,8 @@ Se instala una pantalla de filtrado en la entrada de aire con el propósito de p
 **Número de publicación:** 104884947
 
 **Fecha de publicación:** 02-09-2015
+
+**CIP:** G01N 27/403
 
 **Inventores:** 
 - 托尼·米勒 (Tony Miller)
@@ -236,6 +241,8 @@ US9651536B1
 
 **Fecha de publicación:** 
 2017
+
+**CIP:** G01N33/24
 
 **Inventor:** 
 -Lund, E.
