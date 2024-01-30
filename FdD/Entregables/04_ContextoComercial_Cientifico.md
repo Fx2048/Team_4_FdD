@@ -1,11 +1,11 @@
 #  <p align = "center"> 🚜ESTADO DEL ARTE </p>
 
 <p align="center">
-  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="900" height="350" style="margin: auto;">
+  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="750" height="350" style="margin: auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/02cd6c5b-e591-4ba6-ae8c-e0dd9d15eefc" width="900" height="350" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/02cd6c5b-e591-4ba6-ae8c-e0dd9d15eefc" width="750" height="350" style="margin: auto;">
 </p>
 
 
