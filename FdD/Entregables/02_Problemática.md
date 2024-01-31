@@ -142,5 +142,3 @@ Referencia: Problemática
 - Alvaro H. Rocio & Cárdenas A. María (2020). Uso de Agroquímicos en la Producción de Papa y su Impacto en el Suelo, en el Perú.
 - Soriano, M. (2021). pH del suelo. Universidad Politécnica de Valencia. https://riunet.upv.es/bitstream/handle/10251/102382/Soriano%20-%20pHdel%20suelo.pdf?sequence=1
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/af63734b-a7b6-41cd-b9d4-4d9b9520d6f3" width="850" height="470" style="margin: auto;"></P>
-
