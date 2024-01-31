@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c09a7960-b921-4c33-a0b5-0b213e7605c3" width="800" height="400" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6528ad8-d882-4b95-a1d3-df0d80143f00" width="800" height="400" style="margin: auto;">
 </p>
 
 
