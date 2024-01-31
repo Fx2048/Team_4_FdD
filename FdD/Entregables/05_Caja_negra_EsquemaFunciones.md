@@ -26,7 +26,7 @@
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e734d76-7fe7-44a9-9422-09b054b2f4f5" alt="Descripción de la imagen" width="920" height="600">
 </center>
 
-## <p align = "center"> 🚜Esquema de funciones </p>
+## <p align = "center"> 🚜Esquema de funciones y 🚜Definición de funciones</p>
 
 <center>
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/aa6a232f-f6d2-4ffd-ac61-539ff6c16379" alt="Descripción de la imagen" width="920" height="600">
@@ -37,11 +37,6 @@
 </center>
 
 
-## <p align = "center"> 🚜Definición de funciones</p>
-
-<center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f97b60c6-cd1f-452a-9223-a107a40874ed" alt="Descripción de la imagen" width="920" height="600">
-</center>
 
 ## <p align = "center"> 🚜Agradecimiento</p>
 
