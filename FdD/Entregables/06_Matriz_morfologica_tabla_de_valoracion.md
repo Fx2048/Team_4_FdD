@@ -2,6 +2,13 @@
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ac04d809-f5bd-4033-b86a-ab013835c291" width="800" height="300" style="margin: auto;">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e358eec5-7827-442e-b8a2-004ddb02395e" width="800" height="400" style="margin: auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f5bfd7e9-056b-491f-9d51-62dce3839e99" width="800" height="400" style="margin: auto;">
+</p>
 
 
 <p align="center">
