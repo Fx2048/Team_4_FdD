@@ -33,8 +33,9 @@
 </center>
 
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e5e8e72-9fc2-483e-8289-ea8fcac1c035" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ab87400a-52e3-4a51-bbeb-231809afb6b1" alt="Descripción de la imagen" width="920" height="600">
 </center>
+
 
 ## <p align = "center"> 🚜Definición de funciones</p>
 
