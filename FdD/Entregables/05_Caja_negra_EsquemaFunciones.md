@@ -15,8 +15,9 @@
 </center>
 
 <center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/4d431662-fc88-4be6-a135-42556440de25" alt="Descripción de la imagen" width="920" height="600">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/44ae2d16-1830-4c4e-b581-6ca8d24251b2" alt="Descripción de la imagen" width="920" height="600">
 </center>
+
 
 
 ## <p align = "center"> 🚜Lista de Entradas y Salidas </p>
