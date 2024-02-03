@@ -227,6 +227,8 @@ La revisión minuciosa de las medidas y el cambio de color general garantiza que
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/18ad8b1a-394c-4452-9422-82d0b52e2c02)
 
 Con estos pasos finales, se concluye el modelamiento en Onshape de la taza, incluyendo la creación de la asa y su integración adecuada con el cuerpo. Este proceso respeta las medidas establecidas y ofrece un modelo tridimensional completo y funcional de la taza diseñada.
+#Enlace del modelamiento de taza:#
+https://cad.onshape.com/documents/49cd340601e355c182efb51f/w/36e0ac7e8f0512f16b2015c6/e/3a3b75aa2e94a62a9419e05f
 
 
 
