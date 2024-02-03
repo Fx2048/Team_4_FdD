@@ -76,6 +76,11 @@
 # <p align="center"> ACTIVIDAD 📓 </p>
 <p align="center">Durante el desarrollo de la actividad de modelado 3D, realizamos tres ejercicios que lo trabajamos en el sistema de software Onshape y terminamos con la impresión en 3D de nuestro último ejercicio.</p>
 
+<p align="center">
+    <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/mard_7.jpg" width="320" height="200" style="margin: auto;">
+</p>
+
+
 ## EJERCICIOS 1 🖋️
 
 ## <p align="center"> Ejercicio 1.1 Diseño del Cilindro </p>
@@ -365,7 +370,63 @@ Durante el desarrollo de esta actividad, tomamos en cuenta los siguientes pasos:
     <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_7.jpg" width="320" height="200" style="margin: auto;">
 </p>
 
+### A partir de la impresión 3D LLegamos a la conclusión que:
 
+El primer problema surgió al utilizar la función **Shell**, ya que accidentalmente invertí el plano. Al hacer clic en la parte opuesta del plano para realizar el vaciado, el proceso se llevó a cabo de manera incorrecta, resultando en un error en la estructura.
+
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Final.jpg" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+      
+</table>
+
+
+
+En cuanto a las medidas, se identificó la necesidad de reducir la altura en 2 mm en la parte inferior y el ancho en 3 mm. Además, para la salida más grande, que es parte interna de la caja destinada al Arduino, se requiere una ampliación de alrededor de 4 mm, mientras que para la parte más angosta se necesita una ampliación de 3 mm. Después de considerar estos ajustes, el modelado 3D correcto se presenta de la siguiente manera:
+
+## Imágenes de la impresión 3D son sus errores
+
+<!-- Table 4 -->
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/mard_1.jpg" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/mard_3.jpg" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/mard_5.jpg" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/mard_6.jpg" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+    </tr>
+</table>
+
+
+## Modelado ya arreglado
+
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Arreglado.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Arreglado_1.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+      
+</table>
+
+
+## Conclusión:
+
+De todo lo trabajado se concluye que si se quiere pasar de una estructura real a un modelado 3D, es necesario tener en cuenta las dimenciones, puesto que la parte externa será la parte interna del diseño realizado y además tener en cuenta en que plano o supoerficie se esta trabajando para no tener inconvenientes al momento de imprimir.
 
 
 
