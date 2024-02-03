@@ -122,7 +122,9 @@ Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environ
 </p>
 [URL](doi:10.1093/ee/2.3.461)
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art7.pdf)
+
 ---
+
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e217f445-55b8-4b40-b6ee-89e538c2f2df" width="850" height="470" style="margin: auto;"></P>
