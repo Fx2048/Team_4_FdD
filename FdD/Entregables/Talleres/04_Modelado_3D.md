@@ -12,7 +12,7 @@
 
 <p align="center"> 
 
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Logo_upch.jpeg" width="250" height="150" style="margin: auto;"> 
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Logo_upch.jpeg" width="250" height="200" style="margin: auto;"> 
 
 </p> 
 
@@ -107,31 +107,32 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_1.png" alt= "10px" >
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_1.png" alt= "10px" width="430" height="250" style="margin: auto;>
         </td>
           <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_2.png" alt="10px">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_2.png" alt="10px" width="430" height="250" style="margin: auto;>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_3.png" alt="10px">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_3.png" alt="10px" width="430" height="250" style="margin: auto;>
         </td>
-</table> 
+</table>
+              
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_4.png" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_4.png" alt="" width="430" height="250" style="margin: auto;>
         </td>
           <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_5.png" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_5.png" alt="" width="430" height="250" style="margin: auto;>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_6.png" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_6.png" alt="" width="430" height="250" style="margin: auto;>
         </td>
 </table>  
+
+              
 <p align="center"> 
-
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_7.png" width="250" height="150" style="margin: auto;"> 
-
+  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_7.png" width="430" height="250" style="margin: auto;"> 
 </p> 
 
 
