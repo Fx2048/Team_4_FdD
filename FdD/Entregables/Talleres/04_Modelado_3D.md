@@ -177,10 +177,9 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
   Se añadió otro círculo en un nuevo boceto para representar la base del vaso.
   Al utilizar la herramienta de extrusión nuevamente, se formó un sólido que conecta con el vaso, estableciendo así un diámetro interior de 50 mm.
   Estos pasos han llevado al modelado de un vaso tridimensional con un diámetro interior de 50 mm, construido sobre el círculo inicial de 60 mm de 
-  diámetro.
+ diámetro.
 
-  La dimensión exterior de la taza se determinó asegurándose de que la totalidad del modelo, incluida cualquier decoración o detalles adicionales, 
-  tuviera un diámetro externo uniforme de 80 mm.
+  La dimensión exterior de la taza se determinó asegurándose de que la totalidad del modelo, incluida cualquier decoración o detalles adicionales, tuviera un diámetro externo uniforme de 80 mm.
 </p>
 
 
@@ -192,8 +191,7 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
 <p style="text-align: justify;">
   Paso 3: 
   Como se indica en el paso 3, se definió la altura interior de la taza como 75 mm, mientras que el diámetro exterior se estableció en 80 mm.
-  Altura Interior de la taza. Utilizando la herramienta de extrusión, se ajustó la altura del sólido creado en el paso anterior para alcanzar una medida 
-  de 75 mm desde la base hasta la parte superior del interior de la taza.
+  Altura Interior de la taza. Utilizando la herramienta de extrusión, se ajustó la altura del sólido creado en el paso anterior para alcanzar una medida de 75 mm desde la base hasta la parte superior del interior de la taza.
 </p>
 
 
@@ -313,10 +311,6 @@ En este punto, la taza ha adquirido su forma general, y la aplicación del chafl
 
 
 
-
-
-<!-- Heading 1 -->
-<h2 align="center">Ejercicio 1.2 Diseño del Vaso</h2>
 
 <!-- Heading 2 -->
 <h2 align="center">Ejercicio 1.3 Diseño de la caja de Arduino</h2>
