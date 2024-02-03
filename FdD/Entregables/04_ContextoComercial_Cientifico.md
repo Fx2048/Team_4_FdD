@@ -103,7 +103,9 @@ Gupta, Ramesh C. (1994). Carbofuran toxicity. Journal of Toxicology and Environm
 ### 🚜ARTÍCULO 7:
 ### <p align = "center">Persistencia de la degradación del carbofurán en el suelo</p>
 
-<p align = "justify"> Gráfico 2: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington </p>
+<p align = "justify"> Gráfico 2: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington
+
+El carbofurán, un insecticida, se somete a una rápida degradación en suelos alcalinos, con una diferencia de diez veces en el tiempo necesario para que el 50% se descomponga entre los suelos con pH 4.3 y 7.8. La vida residual corta del carbofurán en el suelo Ritzville silt loam también se debe a la degradación alcalina. En solución acuosa, el carbofurán está sujeto a hidrólisis alcalina, con una vida media de 5 días a 25°C. </p>
 
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
