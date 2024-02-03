@@ -97,6 +97,7 @@ Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran 
 
 Gupta, Ramesh C. (1994). Carbofuran toxicity. Journal of Toxicology and Environmental Health, 43(4), 383–418. doi:10.1080/15287399409531931 
  </p>
+ 
 [URL](doi:10.1080/15287399409531931) 
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art6.pdf)
 
@@ -120,7 +121,9 @@ La rápida hidrólisis química constituye la vía principal de degradación en 
 
 Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environmental Entomology, 2(3), 461–468. doi:10.1093/ee/2.3.461 
 </p>
+
 [URL](doi:10.1093/ee/2.3.461)
+
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art7.pdf)
 
 ---
