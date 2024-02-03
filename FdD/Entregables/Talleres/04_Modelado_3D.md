@@ -78,7 +78,7 @@
 
 ## EJERCICIOS 1 🖋️
 
-## <p align="center"> Ejercicio 1.1 Diseño del vaso </p>
+## <p align="center"> Ejercicio 1.1 Diseño del Cilindro </p>
 
 Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
 
@@ -103,38 +103,78 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
   6.- Finalmente nos dirigimos a **Parts** y clik en editar apariencia para poder cambiar de color.
   
   7.- Y tenemos nuestro primer modelo listo.
+  
 
+<!-- Table 1 -->
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_1.png" alt= "10px" width="430" height="250" style="margin: auto;>
-        </td>
-          <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_2.png" alt="10px" width="430" height="250" style="margin: auto;>
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_1.png" alt="10px" width="320" height="200" style="margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_3.png" alt="10px" width="430" height="250" style="margin: auto;>
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_2.png" alt="10px" width="320" height="200" style="margin: auto;">
         </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_3.png" alt="10px" width="320" height="200" style="margin: auto;">
+        </td>
+    </tr>
 </table>
-              
+
+<!-- Table 2 -->
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_4.png" alt="" width="430" height="250" style="margin: auto;>
-        </td>
-          <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_5.png" alt="" width="430" height="250" style="margin: auto;>
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_4.png" alt="" width="320" height="200" style="margin: auto;">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_6.png" alt="" width="430" height="250" style="margin: auto;>
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_5.png" alt="" width="320" height="200" style="margin: auto;">
         </td>
-</table>  
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/img_6.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+    </tr>
+</table>
 
-              
-<p align="center"> 
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_7.png" width="430" height="250" style="margin: auto;"> 
-</p> 
+<!-- Image in paragraph -->
+<p align="center">
+    <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_7.png" width="320" height="200" style="margin: auto;">
+</p>
 
+<!-- Heading 1 -->
+<h2 align="center">Ejercicio 1.2 Diseño del Vaso</h2>
+
+<!-- Heading 2 -->
+<h2 align="center">Ejercicio 1.3 Diseño de la caja de Arduino</h2>
+
+<!-- Table 3 -->
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_1.png" alt="10px" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_2.png" alt="10px" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_3.png" alt="10px" width="320" height="200" style="margin: auto;">
+        </td>
+    </tr>
+</table>
+
+<!-- Table 4 -->
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_4.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_5.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_6.png" alt="" width="320" height="200" style="margin: auto;">
+        </td>
+    </tr>
+</table>
 
 
 
