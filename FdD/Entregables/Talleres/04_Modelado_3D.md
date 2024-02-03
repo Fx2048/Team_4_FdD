@@ -145,6 +145,9 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
     <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Img_7.png" width="320" height="200" style="margin: auto;">
 </p>
 
+
+[Link al proyecto en onshape](https://cad.onshape.com/documents/6dea93a7479c2ab222d375dc/w/15de87d0b97247dcf76cf013/e/1bfe7cad359f2c8a9b97317c)
+
 <!-- Heading 1 -->
 <h2 align="center">Ejercicio 1.2 Diseño del Vaso</h2>
 
@@ -370,6 +373,9 @@ Durante el desarrollo de esta actividad, tomamos en cuenta los siguientes pasos:
     <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_7.jpg" width="320" height="200" style="margin: auto;">
 </p>
 
+
+[Link al proyecto en onshape](https://cad.onshape.com/documents/6dea93a7479c2ab222d375dc/w/15de87d0b97247dcf76cf013/e/c0b148e105e0dcf3577b2537)
+
 ### A partir de la impresión 3D LLegamos a la conclusión que:
 
 El primer problema surgió al utilizar la función **Shell**, ya que accidentalmente invertí el plano. Al hacer clic en la parte opuesta del plano para realizar el vaciado, el proceso se llevó a cabo de manera incorrecta, resultando en un error en la estructura.
@@ -427,6 +433,8 @@ En cuanto a las medidas, se identificó la necesidad de reducir la altura en 2 m
 ## Conclusión:
 
 De todo lo trabajado se concluye que si se quiere pasar de una estructura real a un modelado 3D, es necesario tener en cuenta las dimenciones, puesto que la parte externa será la parte interna del diseño realizado y además tener en cuenta en que plano o supoerficie se esta trabajando para no tener inconvenientes al momento de imprimir.
+
+[Link al proyecto en onshape](https://cad.onshape.com/documents/6dea93a7479c2ab222d375dc/w/15de87d0b97247dcf76cf013/e/1e2fd78cbc01f4832011627f)
 
 
 
