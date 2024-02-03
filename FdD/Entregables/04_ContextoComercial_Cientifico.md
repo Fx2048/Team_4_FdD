@@ -85,6 +85,34 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran in pretreated and non-pretreated soils. United States. Recuperado de [URL](https://doi.org/10.1007/BF01698447) o [Documento.](../../Documentación/art_5.pdf)
 
 
+### 🚜ARTÍCULO 6:
+### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
+
+### <p align = "center"> (Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana) </p>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
+
+<p align = "justify" > Gráfico 1: SUBPRODUCTOS DEL METABOLISMO DEL CARBOFURANO: Las vías metabólicas del carbofurano incluyen varios metabolitos que se generan a través de reacciones enzimáticas oxidativas, hidrolíticas y conjugativas. I, 2,2-dimetil-2,3-dihidrobenzofuranil-7-N-metilcarbámato (carbofurano); II, 2,2-dimetil-3-hidroxi-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-hidroxycarbofurano); III, 2,2-dimetil-3-ceto-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-cetocarbofurano); IV, 2,2-dimetil,7-hidroxi-2,3-dihidrobenzofurano (fenol de carbofurano); V, 2,2-dimetil-3,7 dihidroxi-2,3-dihidrobenzofuranil (3-hidroxifenol de carbofurano); VI, 2,2-dimetil-7-hidroxi-3-ceto-2,3-dihidrobenzofuranil (3-cetofenol de carbofurano); VII, conjugado de fenol de carbofurano (IV); VIII, conjugado de 3-hidroxifenol de carbofurano (V); IX, conjugados de glucurónido y sulfato. Estos metabolitos son producidos por reacciones enzimáticas de oxidación, hidrólisis y conjugación. M, en mamíferos; I, en insectos; y P, en plantas. Las flechas anchas representan las principales vías metabólicas. Adaptado de Metcalf et al. (1968).
+
+
+Gupta, Ramesh C. (1994). Carbofuran toxicity. Journal of Toxicology and Environmental Health, 43(4), 383–418. doi:10.1080/15287399409531931 
+ </p>
+[URL](doi:10.1080/15287399409531931) 
+[Documento]()
+
+### 🚜ARTÍCULO 7:
+### <p align = "center">Study on Degradation Processes of 14C-Carbofuran in Soil from Northwest Morocco as Influenced by Soil Water Content, Temperature and Microbial Activity</p>
+
+### <p align = "center"> (Los procesos de degradación del carbofurano en suelos del noroeste de Marruecos según la influencia del contenido de agua del suelo, la temperatura y la actividad microbiana) </p>
+
+<p align = "justify" >La mayor parte del carbono-12 del carbofurano degradado, marcado con carbonilo, se liberó como CO2. Las similitudes en las tasas de evolución de CO2 para los tratamientos irradiados y no irradiados del mismo suelo sugieren que la formación de CO2 no se debe a procesos metabólicos de microorganismos, sino probablemente a la descomposición espontánea del ácido carbámico de metilo, un producto de reacción de la hidrólisis del éster del compuesto original. Además, la actividad radioactiva no extraíble del suelo no constituyó una fracción significativa del carbono-12 del carbamato en ninguno de los suelos, excepto en el suelo Ritzville silt loam irradiado. Estos bajos niveles de radioactividad no extraíble indican que el procedimiento de extracción eliminó la mayor parte del compuesto original de los suelos durante todo el período experimental. El carbofurano está sujeto a hidrólisis alcalina en solución acuosa, con una vida media de 5 días a 25°C, según se ha obtenido en este laboratorio. La hidrólisis ocurre en el enlace carbamato, produciendo carbofurano fenol como uno de los productos de degradación. Se presume que una reacción similar ocurre en suelos alcalinos.
+
+La rápida hidrólisis química constituye la vía principal de degradación en suelos alcalinos, mientras que en suelos ácidos y neutros, tanto los mecanismos de degradación química como los microbianos provocan una descomposición más lenta del compuesto. Es poco probable que el carbofurano, como pesticida residual, sea efectivo en suelos alcalinos. Este proceso de degradación también destaca la importancia del pH del suelo en la liberación de CO2 asociada con la descomposición del carbofurano.
+
+Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environmental Entomology, 2(3), 461–468. doi:10.1093/ee/2.3.461 
+</p>
+[URL](doi:10.1093/ee/2.3.461)
+[Documento]()
 ---
 #  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
 
