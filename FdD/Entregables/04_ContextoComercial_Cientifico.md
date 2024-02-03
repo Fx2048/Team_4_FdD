@@ -90,7 +90,7 @@ Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran 
 
 <p align = "justify"> Este artículo trata de los subproductos liberados en la biodegradación del carbofuran, y como la biodegradación del carbofuran es estable a bajas y neutras concetraciones.Menciona además sobre la hidrólisis como mecanismo principal de la descomposición del carbofurán.</p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/2e54a540-fadd-4e25-b046-b6d52359c8cb" width="850" height="470" style="margin: auto;"></P>
 
 <p align = "justify" > Gráfico 1: SUBPRODUCTOS DEL METABOLISMO DEL CARBOFURANO: Las vías metabólicas del carbofurano incluyen varios metabolitos que se generan a través de reacciones enzimáticas oxidativas, hidrolíticas y conjugativas. I, 2,2-dimetil-2,3-dihidrobenzofuranil-7-N-metilcarbámato (carbofurano); II, 2,2-dimetil-3-hidroxi-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-hidroxycarbofurano); III, 2,2-dimetil-3-ceto-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-cetocarbofurano); IV, 2,2-dimetil,7-hidroxi-2,3-dihidrobenzofurano (fenol de carbofurano); V, 2,2-dimetil-3,7 dihidroxi-2,3-dihidrobenzofuranil (3-hidroxifenol de carbofurano); VI, 2,2-dimetil-7-hidroxi-3-ceto-2,3-dihidrobenzofuranil (3-cetofenol de carbofurano); VII, conjugado de fenol de carbofurano (IV); VIII, conjugado de 3-hidroxifenol de carbofurano (V); IX, conjugados de glucurónido y sulfato. Estos metabolitos son producidos por reacciones enzimáticas de oxidación, hidrólisis y conjugación. M, en mamíferos; I, en insectos; y P, en plantas. Las flechas anchas representan las principales vías metabólicas. Adaptado de Metcalf et al. (1968).
 
@@ -103,9 +103,11 @@ Gupta, Ramesh C. (1994). Carbofuran toxicity. Journal of Toxicology and Environm
 ### 🚜ARTÍCULO 7:
 ### <p align = "center">Persistencia de la degradación del carbofurán en el suelo</p>
 
-<p align = "justify">  </p>
+<p align = "justify"> Gráfico 2: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington </p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/2e54a540-fadd-4e25-b046-b6d52359c8cb" width="850" height="470" style="margin: auto;"></P>
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
+
 
 
 <p align = "justify" >
