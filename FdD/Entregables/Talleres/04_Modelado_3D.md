@@ -173,13 +173,12 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
   Paso 2: 
   Modelado del Taza en forma de un vaso:
   A partir del círculo de 60 mm de diámetro en el boceto inicial, se utilizó la función de extrusión para crear un sólido en forma de vaso.
-  La altura y la forma del vaso se determinaron durante este proceso, dando lugar al cuerpo principal del objeto.
-  Se añadió otro círculo en un nuevo boceto para representar la base del vaso.
-  Al utilizar la herramienta de extrusión nuevamente, se formó un sólido que conecta con el vaso, estableciendo así un diámetro interior de 50 mm.
-  Estos pasos han llevado al modelado de un vaso tridimensional con un diámetro interior de 50 mm, construido sobre el círculo inicial de 60 mm de 
- diámetro.
+La altura y la forma del vaso se determinaron durante este proceso, dando lugar al cuerpo principal del objeto.
+Se añadió otro círculo en un nuevo boceto para representar la base del vaso. Al utilizar la herramienta de extrusión nuevamente, se formó un sólido que conecta con el vaso, estableciendo así un diámetro interior de 50 mm.
+Estos pasos han llevado al modelado de un vaso tridimensional con un diámetro interior de 50 mm, construido sobre el círculo inicial de 60 mm de 
+diámetro.
 
-  La dimensión exterior de la taza se determinó asegurándose de que la totalidad del modelo, incluida cualquier decoración o detalles adicionales, tuviera un diámetro externo uniforme de 80 mm.
+La dimensión exterior de la taza se determinó asegurándose de que la totalidad del modelo, incluida cualquier decoración o detalles adicionales, tuviera un diámetro externo uniforme de 80 mm.
 </p>
 
 
@@ -190,8 +189,8 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
 
 <p style="text-align: justify;">
   Paso 3: 
-  Como se indica en el paso 3, se definió la altura interior de la taza como 75 mm, mientras que el diámetro exterior se estableció en 80 mm.
-  Altura Interior de la taza. Utilizando la herramienta de extrusión, se ajustó la altura del sólido creado en el paso anterior para alcanzar una medida de 75 mm desde la base hasta la parte superior del interior de la taza.
+Como se indica en el paso 3, se definió la altura interior de la taza como 75 mm, mientras que el diámetro exterior se estableció en 80 mm.
+Altura Interior de la taza. Utilizando la herramienta de extrusión, se ajustó la altura del sólido creado en el paso anterior para alcanzar una medida de 75 mm desde la base hasta la parte superior del interior de la taza.
 </p>
 
 
@@ -202,7 +201,7 @@ Para realizar este ejercicio hemos tomado en cuenta  los siguientes pasos:
 
 
 <p style="text-align: justify;">
-Paso 4: 
+  Paso 4: 
 En esta parte del imagen se seleccionó la función de chaflán y se aplicó a los bordes inferiores de la taza, creando un redondeo de 5 mm en la base. Este paso no solo proporciona un aspecto estético, sino que también puede mejorar la resistencia y la estabilidad del objeto.
 Similarmente, se aplicó el chaflán a los bordes superiores de la taza, creando un redondeo de 5 mm en la boca. Este detalle no sólo suaviza la apariencia de la taza, sino que también puede hacer que beber sea más cómodo.
 El chaflán de 5 mm en ambos extremos de la taza contribuye a darle un aspecto más refinado y ergonómico, al tiempo que añade un toque estilizado a la estructura general del modelo.
@@ -217,7 +216,7 @@ El chaflán de 5 mm en ambos extremos de la taza contribuye a darle un aspecto m
 
 <p style="text-align: justify;">
   
-Paso 5: 
+  Paso 5: 
 En este punto, la taza ha adquirido su forma general, y la aplicación del chaflán en los bordes, como se mencionó anteriormente, proporcionará el toque final para mejorar la estética y la ergonomía del diseño.
 </p>
 
@@ -251,7 +250,7 @@ En este punto, la taza ha adquirido su forma general, y la aplicación del chafl
 <p style="text-align: justify;">
  
 
- Ajuste en el Ensamblaje:
+   Ajuste en el Ensamblaje:
  Colocamos y ajustamos la asa en la posición deseada en relación con la taza en el ensamblaje. Se presta especial atención para garantizar que la asa se 
  conecte sin problemas con la superficie de la taza.
 
@@ -276,11 +275,13 @@ En este punto, la taza ha adquirido su forma general, y la aplicación del chafl
 
 <p style="text-align: justify;">
 
-  Utilizando las funciones de ensamblaje en Onshape, se procedió a unir la asa diseñada previamente al cuerpo de la taza.
+   Utilizando las funciones de ensamblaje en Onshape, se procedió a unir la asa diseñada previamente al cuerpo de la taza.
   Aseguramos que la unión fuera coherente con las dimensiones definidas, garantizando una conexión sólida y estéticamente agradable entre la asa y la 
   taza.
+  
   Paso 8:
-  Ajustes Finales</p>
+  Ajustes Finales
+  </p>
 
 
 <p align="center">
@@ -290,7 +291,7 @@ En este punto, la taza ha adquirido su forma general, y la aplicación del chafl
 
 <p style="text-align: justify;">
 
-  Se realizaron ajustes finales para perfeccionar la posición y alineación de la asa con respecto al cuerpo de la taza.
+   Se realizaron ajustes finales para perfeccionar la posición y alineación de la asa con respecto al cuerpo de la taza.
   Paso 9:
   La revisión minuciosa de las medidas y el cambio de color general garantiza que el ensamblaje sea preciso y cumpla con los requisitos del diseño.
 </p>
@@ -301,7 +302,7 @@ En este punto, la taza ha adquirido su forma general, y la aplicación del chafl
 
 
 <p style="text-align: justify;">
-  Con estos pasos finales, se concluye el modelamiento en Onshape de la taza, incluyendo la creación de la asa y su integración adecuada con el cuerpo. 
+   Con estos pasos finales, se concluye el modelamiento en Onshape de la taza, incluyendo la creación de la asa y su integración adecuada con el cuerpo. 
   Este proceso respeta las medidas establecidas y ofrece un modelo tridimensional completo y funcional de la taza diseñada.
 
 </p>
