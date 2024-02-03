@@ -232,8 +232,25 @@ Con estos pasos finales, se concluye el modelamiento en Onshape de la taza, incl
 
 
 
+<!-- Heading 1 -->
+<h2 align="center">Ejercicio 1.2 Diseño del Vaso</h2>
+
 <!-- Heading 2 -->
 <h2 align="center">Ejercicio 1.3 Diseño de la caja de Arduino</h2>
+
+Durante el desarrollo de esta actividad, tomamos en cuenta los siguientes pasos:
+
+1.- Primero insertamos la foto de las dimensiones del arduino UNO.
+
+2.-Seguidamente hacemos clik en Line y trazamos el contorno del arduino con su respectivas medidas.
+
+3.- Después hacemos clik en Extrude y verificamos que nuevamente este en sólido y de damos una altura de 20 mm
+
+4.- Posterior a ello, realizamos un clik en **Shell** y colocamos un contorno de 2mm.
+
+5.-Finalmente cambiamos de color dirigiendonos a **Part** 1 y posterior a Editar apariencia.
+
+6.- Y tenemos nuestro modelo listo para imprimir.
 
 <!-- Table 3 -->
 <table>
@@ -264,6 +281,12 @@ Con estos pasos finales, se concluye el modelamiento en Onshape de la taza, incl
         </td>
     </tr>
 </table>
+
+<!-- Image in paragraph -->
+<p align="center">
+    <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Taller_4/Ard_7.jpg" width="320" height="200" style="margin: auto;">
+</p>
+
 
 
 
