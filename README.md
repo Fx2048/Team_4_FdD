@@ -36,37 +36,26 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ece8944c-6274-4487-861e-422cef6f35a7)
 
-## 🚜CONÓCENOS 🌱👷🏽‍♀👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
+## 🚜CONOCE AL EQUIPO DETRÁS DE ECOPUREHARVEST🌱👷🏽‍♀👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/nilda_somos.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Nilda_Turpo.png" alt="">
+        </td>
+          <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Brigitte_Bernal.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/brigitte_somos.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Magno_Luque.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/magno_somos.jpg" alt="">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Melissa_Quispe.png" alt="">
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/meli_somos.jpg" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
-        </td>
-</table>  
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Imágenes/Leily_LLanos.png" alt="">
+        </td>
+</table> 
 
-
-
-## 🚜Roles:💡
-
-| 🛜Participantes | Rol | 📧Git_Hub | 📨Correo |
-| --- | --- | --- | ---|
-| 👩🏽‍💻BERNAL BELISARIO BRIGITTE | Encargada de web y redacción | Fx2024  | Brigitte.bernal@upch.pe |
-| 👷🏽‍♀️TURPO HUAMAN NILDA MARIBEL | Cooordinadora general | NILDAMARIBEL| Nilda.turpo@upch.pe |
-| 👨🏽‍💻LUQUE MAMANI MAGNO RICARDO | Encargado de software y programación| Magno_Luque | Magno.luque@upch.pe |
-| 👩🏽‍💻LLANOS ANGELES LEILY MARLITH | Coordinadora de manufactura digital | Marlith08| Leily.llanos@upch.pe |
-| 👩🏽‍💻QUISPE BALDEON MELISSA | Coordinadora de modelo 3D| MeliQB | Melissa.quispe.b@upch.pe |
 
 - Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
