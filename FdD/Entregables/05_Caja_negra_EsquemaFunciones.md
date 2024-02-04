@@ -11,9 +11,8 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ec2139aa-d737-4e3a-8f3c-3e70a5a57606)
 
 
-<center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e734d76-7fe7-44a9-9422-09b054b2f4f5" alt="Descripción de la imagen" width="920" height="600">
-</center>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b6ab7d4e-9491-4dc0-a70f-37b317790223)
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/83f2833a-8dcc-4bf5-b2b9-c3519b4b2ac4)
 
