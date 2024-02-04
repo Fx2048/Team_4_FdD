@@ -1,22 +1,25 @@
-# <p align="center"> 🚜 PROBLEMÁTICA 🔍</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/3a34e2b4-e66e-4d64-8539-b42b6e747323)
 
-## <p > 🚜MAPA DE EMPATÍA 🧣</p>
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4b87ee43-16e5-4eb8-aeb7-da71a793c530)
+
 
 <p align="> </p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/744413ad-5943-40dd-93a9-3d1ac99ef8cf" width="850" height="470" style="margin: auto;"></P>
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ff14a341-b66d-4656-8854-3bb349f0d755" width="850" height="470" style="margin: auto;"></P>
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d8a0182d-2fb8-4c1f-a87f-0f9944e7d449)
 
 
-## <p > 🚜MAPA DE VIAJE 🛩️</p>
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/0b4c9a85-7964-4d12-9a16-f5115848bd8b" width="850" height="470" style="margin: auto;"></P>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/24b4facb-30c5-45d7-bfb3-6fb6a67a7047)
 
 
-## <p > 🚜 DIAGRAMA DE ISHIKAWA 🐠</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/3eb6002c-15e4-4794-a1a7-ac82f6ec8fcf)
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/ishikawaa.jpg" width="850" height="470" style="margin: auto;"></P>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cf4773da-b530-4396-8cd7-3ed8df59eaf5)
 
-## <p > 🚜 PROBLEMÁTICA 🔍</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/79a2f4be-2dd5-40e3-9748-6059e1dce025)
+
 
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b420066-d793-437c-a641-d5bb8f0c5b4d" width="850" height="470" style="margin: auto;"></P>
@@ -26,7 +29,8 @@
 
 
 
-## <p > 🚜 ESTRATEGIA APLICADA PARA ABORDAR EL PROBLEMA 🔍</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/22ee3930-72ab-4f5b-935d-1b28cb0f37b9)
+
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a40b8c84-aba7-4741-a20a-0381bf8c2d96" width="850" height="470" style="margin: auto;"></P>
 
@@ -37,7 +41,8 @@
 
 [ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-## 🚜FUENTES BIBLIOGRÁFICAS: 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a010d776-6d31-4aa7-8432-a0b66ecd65c4)
+
 
 
 
