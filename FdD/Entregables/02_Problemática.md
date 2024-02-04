@@ -25,7 +25,8 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/22ee3930-72ab-4f5b-935d-1b28cb0f37b9)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/52b88fef-2cd7-4097-8219-ed8a4e94bcca)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/68e0eb67-c732-453e-af43-a6e125121558)
+
 
 [](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444)
 
