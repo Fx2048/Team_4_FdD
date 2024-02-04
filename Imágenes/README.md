@@ -6,13 +6,15 @@
 
 
 
-## Tipos de archivos:📓
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/561d7600-e957-4d53-aae7-db3708631c79)
+
    - JPEG
    - PNG
    - TIFF
    - SVG
    - 
-## Lenguajes de programación: 📑
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/5b3ee0cc-9843-4ff3-9b52-d68386ce48cd)
+
    - Python
    - Markdow
    - Html
