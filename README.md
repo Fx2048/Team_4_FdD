@@ -14,6 +14,7 @@
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="768" height="439" style="margin: auto;"></P>
   
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/af0994c6-2bdc-48e5-844e-efb022b756c3)
 
 <p align="justify">
 La ODS 12, que se centra en "Garantizar modalidades de consumo y producción sostenibles", aborda indirectamente el uso de pesticidas en la agricultura. El objetivo general de la ODS 12 implica la promoción de prácticas de producción sostenibles y la gestión sostenible de productos químicos y desechos.
