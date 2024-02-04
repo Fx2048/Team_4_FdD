@@ -1,4 +1,6 @@
-# <p align="center"> 🚜INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA🌱 </p>
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/9751f148-7147-4be0-9e15-e74109707332)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0fb305dd-9fa0-4750-bce8-43c7af2c1e48)
 
 
 <p align="justify">
@@ -7,8 +9,7 @@
 
 
 ## 🚜Tabla de contenido
-
-  - [ODS a abordar](#ods-12)
+  - [ODS a abordar](https://github.com/Fx2048/Team_4_FdD/tree/main?tab=readme-ov-file#-ods-12--producci%C3%B3n-y-consumo-responsable)
   - [¿Quiénes conforman?](#quiénes-lo-conforman)
   - [Roles](#roles)
   - [Descripción de las carpetas](#descripción-de-las-carpetas)
@@ -20,9 +21,11 @@
 <p align="justify">
 La ODS 12, que se centra en "Garantizar modalidades de consumo y producción sostenibles", aborda indirectamente el uso de pesticidas en la agricultura. El objetivo general de la ODS 12 implica la promoción de prácticas de producción sostenibles y la gestión sostenible de productos químicos y desechos.
  </p>
+ 
 <p align="justify">
 El uso de pesticidas en la agricultura puede tener impactos significativos en la sostenibilidad ambiental y la salud humana. En el contexto de la ODS 12, se buscaría reducir los riesgos asociados con el uso de pesticidas, promoviendo prácticas agrícolas más sostenibles. Esto podría incluir el fomento de métodos de control de plagas no químicos, la adopción de tecnologías agrícolas más sostenibles y la concienciación sobre los impactos ambientales y de salud asociados con el uso indiscriminado de pesticidas.
 </p>
+
 <p align="justify">
 En resumen, aunque la ODS 12 no menciona específicamente el uso de pesticidas, su objetivo general de promover prácticas de producción sostenibles y gestionar de manera sostenible los productos químicos implica indirectamente la necesidad de abordar y reducir los impactos negativos de los pesticidas en la agricultura.
 </p>
@@ -35,6 +38,8 @@ Más informacón [click aqui](https://www.cepal.org/sites/default/files/static/f
 <p align="justify">
 Para relizar el presente proyecto el equipo esta conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Ambiental quienes tienen un gran entusiamos para solucionar diversos problemas que se encuentran inmersos en nuestra sociedad hoy en día, uno de ellos es el calentamiento global.
 </p>
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ece8944c-6274-4487-861e-422cef6f35a7)
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/somos_all.jpg" width="650" height="400"style="margin: auto;">
