@@ -21,7 +21,7 @@
         <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/be5d9a0e-3476-41d0-9588-cccf547b0cf7" alt="Imagen 1">
     </p>
 
- <p align="center">3. HITO 2</p>
+ <p align="center">2. HITO 2</p>
 
 </body>
 
