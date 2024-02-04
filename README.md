@@ -4,10 +4,9 @@
 
 
 ## 🚜Tabla de contenido
-  - [ODS a abordar](https://github.com/Fx2048/Team_4_FdD/tree/main?tab=readme-ov-file#-ods-12--producci%C3%B3n-y-consumo-responsable)
-  - [¿Quiénes conforman?](#quiénes-lo-conforman)
-  - [Roles](#roles)
-  - [Descripción de las carpetas](#descripción-de-las-carpetas)
+  - [NUESTRA MISIÓN ODS](https://github.com/Fx2048/Team_4_FdD/tree/main?tab=readme-ov-file#-ods-12--producci%C3%B3n-y-consumo-responsable)
+  - [CONÓCENOS](https://github.com/Fx2048/Team_4_FdD/blob/main/README.md#conoce-al-equipo-detr%C3%A1s-de-ecopureharvest)
+  - [CONTENIDO](https://github.com/Fx2048/Team_4_FdD/blob/main/README.md#descripci%C3%B3n-de-las-carpetas)
     
 ## 🚜 ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="768" height="439" style="margin: auto;"></P>
