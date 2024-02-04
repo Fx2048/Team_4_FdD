@@ -30,10 +30,7 @@
 
 [](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0a6b96c3-0785-4639-981c-3983647a26da)
 
-
-[ONLINE PRESENTATION](https://www.canva.com/design/DAF5y-mq_oU/VwOhxY1MChr1Qd3Xt_TtjQ/view?utm_content=DAF5y-mq_oU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a010d776-6d31-4aa7-8432-a0b66ecd65c4)
 
