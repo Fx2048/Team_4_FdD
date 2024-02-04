@@ -90,14 +90,6 @@ Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran 
 ### 🚜ARTÍCULO 6:
 ### <p align = "center">Persistencia de la degradación del carbofurán en el suelo</p>
 
-<p align = "justify"> Gráfico 2: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington
-
-El carbofurán, un insecticida, se somete a una rápida degradación en suelos alcalinos, con una diferencia de diez veces en el tiempo necesario para que el 50% se descomponga entre los suelos con pH 4.3 y 7.8. La vida residual corta del carbofurán en el suelo Ritzville silt loam también se debe a la degradación alcalina. En solución acuosa, el carbofurán está sujeto a hidrólisis alcalina, con una vida media de 5 días a 25°C. </p>
-
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
-
-
 
 <p align = "justify" >
   
@@ -108,8 +100,17 @@ Este artículo aborda la expulsión de CO2 después del metabolismo del carbofur
 <p align = "justify" >
  La mayor parte del carbono-12 del carbofurano degradado, marcado con carbonilo, se liberó como CO2. Las similitudes en las tasas de evolución de CO2 para los tratamientos irradiados y no irradiados del mismo suelo sugieren que la formación de CO2 no se debe a procesos metabólicos de microorganismos, sino probablemente a la descomposición espontánea del ácido carbámico de metilo, un producto de reacción de la hidrólisis del éster del compuesto original. 
 
-La rápida hidrólisis química constituye la vía principal de degradación en suelos alcalinos, mientras que en suelos ácidos y neutros, tanto los mecanismos de degradación química como los microbianos provocan una descomposición más lenta del compuesto. Es poco probable que el carbofurano, como pesticida residual, sea efectivo en suelos alcalinos. Este proceso de degradación también destaca la importancia del pH del suelo en la liberación de CO2 asociada con la descomposición del carbofurano.
+La rápida hidrólisis química constituye la vía principal de degradación en suelos alcalinos, mientras que en suelos ácidos y neutros, tanto los mecanismos de degradación química como los microbianos provocan una descomposición más lenta del compuesto. Es poco probable que el carbofurano, como pesticida residual, sea efectivo en suelos alcalinos. Este proceso de degradación también destaca la importancia del pH del suelo en la liberación de CO2 asociada con la descomposición del carbofurano.</p>
 
+<p align = "justify"> Gráfico 1: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington
+
+El carbofurán, un insecticida, se somete a una rápida degradación en suelos alcalinos, con una diferencia de diez veces en el tiempo necesario para que el 50% se descomponga entre los suelos con pH 4.3 y 7.8. La vida residual corta del carbofurán en el suelo Ritzville silt loam también se debe a la degradación alcalina. En solución acuosa, el carbofurán está sujeto a hidrólisis alcalina, con una vida media de 5 días a 25°C. </p>
+
+
+<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/a44b80cf-10f9-450e-b848-24a9221cb4ac" width="850" height="470" style="margin: auto;"></P>
+
+
+<p align = "justify">
 Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environmental Entomology, 2(3), 461–468. doi:10.1093/ee/2.3.461 
 </p>
 
