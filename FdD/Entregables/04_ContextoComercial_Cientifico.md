@@ -115,7 +115,12 @@ El carbofurán, un insecticida, se somete a una rápida degradación en suelos a
 
 <p align = "justify" >
   
-Este artículo aborda la expulsión de CO2 después del metabolismo del carbofurán en el suelo. La mayor parte del carbono-12 del carbofurano degradado, marcado con carbonilo, se liberó como CO2. Las similitudes en las tasas de evolución de CO2 para los tratamientos irradiados y no irradiados del mismo suelo sugieren que la formación de CO2 no se debe a procesos metabólicos de microorganismos, sino probablemente a la descomposición espontánea del ácido carbámico de metilo, un producto de reacción de la hidrólisis del éster del compuesto original. 
+Este artículo aborda la expulsión de CO2 después del metabolismo del carbofurán en el suelo mediante la ecuación química de Hidrólisis del Carbofurán con Liberación de CO₂: (sección 2.3 Mineralización y estudios de degradación)   </p>
+
+<p align = "center">Carbofurán + H₂O → 3-hidroxicarbofurán + Fenol + CO₂</p>
+
+<p align = "justify" >
+ La mayor parte del carbono-12 del carbofurano degradado, marcado con carbonilo, se liberó como CO2. Las similitudes en las tasas de evolución de CO2 para los tratamientos irradiados y no irradiados del mismo suelo sugieren que la formación de CO2 no se debe a procesos metabólicos de microorganismos, sino probablemente a la descomposición espontánea del ácido carbámico de metilo, un producto de reacción de la hidrólisis del éster del compuesto original. 
 
 La rápida hidrólisis química constituye la vía principal de degradación en suelos alcalinos, mientras que en suelos ácidos y neutros, tanto los mecanismos de degradación química como los microbianos provocan una descomposición más lenta del compuesto. Es poco probable que el carbofurano, como pesticida residual, sea efectivo en suelos alcalinos. Este proceso de degradación también destaca la importancia del pH del suelo en la liberación de CO2 asociada con la descomposición del carbofurano.
 
