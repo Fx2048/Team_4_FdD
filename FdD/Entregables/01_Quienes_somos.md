@@ -12,15 +12,15 @@
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/8dacf8a7-8486-4e37-b463-345aa0f6efc6" width="500" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/8dacf8a7-8486-4e37-b463-345aa0f6efc6" width="400" style="margin: auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbcf065c-caf4-4380-b1f4-44f63faf2f9b" width="400" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbcf065c-caf4-4380-b1f4-44f63faf2f9b" width="500" style="margin: auto;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/aa96124e-07a9-4388-8ee9-ec8edb8ccb39" width="400" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/aa96124e-07a9-4388-8ee9-ec8edb8ccb39" width="500" style="margin: auto;">
 </p>
 
 <p align="center">
