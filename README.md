@@ -3,11 +3,6 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0fb305dd-9fa0-4750-bce8-43c7af2c1e48)
 
 
-<p align="justify">
-¡Bienvenidos a esta emocionante nueva aventura! Acompáñennos en nuestro proyecto, donde nuestro objetivo principal es fomentar la integridad como equipo. Buscamos aportar todos nuestros conocimientos para definir un problema apropiado y, al mismo tiempo, diseñar una solución eficiente, para el cuidado del medio ambiente. ¡Vamos juntos por este camino hacia el éxito!
-</p>
-
-
 ## 🚜Tabla de contenido
   - [ODS a abordar](https://github.com/Fx2048/Team_4_FdD/tree/main?tab=readme-ov-file#-ods-12--producci%C3%B3n-y-consumo-responsable)
   - [¿Quiénes conforman?](#quiénes-lo-conforman)
@@ -32,7 +27,7 @@ En resumen, aunque la ODS 12 no menciona específicamente el uso de pesticidas, 
 
 Cita: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar modalidades de consumo y producción sostenibles en América Latina y el Caribe. 
 
-Más informacón [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
+Más información [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
 ## 🚜¿Quiénes lo conforman?🙌
 <p align="justify">
@@ -41,11 +36,27 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ece8944c-6274-4487-861e-422cef6f35a7)
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/somos_all.jpg" width="650" height="400"style="margin: auto;">
-</p>
+## 🚜CONÓCENOS 🌱👷🏽‍♀👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
+<table>
+    <tr>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/nilda_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/brigitte_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/magno_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/meli_somos.jpg" alt="">
+        </td>
+        <td style="border: 0px solid #ddd; padding: 8px;">
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
+        </td>
+</table>  
 
-- Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
+
 
 ## 🚜Roles:💡
 
@@ -68,10 +79,10 @@ Para relizar el presente proyecto el equipo esta conformado por estudiantes de l
 -[FdD:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD) En esta carpeta se podrá encontrar 
 todos los entregables que serán parte fundamental en el desarrollo de nuestro proyecto.
 
--[Hadware:](https://github.com/Fx2048/Team_4_FdD/tree/main/Hadware) En esta sección se podrá encontrar los prototipos y modelado relacionado con el diseño y desarrollo del proyecto.
+-[Hardware:](https://github.com/Fx2048/Team_4_FdD/tree/main/Hadware) En esta sección se podrá encontrar los prototipos y modelado relacionado con el diseño y desarrollo del proyecto.
 
 -[Ident_Problema:](https://github.com/Fx2048/Team_4_FdD/tree/main/Ident_Problema) En este segmente estarán presentes los documentos de los pasos que hemos tenído que seguir para identificar adecuadamente nuestro problema.
 
 -[Imágenes:](https://github.com/Fx2048/Team_4_FdD/tree/main/Im%C3%A1genes)  En este apartado se encontrará todas la imagenes en formato pnj y jpeg que serán útiles para el diseño de nuestro proyecto.
 
--[Software:](https://github.com/Fx2048/Team_4_FdD/tree/main/Software)  Categoría en la que se encontrará lo códigos a útilizar para la implementación d ela solución de nuestro proyecto.
+-[Software:](https://github.com/Fx2048/Team_4_FdD/tree/main/Software)  Categoría en la que se encontrará lo códigos a útilizar para la implementación de la solución de nuestro proyecto.
