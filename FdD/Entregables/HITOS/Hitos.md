@@ -15,4 +15,14 @@
 
 </body>
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7659170f-267e-406d-9c79-46b183264bab)
+
+•Alimentación sana. (n.d.). Who.int. Retrieved January 30, 2024, from https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet
+•Banco central de Reserva del Perú. (2023). Ayacucho: Síntesis de Actividad Económica-enero 2023. Recuperado de https://www.bcrp.gob.pe/docs/Sucursales/Huancayo/2023/sintesis-ayacucho-01-2023.pdf
+•Bautista Rico, L. P. (2018). Biodegradación microbiana de carbofurano en suelos de cultivos de papa criolla Solanum phureja. Recuperado de http://repositoriodspace.unipamplona.edu.co/jspui/handle/20.500.12744/2866
+•Chuncho Juca, L., Uriguen Aguirre, P., & Apolo Vivanco, N. (2021). Ecuador: Análisis económico del desarrollo del sector agropecuario e industrial en el periodo 2000-2018. Recuperado hoy https://repositorio.upse.edu.ec/handle/46000/7651
+•La Papa te pone Punche. (2023, mayo 30). gob.pe. Recuperado de https://www.gob.pe/institucion/midagri/campa%C3%B1as/29078-la-papa-te-pone-punche
+•Rasul Chaudhry, G., & Wheeler, W. B. (1988). Biodegradation of Carbamates. Water Science and Technology, 20(11-12), 89-94. Recuperado de https://doi.org/10.2166/wst.1988.0270
+•Puntos cuánticos de grafeno pasivado para la determinación de carbarilo en jugos—Soriano—2021—Journal of Separation Science—Wiley Online Library. (s. f.).Recuperado 31 de enero de 2024, de https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jssc.202001200
+•Vista de Ecuador: análisis económico del desarrollo del sector agropecuario e industrial en el periodo 2000-2018. (2021). Edu.ec. Recuperado el 15 de enero de 2024, de https://incyt.upse.edu.ec/ciencia/revistas/index.php/rctu/article/view/547/502
 
