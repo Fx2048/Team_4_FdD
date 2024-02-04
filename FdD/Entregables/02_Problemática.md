@@ -3,10 +3,9 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4b87ee43-16e5-4eb8-aeb7-da71a793c530)
 
+[](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ff14a341-b66d-4656-8854-3bb349f0d755)
 
-<p align="> </p>
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ff14a341-b66d-4656-8854-3bb349f0d755" width="850" height="470" style="margin: auto;"></P>
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d8a0182d-2fb8-4c1f-a87f-0f9944e7d449)
 
@@ -28,8 +27,7 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/52b88fef-2cd7-4097-8219-ed8a4e94bcca)
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444" width="850" height="470" style="margin: auto;"></P>
-
+[](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444)
 
 ## <p> 🚜PPT completo, acceder al siguiente enlace:🔍 </p>
 
@@ -38,13 +36,11 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a010d776-6d31-4aa7-8432-a0b66ecd65c4)
 
 
+[](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ef49a8e7-aa46-44e4-923b-2f0b4f880c9f)
+
+[](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b3b9b5c-06ff-47ce-98d8-b3df074ba2f2)
 
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ef49a8e7-aa46-44e4-923b-2f0b4f880c9f" width="850" height="470" style="margin: auto;"></P>
-
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b3b9b5c-06ff-47ce-98d8-b3df074ba2f2)
 
 [🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
 
