@@ -13,18 +13,6 @@
 
 <p align="center">Esta carpeta expone el procedimiento llevado a cabo en el laboratorio, en el cual los estudiantes ponemos a prueba nuestras habilidades y realizamos un informe académico ilustrado y detallado sobre las implicancias de las funciones en el desarrollo del taller.</p>
 
-<p align="center">
-        1. <a href="link">Link a los Talleres</a>
-</p>
-
-[01. EQUIPOS E INSTRUMENTOS](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/01_Equipos_e_instrumentos.md)
-
-[02. FUNDAMENTOS DE ELECTRÓNICA](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/02_Fundamentos_de_electronica_I.md)
-
-[03. USO DE KIT DE ARDUINO IOT](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/03_Uso_de_Kit_arduino_IoT.md)
-
-[04. MODELADO 3D](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/04_Modelado_3D.md)
-
 <ol>
         <li><a href="https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/01_Equipos_e_instrumentos.md">01. EQUIPOS E INSTRUMENTOS</a></li>
         <li><a href="https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/Talleres/02_Fundamentos_de_electronica_I.md">02. FUNDAMENTOS DE ELECTRÓNICA</a></li>
