@@ -1,19 +1,11 @@
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ac04d809-f5bd-4033-b86a-ab013835c291" width="800" height="300" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e358eec5-7827-442e-b8a2-004ddb02395e" width="800" height="400" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/f5bfd7e9-056b-491f-9d51-62dce3839e99" width="800" height="400" style="margin: auto;">
-</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cef385c0-8da8-480a-b4dc-294e01a19277)
 
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6528ad8-d882-4b95-a1d3-df0d80143f00" width="800" height="400" style="margin: auto;">
-</p>
+![](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e358eec5-7827-442e-b8a2-004ddb02395e)
+
+![](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f5bfd7e9-056b-491f-9d51-62dce3839e99)
+
+![](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6528ad8-d882-4b95-a1d3-df0d80143f00)
 
 
 
