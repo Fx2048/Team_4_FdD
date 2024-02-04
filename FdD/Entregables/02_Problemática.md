@@ -42,13 +42,11 @@
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ef49a8e7-aa46-44e4-923b-2f0b4f880c9f" width="850" height="470" style="margin: auto;"></P>
 
-[🎯⛓️Bibliografía base para la constitución del mapa de empatía,journey map, diagrama de Ishikawa](../../Bibliografía/Indent_problema.txt)
-
-[🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b3b9b5c-06ff-47ce-98d8-b3df074ba2f2)
 
+[🎯⛓️Bibliografía para el hallazgo de la problemática](../../Bibliografía/Indent_problema.txt)
 
 •  Salud con lupa. (7 de julio 2023). *De Europa al Perú: el negocio 
   de los pesticidas que amenazan la salud* [Video].Youtube. 
@@ -77,6 +75,9 @@
   Obtenido de: https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1000&context=ing_ambiental_sanitaria
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/92a47939-1448-4ad0-9be7-3cc4fbbabae7)
+
+[🎯⛓️Bibliografía base para la constitución del mapa de empatía,journey map, diagrama de Ishikawa](../../Bibliografía/Indent_problema.txt)
+
 
 • D. Balsamo et al., “Graceful Performance Modulation for Power-Neutral Tran�sient Computing Systems,” IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 5, May 2016, pp. 738–49.
 
