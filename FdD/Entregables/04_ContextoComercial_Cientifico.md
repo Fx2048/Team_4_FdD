@@ -8,6 +8,12 @@
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/02cd6c5b-e591-4ba6-ae8c-e0dd9d15eefc" width="750" height="350" style="margin: auto;">
 </p>
 
+### Resumen: 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4e928339-f911-49f6-a569-dac9a2ad233c)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7a1715f4-31f0-4464-83f5-77ebebdccb86)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/31f6f6c1-4dd0-4d9d-9e85-db7a04645646)
+
 
 ### 🚜 Objetivo:🛜
 Realizar una investigación sobre la situación actual en los ámbitos comercial y científico, con el fin de identificar una serie de requisitos. Posteriormente, plantear una solución para abordar una problemática específica.
@@ -332,24 +338,19 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 
 ### 🚜 FUNCIONALES:
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/507c4828-9bf8-47e8-ab7b-74985eca4ee7" width="900" height="500" style="margin: auto;">
-</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/285b7b34-ee9d-49a4-a10a-2385a9f07def)
+
 
 ### 🚜NO FUNCIONALES
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/572e6321-611e-465e-b2a6-e89ebac402ab" width="900" height="500" style="margin: auto;">
-</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/29b6fda0-03cc-41b8-a51a-341e71f9a72f)
+
 
 ## 🚜ESTRATEGIA SOLUCIÓN:
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/61c931d0-3b9b-4446-a57a-342c93d2151c" width="900" height="500" style="margin: auto;">
-</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/819b4a3e-d336-4350-90fd-64236be1a6a4)
 
-### Presentación: 
-[CLICK](https://www.canva.com/design/DAF6FI-bhh8/3-qk_cwKuTzv0XqdTK-b5Q/edit)
+
 
 
 ##  🚜REFERENCIA BIBLIOGRÁFICA
