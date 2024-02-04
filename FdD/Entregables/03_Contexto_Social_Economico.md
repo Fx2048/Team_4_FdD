@@ -15,7 +15,7 @@
   
 
 
-<p align="center">
+
 ![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura%20_1.png)
 
 <p align = "justify">
