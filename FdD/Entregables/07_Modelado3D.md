@@ -1,10 +1,19 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a5439c82-8b1e-4035-bab2-a413ebaca878)
 
 En el presente link accederán a la presentación gráfica en la plataforma Onshape que nos servirá de representación visual sobre el proyecto ganador en el transcurso de nuestro proyecto.
+
 *[Presentacion 3D en ONSHAPE](link)
+
 *Perspectiva de diseño[imagen]
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ac3eac42-bddb-4576-a804-cff5fea40e1f)
-componentes [imagne]
-medidas | imagen, 
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/168f9241-ad60-4080-ac57-c7570f1effd2)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb975b29-f50e-4920-bbb1-ec7a97f47a81)
+
+foto pretotipo 
+
