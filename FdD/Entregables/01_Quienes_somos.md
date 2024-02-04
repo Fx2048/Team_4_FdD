@@ -1,15 +1,19 @@
-# <p align="center">🛜ECOPUREHARVEST🌱</p>
+
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/logo.jpg" width="100" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ee49b5ee-e88f-4e83-9b9f-56e43d95bee1" width="100" style="margin: auto;">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/b2a5d555-5e63-455e-99d9-b6a6833cf830" width="500" style="margin: auto;">
+</p>
 
-
-#### <p align="center"> ***"Abusamos de la tierra porque la tratamos como si fuese nuestra. Cuando la veamos como una oportunidad a la que pertenecemos, puede que la tratemos con amor y respeto."*** -Aldo Leopold</p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/somos_all.jpg" width="500" style="margin: auto;">
 </p>
+
+![image]()
+
 
 #### <p align="justify">¡Qué tal, exploradores! 🤠 Somos EcoPureHarvest, y estamos felices de verlos por estas tierras, nuestra misión es dar a conocer la documentación de nuestra trayectoria en la investigación e implementación de soluciones innovadoras de "INVESTIGACIÓN SOBRE EL EMPLEO DE PESTICIDAS EN LA AGRICULTURA"</p>
 
