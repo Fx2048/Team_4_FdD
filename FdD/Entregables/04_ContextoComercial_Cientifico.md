@@ -85,23 +85,9 @@ El informe indica que el rendimiento del modelo de Random Forest es superior, al
 Camper, N D, Fleming, M M, & Skipper, H D. (1987). Biodegradation of carbofuran in pretreated and non-pretreated soils. United States. Recuperado de [URL](https://doi.org/10.1007/BF01698447) o [Documento.](../../Documentación/art_5.pdf)
 
 
+
+
 ### 🚜ARTÍCULO 6:
-### <p align = "center">Toxicidad del carbofurán</p>
-
-<p align = "justify"> Este artículo trata de los subproductos liberados en la biodegradación del carbofuran, y como la biodegradación del carbofuran es estable a bajas y neutras concetraciones.Menciona además sobre la hidrólisis como mecanismo principal de la descomposición del carbofurán.</p>
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/2e54a540-fadd-4e25-b046-b6d52359c8cb" width="850" height="470" style="margin: auto;"></P>
-
-<p align = "justify" > Gráfico 1: SUBPRODUCTOS DEL METABOLISMO DEL CARBOFURANO: Las vías metabólicas del carbofurano incluyen varios metabolitos que se generan a través de reacciones enzimáticas oxidativas, hidrolíticas y conjugativas. I, 2,2-dimetil-2,3-dihidrobenzofuranil-7-N-metilcarbámato (carbofurano); II, 2,2-dimetil-3-hidroxi-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-hidroxycarbofurano); III, 2,2-dimetil-3-ceto-2,3-dihidrobenzofuranil-7-N-metilcarbámato (3-cetocarbofurano); IV, 2,2-dimetil,7-hidroxi-2,3-dihidrobenzofurano (fenol de carbofurano); V, 2,2-dimetil-3,7 dihidroxi-2,3-dihidrobenzofuranil (3-hidroxifenol de carbofurano); VI, 2,2-dimetil-7-hidroxi-3-ceto-2,3-dihidrobenzofuranil (3-cetofenol de carbofurano); VII, conjugado de fenol de carbofurano (IV); VIII, conjugado de 3-hidroxifenol de carbofurano (V); IX, conjugados de glucurónido y sulfato. Estos metabolitos son producidos por reacciones enzimáticas de oxidación, hidrólisis y conjugación. M, en mamíferos; I, en insectos; y P, en plantas. Las flechas anchas representan las principales vías metabólicas. Adaptado de Metcalf et al. (1968).
-
-
-Gupta, Ramesh C. (1994). Carbofuran toxicity. Journal of Toxicology and Environmental Health, 43(4), 383–418. doi:10.1080/15287399409531931 
- </p>
- 
-[URL](https://doi.org/10.1080/15287399409531931) 
-[Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/art6.pdf)
-
-### 🚜ARTÍCULO 7:
 ### <p align = "center">Persistencia de la degradación del carbofurán en el suelo</p>
 
 <p align = "justify"> Gráfico 2: Curvas de degradación de Carbofuran en 4 niveles de pH en un tipo de suelo de Sultan Washington
