@@ -21,12 +21,7 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/79a2f4be-2dd5-40e3-9748-6059e1dce025)
 
 
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/6b420066-d793-437c-a641-d5bb8f0c5b4d" width="850" height="470" style="margin: auto;"></P>
-
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/03_problematica/problematica_nueva.jpg" width="850" height="470" style="margin: auto;"></P>
-
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f39d3e58-cc41-4280-87b3-fce711ff4fac)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/22ee3930-72ab-4f5b-935d-1b28cb0f37b9)
