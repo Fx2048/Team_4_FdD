@@ -4,9 +4,7 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/17e43ad5-bc54-4019-ae3b-c97f998f4788)
 
 
-<center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/44ae2d16-1830-4c4e-b581-6ca8d24251b2" alt="Descripción de la imagen" width="920" height="600">
-</center>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d8012dcf-a992-4b40-957c-5798657b3f00)
 
 
 
@@ -20,9 +18,8 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/83f2833a-8dcc-4bf5-b2b9-c3519b4b2ac4)
 
 
-<center>
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/aa6a232f-f6d2-4ffd-ac61-539ff6c16379" alt="Descripción de la imagen" width="920" height="600">
-</center>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/41fcf60c-9668-427c-9086-53428d02fb75)
+
 
 <center>
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ab87400a-52e3-4a51-bbeb-231809afb6b1" alt="Descripción de la imagen" width="920" height="600">
