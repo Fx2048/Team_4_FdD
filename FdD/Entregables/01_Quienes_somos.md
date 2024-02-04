@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/84f4e781-eb73-44da-a4a4-14e46e6b5e48" width="500" style="margin: auto;">
-</p>
+
+[](https://github.com/Fx2048/Team_4_FdD/assets/131219987/84f4e781-eb73-44da-a4a4-14e46e6b5e48)
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ee49b5ee-e88f-4e83-9b9f-56e43d95bee1" width="400" style="margin: auto;">
