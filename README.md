@@ -28,14 +28,13 @@ Cita: Estadísticas Regionales Clave Sobre, el O. (s/f). ODS 12: Garantizar moda
 
 Más información [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
-## 🚜¿Quiénes lo conforman?🙌
+## 🚜CONOCE AL EQUIPO DETRÁS DE ECOPUREHARVEST🌱👷🏽‍♀👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
 <p align="justify">
 Para relizar el presente proyecto el equipo esta conformado por estudiantes de la carrera de Ingeniería Informática e Ingeniería Ambiental quienes tienen un gran entusiamos para solucionar diversos problemas que se encuentran inmersos en nuestra sociedad hoy en día, uno de ellos es el calentamiento global.
 </p>
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ece8944c-6274-4487-861e-422cef6f35a7)
 
-## 🚜CONOCE AL EQUIPO DETRÁS DE ECOPUREHARVEST🌱👷🏽‍♀👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;">
