@@ -1,5 +1,8 @@
 
-# <p align="center"> CONTEXTO SOCIAL 💡 </p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/17c94a71-6ac9-42da-8a63-803074f0ff7a)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/682d91f0-34c7-476b-8902-d73a552c920d)
+
 
 ## <p > NIVEL MUNDIAL </p>
 
@@ -13,8 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura%20_1.png" width="600" height="300" style="margin: auto;">
-</p>
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura%20_1.png)
 
 <p align = "justify">
   
@@ -26,9 +28,9 @@
   
 **Figura 2:** Resultados obtenidos por análisis cromatógraficos de las muestras de suelo.<p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_2.png" width="600" height="300" style="margin: auto;">
-</p>
+
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_2.png)
+
 
 <p align = "center"> 
   
@@ -44,9 +46,9 @@
 **Figura 3:** Distribución geográfica del gorgojo y especies.
 <p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_3.png" width="600" height="300" style="margin: auto;">
-</p>
+
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_3.png)
+
 
 <p align = "center"> 
   
@@ -62,9 +64,9 @@
 **Tabla 1** AYACUCHO: Supeficies agropecuaria, por usos de la tierra, 2019 y 2021.
 <p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_1.png" width="600" height="300" style="margin: auto;">
-</p>
+
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_1.png)
+
 
 <p align = "center"> 
   
@@ -77,9 +79,9 @@
 **Tabla 2** AYACUCHO: Volumen de la producción agrícola, según principales cultivos, (2014-2022).
 <p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_2.png" width="600" height="300" style="margin: auto;">
-</p>
+
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_2.png)
+
 
 <p align = "center"> 
   
@@ -93,15 +95,16 @@ compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y 
 **Tabla 3** AYACUCHO: Superficie cosechada, según principales cultivos, (2014-2022).
 <p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_3.png" width="600" height="300" style="margin: auto;">
-</p>
+
+ ![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Tabla_3.png)
+
 
 <p align = "center"> 
   
 **Nota:** La presente tabla nos permite identificar la cosecha de la papá por hectáreas en la región de Ayacucho. FUENTE: MIDAGRI- Dirección Regional Agraria de Ayacucho, (INEI)(2022) .</p>  
 
-# <p align="center"> CONTEXTO ECONÓMICO </p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/9809df2b-95fb-4d3c-9896-cdc8ae573396)
+
 
 ## <p > NIVEL MUNDIAL </p>
 
@@ -113,10 +116,8 @@ compromiso arraigado con la salud a largo plazo de nuestra tierra y comunidad y 
   
 <p>
   
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_4.png" width="600" height="300" style="margin: auto;">
-</p>
 
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_4.png)
 
 <p align = "center"> 
   
@@ -139,9 +140,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
   **Figura 5:** Producción de la papa.
 <p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_5.png" width="600" height="300" style="margin: auto;">
-</p>
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_5.png)
 
 <p align = "center"> 
   
@@ -152,12 +151,11 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 <p align = "center" >
   
-  **Figura 6:** Rendimiento d ela papa. <p>
+  **Figura 6:** Rendimiento de la papa. <p>
 
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_6.jpg" width="600" height="300" style="margin: auto;">
-</p>
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_6.jpg)
+
 
 
 <p align="center">
@@ -176,9 +174,9 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
   **Figura 7:** Evolución del PBI 2016_217 <p>
   
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_7.jpg" width="600" height="300" style="margin: auto;">
-</p>
+
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_7.jpg)
+
 
  **Fuente:** Banco Mundial(2022)
 
@@ -194,9 +192,8 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_8.jpg" width="600" height="300" style="margin: auto;">
-</p>
+
+![]("https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_8.jpg)
 
 <p align = "center"> 
   
@@ -215,9 +212,7 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 </p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_9.jpg" width="600" height="300" style="margin: auto;">
-</p>
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Figura_9.jpg)
 
 <p align = "center"> 
   
@@ -233,7 +228,8 @@ Por otro lado, "la papa es clave en Bolivia con 1,500 variedades, pero la produc
 
 Fuente: INEI. Encuesta Permanente De empleo Nacional (EPEN).
 
-##  Referencias bibliográficas : 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/97427dbf-900d-4623-9150-7590656931fc)
+
 <p align="justify">
   
   - Banco central de Reserva del Perú. (2023). Ayacucho: Síntesis de Actividad Económica-enero 2023. https://goo.su/ldHmFka
