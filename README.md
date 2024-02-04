@@ -3,12 +3,15 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0fb305dd-9fa0-4750-bce8-43c7af2c1e48)
 
 
-## 🚜Tabla de contenido
+## ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/8d4ef01c-e331-46f3-9279-d7fe9aaad257)
+
   - [NUESTRA MISIÓN ODS](https://github.com/Fx2048/Team_4_FdD/tree/main?tab=readme-ov-file#-ods-12--producci%C3%B3n-y-consumo-responsable)
   - [CONÓCENOS](https://github.com/Fx2048/Team_4_FdD/blob/main/README.md#conoce-al-equipo-detr%C3%A1s-de-ecopureharvest)
-  - [CONTENIDO](https://github.com/Fx2048/Team_4_FdD/blob/main/README.md#descripci%C3%B3n-de-las-carpetas)
+  - [CARPETAS](https://github.com/Fx2048/Team_4_FdD/blob/main/README.md#descripci%C3%B3n-de-las-carpetas)
     
 ## 🚜 ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06ae34be-e2fa-4b44-98fa-45756af4d6f8)
+
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg" width="768" height="439" style="margin: auto;"></P>
   
 
@@ -54,7 +57,9 @@ Más información [click aqui](https://www.cepal.org/sites/default/files/static/
 
 - Para mayor información haz [click aquí](https://github.com/Fx2048/Team_4_FdD/blob/main/FdD/Entregables/01_%C2%BFQui%C3%A9nes%20conformamos.md)
 
-## Descripción de las carpetas:📚
+## Carpetas:📚
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/5f5c7f57-86fc-4b64-87cd-fe1df7a44db4)
+
 
 -[Bibliografía :](https://github.com/Fx2048/Team_4_FdD/tree/main/Bibliograf%C3%ADa) Sección donde se podrá encontrar todas las referencias bibliográficas tanto de textos como imágene que harán que nuestra información sea más confiable.
 
