@@ -1,8 +1,6 @@
-
-
 <p align="center">
-        ECOPUREHARVEST - TEAM4_FdD-2024-V
-    </p>
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/84f4e781-eb73-44da-a4a4-14e46e6b5e48" width="400" style="margin: auto;">
+</p>
 
 <p align="center">
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ee49b5ee-e88f-4e83-9b9f-56e43d95bee1" width="400" style="margin: auto;">
@@ -17,28 +15,9 @@
   <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/8dacf8a7-8486-4e37-b463-345aa0f6efc6" width="400" style="margin: auto;">
 </p>
 
-
-
-## TEAM 4 -MISSION ODS12:
-## 🚜CONÓCENOS 🌱👷🏽‍♀️👩🏽‍💻👨🏽‍💻👩🏽‍💻👩🏽‍💻
-<table>
-    <tr>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/nilda_somos.jpg" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/brigitte_somos.jpg" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/magno_somos.jpg" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/meli_somos.jpg" alt="">
-        </td>
-        <td style="border: 0px solid #ddd; padding: 8px;">
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Quienes%20somos/leily_somos.jpg" alt="">
-        </td>
-</table>  
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbcf065c-caf4-4380-b1f4-44f63faf2f9b" width="400" style="margin: auto;">
+</p>
 
 ## 🚜**ROLES** 🎯🔍🥽👨🏽‍💻🚜
 
