@@ -1,4 +1,5 @@
-# <p align="center"> 🌿IDENTIFICACIÓN DEL PROBLEMA 🔎</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cff64ff0-aaaa-4aed-a145-7a23268dd783)
+
 
 
 
@@ -6,14 +7,16 @@
 <p align="justify"> Dentro de esta carpeta, se encuentran diversos mapas diseñados para identificar y analizar el problema en cuestión. Estas representaciones visuales abarcan desde aspectos básicos hasta relaciones complejas, ofreciendo una visión integral. Cada mapa destaca diferentes facetas del problema, facilitando el análisis de causas, efectos y posibles soluciones. La organización estructurada y la documentación adjunta facilitan la comprensión y utilización eficiente de estos recursos para abordar la situación de manera efectiva.</p>
 
 
-# Tipos de archivos:📓
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/98e61945-4b83-4e7e-9786-9ad25b8a17fc)
+
    - PPT / PPTX   
    - CSV
    - PDF
    - DOC / DOCX   
    - JPEG / PNG
 
-# Lenguajes de programación: 📑
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/10139006-2e55-4c36-8184-9d8c3f2a819a)
+
    - Python
    - Markdow
 
