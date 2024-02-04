@@ -1,12 +1,5 @@
-#  <p align = "center"> 🚜ESTADO DEL ARTE </p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/430c8342-fd68-43d5-9387-9e46f2d7254a)
 
-<p align="center">
-  <img src="../../Imágenes/04_comerci_cientifico/logo_04.jpg" width="750" height="350" style="margin: auto;">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/02cd6c5b-e591-4ba6-ae8c-e0dd9d15eefc" width="750" height="350" style="margin: auto;">
-</p>
 
 ### Resumen: 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4e928339-f911-49f6-a569-dac9a2ad233c)
