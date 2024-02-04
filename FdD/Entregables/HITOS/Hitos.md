@@ -1,8 +1,6 @@
 
+<title>HITOS - TEAM4_FdD-2024-V</title>
 
-<head>
-    <title>HITOS - TEAM4_FdD-2024-V</title>
-</head>
 
 <body>
 
