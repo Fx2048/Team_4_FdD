@@ -4,6 +4,8 @@
         HITOS - TEAM4_FdD-2024-V
 </p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/098ee59b-1f89-4ba2-847f-ce7039157a28)
+
 <h1 align="center">Información sobre la carpeta:</h1>
 
 <p align="center">En esta carpeta se incluirá la presentación expuesta sobre el progreso del proyecto en base al resumen de lo trabajado en el periodo académico, en formato pdf los denominados HITOS:</p>
