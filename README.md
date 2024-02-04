@@ -24,7 +24,7 @@ El uso de pesticidas en la agricultura puede tener impactos significativos en la
 En resumen, aunque la ODS 12 no menciona específicamente el uso de pesticidas, su objetivo general de promover prácticas de producción sostenibles y gestionar de manera sostenible los productos químicos implica indirectamente la necesidad de abordar y reducir los impactos negativos de los pesticidas en la agricultura.
 </p>
 
-CEPAL(2019) Estadísticas regionales clave sobre el ODS 12.Extraído el 04/02/2024. Sitio web: https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf
+CEPAL(2019) Estadísticas regionales clave sobre el ODS 12.Recuperado el 04/02/2024. Sitio web: https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf
 
 Más información [click aqui](https://www.cepal.org/sites/default/files/static/files/ods12_c1900731_press.pdf)
 
