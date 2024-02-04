@@ -12,7 +12,7 @@
 ## 🚜 ODS 12 : PRODUCCIÓN Y CONSUMO RESPONSABLE🔖
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/06ae34be-e2fa-4b44-98fa-45756af4d6f8)
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/ODS12/ods12.jpg) 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/78acc211-56d7-41ae-a0dd-9eab19f46677)
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/af0994c6-2bdc-48e5-844e-efb022b756c3)
 
 <p align="justify">
