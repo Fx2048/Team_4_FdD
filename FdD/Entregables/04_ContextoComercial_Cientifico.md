@@ -1,4 +1,4 @@
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/430c8342-fd68-43d5-9387-9e46f2d7254a)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2141dce5-f7ef-405e-b5e5-8030c1340bea)
 
 
 ### Resumen: 
