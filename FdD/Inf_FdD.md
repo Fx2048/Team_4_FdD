@@ -9,9 +9,8 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/9e0ab435-74d3-4342-8565-3872f359c9c4)
 
-### UNIDAD 1: Identificación de la necesidad o problema 
-### UNIDAD 2: Creación de conceptos de solución 🏖
-### UNIDAD 3: Implementación de la solución 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f434e1ed-1461-4a0f-90c0-3bdf48d04551)
+
 
 #### 🎯Para mayor información 
   📙[click aqui](../Documentación/Sil_FdD.pdf)
@@ -20,7 +19,7 @@ Los estudiantes se enfrentarán a problemas actuales y significativos en la inge
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/72578e7e-d531-4997-80c2-dfebb178178f)
 
 
-- [Entregables:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables)  Se encontratá todo los entregables tanto de los informes, hitos, entre otros durante el proyecto.
+- [Entregables:](https://github.com/Fx2048/Team_4_FdD/tree/main/FdD/Entregables)  Destinado a enviar los informes acerca del laboratorio, información organizada del proyecto, código y presentaciones afines. 
 
 
 
