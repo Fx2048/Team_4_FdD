@@ -1,21 +1,20 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2141dce5-f7ef-405e-b5e5-8030c1340bea)
 
 
-### Resumen: 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7735797b-8089-4571-9104-f4c34181de38)
+
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4e928339-f911-49f6-a569-dac9a2ad233c)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7a1715f4-31f0-4464-83f5-77ebebdccb86)
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/31f6f6c1-4dd0-4d9d-9e85-db7a04645646)
 
 
-### 🚜 Objetivo:🛜
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a2ae9181-d8cc-4266-92f0-dd5d9b9d15e7)
 Realizar una investigación sobre la situación actual en los ámbitos comercial y científico, con el fin de identificar una serie de requisitos. Posteriormente, plantear una solución para abordar una problemática específica.
 
 
 
-#  <p align = "center"> 🚜CONTEXTO  CIENTÍFICO </p>
-
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/74b2196e-2183-471c-ba6e-5a2d0da23cdf" width="850" height="470" style="margin: auto;"></P>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b704305d-3510-4235-8efb-9c405d2c6b47)
 
 
 
@@ -119,7 +118,7 @@ Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environ
 
 ---
 
-#  <p align = "center"> 🚜CONTEXTO  COMERCIAL </p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/07fa31a7-ce04-4cbb-a87e-90ab14421e8c)
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e217f445-55b8-4b40-b6ee-89e538c2f2df" width="850" height="470" style="margin: auto;"></P>
 
@@ -325,7 +324,7 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 [Documento](https://github.com/Fx2048/Team_4_FdD/blob/main/Documentaci%C3%B3n/patente_3.pdf)
 
 
-## 🚜LISTA DE REQUERIMIENTOS:
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/aaf289ea-16c6-4ba3-888e-b35501a5d7da)
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/68415fe1-32cf-49db-b9c2-9630003a532f" width="850" height="470" style="margin: auto;"></P>
 
@@ -345,8 +344,7 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 
 
 
-
-##  🚜REFERENCIA BIBLIOGRÁFICA
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/745e1792-3344-40a8-a573-1acce862ac39)
 
 
 - Gong, T., Liu, R., Che, Y., Xu, X., Zhao, F., Yu, H., ... & Yang, C. (2016). Engineering Pseudomonas putida KT 2440 for simultaneous degradation of carbofuran and chlorpyrifos. Microbial biotechnology, 9(6), 792-800.
