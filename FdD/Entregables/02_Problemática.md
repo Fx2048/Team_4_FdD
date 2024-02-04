@@ -26,6 +26,7 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/22ee3930-72ab-4f5b-935d-1b28cb0f37b9)
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/52b88fef-2cd7-4097-8219-ed8a4e94bcca)
 
 <P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/ed9813e3-467c-48f0-8151-8ace0b393444" width="850" height="470" style="margin: auto;"></P>
 
