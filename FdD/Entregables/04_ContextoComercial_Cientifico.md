@@ -120,7 +120,6 @@ Getzin, L. W. (1973). Persistence and Degradation of Carbofuran in Soil. Environ
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/07fa31a7-ce04-4cbb-a87e-90ab14421e8c)
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/e217f445-55b8-4b40-b6ee-89e538c2f2df" width="850" height="470" style="margin: auto;"></P>
 
 
 ## PRODUCTOS
@@ -326,7 +325,6 @@ Lund, E.,et al.(2017) Method and system for measuring multiple soil properties(U
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/aaf289ea-16c6-4ba3-888e-b35501a5d7da)
 
-<P align="center"><img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/68415fe1-32cf-49db-b9c2-9630003a532f" width="850" height="470" style="margin: auto;"></P>
 
 ### 🚜 FUNCIONALES:
 
