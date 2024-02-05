@@ -23,12 +23,17 @@
 
 <p align = "justify" >A continuación, se mostrará de manera general dichos elementos:</p>
 
-<table align = "justify">
+<div align="center">
+
+<table>
   <tr>
     <td><img src="../../Imágenes/System_1.png"></td>
     <td><img src="../../Imágenes/System_2.png"></td>
-  </tr>
+  </tr>
 </table>
+
+</div>
+
 
 ***Figura:*** 
 Dispositivo 1 al lado izquierdo 
