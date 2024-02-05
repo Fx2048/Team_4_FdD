@@ -40,13 +40,11 @@ Dispositivo 1 al lado izquierdo
 (Rol: transmisión, sensores) y Dispositivo 2 al lado derecho 
 (Rol: recepción, enviar datos a la nube).
 
-En el presente link accederán a la presentación gráfica en la plataforma Onshape que nos servirá de representación visual sobre el proyecto ganador en el transcurso de nuestro proyecto.
+En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
 
-*[Presentacion 3D en SKETCHFAB](../../Hadware/Modelo_3D/All_my_model.stl)
+*[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
 
-*[Presentacion 3D en SKETCHFAB](https://sketchfab.com/3d-models/all-my-model-8b4fa2704f744f1584f49b39e792a4b6)
+*[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all-my-model-8b4fa2704f744f1584f49b39e792a4b6)
 
-*[Presentacion 3D en ONSHAPE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c060436ad2e72b4ab15472)
-
-*[Presentacion 3D en SKETCHFAB](link)
+*[Dispositivo #2_opición_1](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c060436ad2e72b4ab15472)
