@@ -46,14 +46,20 @@ Dispositivo 1 al lado izquierdo
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
 
+<<<<<<< HEAD
 *[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
+=======
+
+
+*[Modelo 3D _ Caja principal](../../Hadware/Modelo_3D/Caja.stl)
+>>>>>>> 918d712a397109e395b46e72f23ed27de1720f8b
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
 
 *[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
-*[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
+*[Modelo 3D _ Tubo ](../../Hadware/Modelo_3D/All_my_model.stl)
 
 *[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 
