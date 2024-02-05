@@ -3,8 +3,11 @@
 
 # <p align = center>  📑TABLA DE COMPONENTES🔖</p>
 
+<p align="center">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948" width="1050" height="430" style="margin: auto;">
+</p>
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948)
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f662aa10-5190-4267-ac08-51f0ea7b8047)
 
