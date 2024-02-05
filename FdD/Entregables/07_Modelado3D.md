@@ -45,7 +45,7 @@ Dispositivo 1 al lado izquierdo
 
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
-*[Dispositivo_#1](../../Hadware/Modelo_3D/All_parts3D.stl)
+
 
 ---
 
@@ -79,7 +79,7 @@ Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 
 
-*[Partes_dispositivo #2](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+*[Partes_dispositivo #2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
 
