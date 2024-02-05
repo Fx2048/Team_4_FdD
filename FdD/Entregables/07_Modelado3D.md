@@ -49,10 +49,6 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 [ENLACE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c0e717430e5650ecdc4a14)
 
-<<<<<<< HEAD
-*[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
-=======
-
 
 *[Modelo 3D _ Caja principal](../../Hadware/Modelo_3D/Caja.stl)
 
