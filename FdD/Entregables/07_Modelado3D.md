@@ -4,7 +4,8 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 
 *[Presentacion 3D en ONSHAPE](link)
 
-*Perspectiva de diseño[imagen]
+![Imagen de WhatsApp 2024-02-04 a las 21 11 08_4d642d36](https://github.com/Fx2048/Team_4_FdD/assets/131219987/3d318db0-3ccf-4032-bbcf-ce0c9078b659)
+
 
 *[Presentacion 3D en SKETCHFAB](link)
 
