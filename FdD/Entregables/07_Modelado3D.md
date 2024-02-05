@@ -16,5 +16,6 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb975b29-f50e-4920-bbb1-ec7a97f47a81)
 
-foto pretotipo 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e1195f2f-7c9b-42fe-8bdd-742605c9123a)
+
 
