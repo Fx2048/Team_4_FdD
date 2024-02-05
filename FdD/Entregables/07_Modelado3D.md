@@ -58,7 +58,12 @@ Del mismo modo, se puede visualizar sus componentes:
 
 *[Partes_dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_parts3D.stl)
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbf374dd-5de8-4eae-9252-b059e3a256a5)
+
+
+
 *[Partes_dispositivo #1_opición_2](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+
 
 
 
