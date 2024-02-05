@@ -54,8 +54,10 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 ## **Plano de la caja**
 
-## CAJA CENTRAL
+
 ![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
+
+## CAJA CENTRAL🗃️
 
 *[SKETCHFAB  #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 
