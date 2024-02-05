@@ -75,7 +75,7 @@ Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 
 
-*[Partes_dispositivo #2](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+*[SKETCHFAB  #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
 
