@@ -4,7 +4,7 @@
 # <p align = center>  📑TABLA DE COMPONENTES🔖</p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948" width="1050" height="430" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/491d4185-a000-476c-9524-649a26e58c50" width="1050" height="430" style="margin: auto;">
 </p>
 
 
@@ -56,9 +56,12 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 Del mismo modo, se puede visualizar sus componentes:
 
-*[Partes_dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_parts3D.stl)
 
-*[Partes_dispositivo #1_opición_2](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+
+*[Partes_dispositivo #1_opición_1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/24e0b75c-08a6-4728-8592-ba7a8c9ee55a)
+
 
 
 
