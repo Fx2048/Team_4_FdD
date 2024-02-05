@@ -2,9 +2,9 @@
 
 En el presente link accederán a la presentación gráfica en la plataforma Onshape que nos servirá de representación visual sobre el proyecto ganador en el transcurso de nuestro proyecto.
 
-*[Presentacion 3D en ONSHAPE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c060346ad2e72b4ab15449)
+*[Presentacion 3D en ONSHAPE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c060436ad2e72b4ab15472)
 
-![Imagen de WhatsApp 2024-02-04 a las 21 11 08_4d642d36](https://github.com/Fx2048/Team_4_FdD/assets/131219987/3d318db0-3ccf-4032-bbcf-ce0c9078b659)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/feb8202f-4a27-423a-a570-7112480afd3a)
 
 
 *[Presentacion 3D en SKETCHFAB](link)
