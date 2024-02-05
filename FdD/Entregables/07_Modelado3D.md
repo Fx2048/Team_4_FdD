@@ -87,6 +87,6 @@ Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
-
+![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/AMBIENTE.png)
 
 
