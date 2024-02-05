@@ -48,6 +48,10 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 *[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
 
+![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
+
+
+
 *[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
 *[Dispositivo #2_opición_1](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/fc19f3a0c3112e938d341073)
