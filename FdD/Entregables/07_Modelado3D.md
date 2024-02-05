@@ -54,8 +54,12 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 ![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
 
+## **MODELO 3D EN SKETCHFAB DE  LA  CAJA CENTRAL**
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
+
+
+https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599
 
 ###MODELO 3D DE LA DISPOSITIVO CAJA CON SENSORES PARA TERRENO AGRÍCOLA (VERSIONES)
 
