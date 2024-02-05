@@ -6,6 +6,10 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 
 *Perspectiva de diseño[imagen]
 
+*[Presentacion 3D en SKETCHFAB](link)
+
+*Perspectiva de CON NUMERACIÓN[imagen]
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ac3eac42-bddb-4576-a804-cff5fea40e1f)
 
