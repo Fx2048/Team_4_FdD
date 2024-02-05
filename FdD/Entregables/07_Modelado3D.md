@@ -56,9 +56,6 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 ## **MODELO 3D EN SKETCHFAB DE  LA  CAJA CENTRAL**
 
-![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
-
-
 
 
 [ENLACE SKETCHFAB](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
