@@ -23,7 +23,7 @@
 
 <p align = "justify" >A continuación, se mostrará de manera general dichos elementos:</p>
 
-<table>
+<table align = "justify">
   <tr>
     <td><img src="../../Imágenes/System_1.png"></td>
     <td><img src="../../Imágenes/System_2.png"></td>
