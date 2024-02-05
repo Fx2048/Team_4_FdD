@@ -63,7 +63,7 @@ Del mismo modo, se puede visualizar sus componentes:
 <div class="sketchfab-embed-wrapper">
   <iframe title="All_my_model" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="COLOCA_AQUÍ_LA_URL_DEL_MODELO"></iframe>
   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="COLOCA_AQUÍ_LA_URL_DEL_MODELO" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> All_my_model </a> by
+    <a href="https://sketchfab.com/3d-models/all-my-model-8b4fa2704f744f1584f49b39e792a4b6" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> All_my_model </a> by
     <a href="COLOCA_AQUÍ_LA_URL_DEL_AUTOR" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> este </a> on
     <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=8b4fa2704f744f1584f49b39e792a4b6" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
   </p>
