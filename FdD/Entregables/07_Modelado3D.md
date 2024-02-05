@@ -50,7 +50,7 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
-
+https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
 
 *[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
