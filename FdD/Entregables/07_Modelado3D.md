@@ -69,10 +69,9 @@ https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
 
 Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
-*[Partes_dispositivo #1_opición_1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+*[Partes_dispositivo #1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/24e0b75c-08a6-4728-8592-ba7a8c9ee55a)
-
 
 
 
