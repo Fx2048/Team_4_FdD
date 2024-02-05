@@ -50,6 +50,9 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 *[Modelo 3D _ Caja principal](../../Hadware/Modelo_3D/Caja.stl)
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
+
+
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
 https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
