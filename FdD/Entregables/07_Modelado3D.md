@@ -57,11 +57,11 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 ![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
 
 
-*[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
+*[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 
 *[Modelo 3D _ Tubo ](../../Hadware/Modelo_3D/All_my_model.stl)
 
-*[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
+*[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
 *[Dispositivo #1_Tubo de sensor](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
