@@ -1,4 +1,4 @@
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a5439c82-8b1e-4035-bab2-a413ebaca878)
+# <p align = center>  ⚙️MODELADO 3D🖋️</p>
 
 En el presente link accederán a la presentación gráfica en la plataforma Onshape que nos servirá de representación visual sobre el proyecto ganador en el transcurso de nuestro proyecto.
 
@@ -11,16 +11,13 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 
 *Perspectiva de CON NUMERACIÓN[imagen]
 
+# <p align = center>  📑TABLA DE COMPONENTES🔖</p>
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/ac3eac42-bddb-4576-a804-cff5fea40e1f)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f662aa10-5190-4267-ac08-51f0ea7b8047)
 
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fb975b29-f50e-4920-bbb1-ec7a97f47a81)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e1195f2f-7c9b-42fe-8bdd-742605c9123a)
 
