@@ -81,7 +81,7 @@ Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 
 
-*[SKETCHFAB  #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
+*[Partes_dispositivo #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 
 
 
