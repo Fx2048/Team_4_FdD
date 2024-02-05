@@ -45,6 +45,9 @@ Dispositivo 1 al lado izquierdo
 
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
+## *ONSHAPE DE LA CAJA CENTRAL*
+
+[ENLACE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c0e717430e5650ecdc4a14)
 
 <<<<<<< HEAD
 *[Dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
@@ -52,10 +55,12 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 
 *[Modelo 3D _ Caja principal](../../Hadware/Modelo_3D/Caja.stl)
->>>>>>> 918d712a397109e395b46e72f23ed27de1720f8b
 
-![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
+## **Plano de la caja**
 
+![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
+
+https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
 
 *[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
@@ -63,14 +68,15 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 *[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 
-
-Del mismo modo, se puede visualizar sus componentes:
-
+*[Dispositivo #1_Tubo de sensor](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
 
-*[Partes_dispositivo #1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
+Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
+
+*[Partes_dispositivo #1_opición_1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/24e0b75c-08a6-4728-8592-ba7a8c9ee55a)
+
 
 
 
