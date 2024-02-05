@@ -48,12 +48,16 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 
 
-*[Modelo 3D _ Caja principal](../../Hadware/Modelo_3D/Caja.stl)
+*[Modelo 3D _ Caja principal (.stl)](../../Hadware/Modelo_3D/Caja.stl)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
+## **Plano de la caja**
+
+![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
 
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
+
+###MODELO 3D DE LA DISPOSITIVO CAJA CON SENSORES PARA TERRENO AGRÍCOLA (VERSIONES)
 
 https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
 
@@ -63,9 +67,7 @@ https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1
 
 
 
-Del mismo modo, se puede visualizar sus componentes:
-
-
+Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 *[Partes_dispositivo #1_opición_1](https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
 
