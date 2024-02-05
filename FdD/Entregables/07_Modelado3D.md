@@ -45,6 +45,10 @@ Dispositivo 1 al lado izquierdo
 
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
+*[Dispositivo_#1](../../Hadware/Modelo_3D/All_parts3D.stl)
+
+---
+
 ## *ONSHAPE DE LA CAJA CENTRAL*
 
 [ENLACE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/f1a4476c1995a1daba91e3d9?renderMode=0&uiState=65c0e717430e5650ecdc4a14)
