@@ -61,7 +61,7 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 [ENLACE](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 
-### MODELO 3D DE LA DISPOSITIVO CAJA CON SENSORES PARA TERRENO AGRÍCOLA (VERSIONES)
+### MODELO 3D DE DISPOSITIVO CAJA CON SENSORES PARA TERRENO AGRÍCOLA (VERSIONES)
 
 [ENLACE](]https://sketchfab.com/3d-models/all-parts3d-5f2d945e2fd943d9b4db5a359c3e1ec1)
 
