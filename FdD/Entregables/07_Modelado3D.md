@@ -24,7 +24,7 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 *[Presentacion 3D en SKETCHFAB](link)
 
 *Perspectiva de CON NUMERACIÓN[imagen]
-<p align = "center">VISUALIZACIÓN GENERAL</p>
+# <p align = "center">VISUALIZACIÓN GENERAL</p>
 
 <p align = "justify" >El dispositivo del proyecto preliminar ganador se basa en dos conceptos. En primer lugar, tenemos el que cumple el rol de transmitir, compuesto por sensores, batería, NRF24L01 (módulo transceptor), Arduino Uno y otros elementos. En segundo lugar, el que cumple el rol de recepción, compuesta por el módulo ESP32, NRF24L01, batería y una caja que los contiene.</p>
 
@@ -32,7 +32,7 @@ En el presente link accederán a la presentación gráfica en la plataforma Onsh
 
 <table>
   <tr>
-    <td><img src="../../Imágenes/System_1.png"></td>
-    <td><img src="../../Imágenes/System_2.png"></td>
+    <td><img src="../../Imágenes/System_1.png">Rol: transmición, senso.</td>
+    <td><img src="../../Imágenes/System_2.png">Rol: recepción, enviar datos a la nube. </td>
   </tr>
 </table>
