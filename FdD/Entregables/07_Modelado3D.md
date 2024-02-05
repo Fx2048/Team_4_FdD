@@ -56,6 +56,6 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 Del mismo modo, se puede visualizar sus componentes:
 
-*[Partes_dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_my_model.stl)
+*[Partes_dispositivo #1_opición_1](../../Hadware/Modelo_3D/All_parts_3D.stl)
 
 *[Partes_dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
