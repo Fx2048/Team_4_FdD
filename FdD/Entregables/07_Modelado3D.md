@@ -4,7 +4,7 @@
 # <p align = center>  📑TABLA DE COMPONENTES🔖</p>
 
 <p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/fd061c7c-09a7-417f-af0b-f03875276948" width="1050" height="430" style="margin: auto;">
+  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/491d4185-a000-476c-9524-649a26e58c50" width="1050" height="430" style="margin: auto;">
 </p>
 
 
