@@ -64,10 +64,11 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 [ENLACE SKETCHFAB](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d2366eb3-7e34-4e5d-a99e-5d63320e88eb)
+
+
 ## MODELO 3D DE DISPOSITIVO CAJA CON SENSORES PARA TERRENO AGRÍCOLA (VERSIONES)
 
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d2366eb3-7e34-4e5d-a99e-5d63320e88eb)
 
 *[Modelo 3D _ Tubo ](../../Hadware/Modelo_3D/All_my_model.stl)
 
