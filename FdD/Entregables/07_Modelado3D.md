@@ -46,9 +46,6 @@ Dispositivo 1 al lado izquierdo
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
 
-
----
-
 ## *ONSHAPE DE LA CAJA CENTRAL*
 
 [Vista general 3D dispositivo #2 ](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
