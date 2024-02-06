@@ -51,13 +51,6 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 [Vista general 3D dispositivo #2 ](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 
 
-*[Modelo 3D_Archivo_2](../../Hadware/Modelo_3D/Caja.stl)
-
-## **Plano de la caja**
-
-
-![image (Plano)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e799a1f0-a12f-432f-a112-fde9bdbb7219)
-
 ## CAJA CENTRAL🗃️
 
 *[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
