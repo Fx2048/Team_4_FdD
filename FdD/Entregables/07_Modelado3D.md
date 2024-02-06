@@ -81,6 +81,7 @@ O también puede visualizar las componentes desde nuestro repositorio:
 * [Componentes dispositivo #1](../../Hadware/Modelo_3D/Partes_mod_transmitir.stl)
 
 
+Finalmente, se presenta una breve representación de la ubicación donde se instalarán nuestros dispositivos en el entorno. 
 
 ![](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/AMBIENTE.png)
 
