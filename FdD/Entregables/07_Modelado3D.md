@@ -43,23 +43,28 @@ Dispositivo 1 al lado izquierdo
 (Rol: transmisión, sensores) y Dispositivo 2 al lado derecho 
 (Rol: recepción, enviar datos a la nube).
 
+## *MODELO 3D DEL DISPOSITIVO CON SENSORES Y DE LA CAJA CENTRAL:*
+
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
 
-## *ONSHAPE DE LA CAJA CENTRAL*
+1. SKETCHFAB
 
-[Vista general 3D dispositivo #2 ](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
+* [Vista general 3D dispositivo #1](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
+* [Vista general 3D dispositivo #2 ](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
+
+2. RESPOSITORIO
+
+* [Vista general 3D dispositivo #1](../../Hadware/Modelo_3D/All_my_model.stl)
+
+* [Vista general 3D dispositivo #2 ](../../Hadware/Modelo_3D/Caja_central.stl)
 
 ## CAJA CENTRAL🗃️
 
 *[Dispositivo #2_opición_2](https://sketchfab.com/3d-models/caja-57ac736d35504cfc9fb07908c0be9ef0)
 
-*[Modelo 3D _ Tubo ](../../Hadware/Modelo_3D/All_my_model.stl)
 
-*[Dispositivo #1_opición_2](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
-
-*[Dispositivo #1_Tubo de sensor](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
 
 
 Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
