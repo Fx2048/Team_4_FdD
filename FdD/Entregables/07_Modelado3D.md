@@ -44,8 +44,9 @@ Dispositivo 1 al lado izquierdo
 (Rol: recepción, enviar datos a la nube).
 
 Vista completa de las dos componentes en:
-* [sketchfab](../../Hadware/Modelo_3D/Dispositivos.stl)
-* [repositorio](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
+* [sketchfab](https://sketchfab.com/3d-models/all_my_model-8b4fa2704f744f1584f49b39e792a4b6)
+* [repositorio](../../Hadware/Modelo_3D/Dispositivos.stl)
+
 
 ## *MODELO 3D DEL DISPOSITIVO CON SENSORES Y DE LA CAJA CENTRAL:*
 
