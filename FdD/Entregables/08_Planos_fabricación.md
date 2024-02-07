@@ -10,13 +10,13 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/fc19e36cb9a4ce1dce4b8f5a990ca84e2814e14d/Im%C3%A1genes/plano_general_modulo_sensores.png)
 
 
-PLANO DEL TUBO 
+PLANO DE LA CAJA DEL SENSOR DE PH
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/9782b87b893b76dd19bdea9edd9124f82ddf2e8f/Im%C3%A1genes/Caja_del_sensor_tubo.png)
 
 
- PLANO DEL SOPORTE DEL SENSOR CO2
+ PLANO DE LA TAPA DEL TUBO, PARTE INFERIOR
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Tapa_base.png)
@@ -28,19 +28,19 @@ PLANO DE LA TAPA DE LA CAJA DEL SENSOR DE PH
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tapa_de_la_caja.png)
 
 
-PLANO DE LA TAPA DE LA CAJA DEL SENSOR DE PH
+PLANO DE LA TAPA DEL TUBO, PARTE SUPERIOR
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/3d8064ada1df0cdceaa615e3eaf20b3c327c708b/Im%C3%A1genes/Plano_tapa_tubo_ventilacion.png)
 
 
-PLANO DE  LA TAPA DEL TUBO, PARTE SUPERIOR
+PLANO DEL TUBO
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tubu_perforado.png)
 
 
-PLANO PLANO DE  LA TAPA DEL TUBO, PARTE INFERIOR
+PLANO DEL SOPORTE DEL SENSOR DE CO2
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Ensamblaje_CO2.png)
@@ -58,4 +58,4 @@ PLANO PLANO DE  LA TAPA DEL TUBO, PARTE INFERIOR
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/50db9351fc89b3a642aa31cb30903a5a58cfac5f/Im%C3%A1genes/impresion_3D.png) 
-# <p align = "center">CARACTERÍSTICAS DE LA IMPRESIÓN 3D</p>
+# <p align = "center">COMPONENTES PARA LA IMPRESIÓN 3D</p>
