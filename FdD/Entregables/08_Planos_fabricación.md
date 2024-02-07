@@ -47,6 +47,8 @@ PLANO PLANO DE  LA TAPA DEL TUBO, PARTE INFERIOR
 
 # <p align = "center">PLANO DE LA CAJA CENTRAL</p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/blob/160f96d700826613ed0c9231d29ebe4ed08002b8/Im%C3%A1genes/caja_central.png)
+
 
 # <p align = "center">PLANO PARA CORTE LÁSER</p>
 
