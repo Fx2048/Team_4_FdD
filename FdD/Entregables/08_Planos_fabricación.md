@@ -13,3 +13,4 @@
 
 # <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
  
+# <p align = "center">CARACTERÍSTICAS DE LA IMPRESIÓN 3D</p>
