@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td><img src="../../Imágenes/System1.png"></td>
+    <td><img src="../../Imágenes/System_1.png" style="width: 300px; height: 250px;"></td>
     <td><img src="../../Imágenes/System_2.png"></td>
   </tr>
 </table>
