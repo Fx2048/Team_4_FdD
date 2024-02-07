@@ -3,14 +3,10 @@
 
 # <p align = center>  📑TABLA DE COMPONENTES🔖</p>
 
-<p align="center">
-  <img src="https://github.com/Fx2048/Team_4_FdD/assets/131219987/491d4185-a000-476c-9524-649a26e58c50" width="1050" height="430" style="margin: auto;">
-</p>
+![image](../../Imágenes/Modelado_3D/tabla.png)
 
 
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f662aa10-5190-4267-ac08-51f0ea7b8047)
-
+![image](../../Imágenes/Modelado_3D/Componentes.png)
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e1195f2f-7c9b-42fe-8bdd-742605c9123a)
 
