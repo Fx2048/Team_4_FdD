@@ -45,9 +45,12 @@ PLANO DEL ENSAMBLAJE DEL CENSOR CO2
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Ensamblaje_CO2.png)
 
+# <p align = "center">PLANO DE LA CAJA CENTRAL</p>
+
 
 # <p align = "center">PLANO PARA CORTE LÁSER</p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/blob/b131a712a3a234da5fbe5e0f3250793a9a74a77f/Im%C3%A1genes/Plano_para_corte_laser_caja.png)
 
 # <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
  
