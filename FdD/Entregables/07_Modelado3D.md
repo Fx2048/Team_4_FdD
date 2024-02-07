@@ -39,6 +39,13 @@ Dispositivo 1 al lado izquierdo
 (Rol: transmisión, sensores) y Dispositivo 2 al lado derecho 
 (Rol: recepción, enviar datos a la nube).
 
+# Modelado general
+[onshape](https://sketchfab.com/3d-models/my-model-ef1994cd2f934ea8ad02e61c87e12e4c)
+
+
+![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/Modelado%20general.png)
+
+
 Vista completa de las dos componentes en:
 * [sketchfab](https://sketchfab.com/3d-models/my-model-composite-part-4-eb2148cdebaa42dea660bec73f28d02b)
 * [repositorio](../../Hadware/Modelo_3D/Dispositivos.stl)
