@@ -67,10 +67,7 @@ En el siguiente enlace se utilizó el software online www.festi.info/boxes.py pa
 
 [Gcode archivo caja central](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/GCODE_ARCHIVOCENTRALBOX.gcode)
 
-# <p align = "center">ARCHIVOS PARA LA IMPRESIÓN 3D</p>
 
-
-+ [Tapa del tubo de ventilación](../../Hadware/Modelo_3D/Tapa_tubo_ventilacion_PLA_1h23m.gcode) 
 
 # <p align = "center">COMPONENTES PARA LA IMPRESIÓN 3D</p>
 ![image](../../Imágenes/Modelado_3D/Comp_impres.png)
@@ -86,3 +83,8 @@ Se hizo lo siguiente:
 
 ![image](../../Imágenes/Modelado_3D/caracte.png)
 
+# <p align = "center">ARCHIVOS PARA LA IMPRESIÓN 3D</p>
+
+
++ [Tapa del tubo de ventilación](../../Hadware/Modelo_3D/Tapa_tubo_ventilacion_PLA_1h23m.gcode) 
++ [Tapa inferior del tubo perforado](../../Hadware/Modelo_3D/Tapa_inferior_tubo_PLA_37m19s.gcode) 
