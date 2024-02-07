@@ -91,3 +91,12 @@ Se hizo lo siguiente:
 + [Tapa de la caja de sensores](../../Hadware/Modelo_3D/Tapa_caja_sensores_PLA_1h3m.gcode) 
 + [Tubo de ventilación](../../Hadware/Modelo_3D/Parte_tubo_ventilacion_PLA_5h41m.gcode) 
 + [Caja de control de sensores](../../Hadware/Modelo_3D/Caja_control_sensores_PLA_4h11m.gcode) 
+
+
+## Evidencia de la simulación usada en el programa Bambu_Studio 
+
++ ![Tapa del tubo de ventilación](../../Imágenes/Modelado_3D/Ev1.png) 
++ ![Tapa inferior del tubo perforado](../../Imágenes/Modelado_3D/Ev2.png) 
++ ![Tapa de la caja de sensores](../../Imágenes/Modelado_3D/Ev3.png) 
++ ![Tubo de ventilación](../../Imágenes/Modelado_3D/Ev4.png) 
++ ![Caja de control de sensores](../../Imágenes/Modelado_3D/Ev5.png) 
