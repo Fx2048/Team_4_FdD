@@ -83,7 +83,7 @@ Se hizo lo siguiente:
 
 ![image](../../Imágenes/Modelado_3D/caracte.png)
 
-# <p align = "center">ARCHIVOS PARA LA IMPRESIÓN 3D</p>
+# <p align = "center">ARCHIVOS PARA LA IMPRESIÓN 3D (formato .gcode)</p>
 
 
 + [Tapa del tubo de ventilación](../../Hadware/Modelo_3D/Tapa_tubo_ventilacion_PLA_1h23m.gcode) 
