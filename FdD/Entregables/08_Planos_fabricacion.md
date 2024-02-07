@@ -5,10 +5,11 @@
   representación gráfica.
  </p>
 
- ## PLANO GENERAL DEL PROTOTIPO📏
+# <p align = "center">PLANO GENERAL DEL PROTOTIPO📏</p>
 
- ## PLANO PARA CORTE LÁSER
- 
 
- ## PLANOS PARA LA IMPRESIÓN 3D
+# <p align = "center">PLANO PARA CORTE LÁSER</p>
+
+
+# <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
  
