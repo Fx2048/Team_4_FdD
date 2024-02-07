@@ -80,6 +80,7 @@ O también puede visualizar las componentes desde nuestro repositorio:
 
 * [Componentes dispositivo #1](../../Hadware/Modelo_3D/Partes_mod_transmitir.stl)
 
+* [Componentes dispositivo #2](../../Hadware/Modelo_3D/Caja_central.stl)
 
 Finalmente, se presenta una breve representación de la ubicación donde se instalarán nuestros dispositivos en el entorno. 
 
