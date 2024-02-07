@@ -69,7 +69,7 @@ En el siguiente enlace se utilizó el software online www.festi.info/boxes.py pa
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0878047a-63ef-46a1-8563-d901c61942f8)
 
-[ENLACE DFX ]()
+[ENLACE DFX ](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/box.dxf)
 
 # <p align = "center">COMPONENTES PARA LA IMPRESIÓN 3D</p>
 ![image](../../Imágenes/Modelado_3D/Comp_impres.png)
