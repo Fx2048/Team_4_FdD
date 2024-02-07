@@ -64,14 +64,14 @@ En estos links podrá visualizar nuestro dispositivo modo 3D:
 
 Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
-*[Partes_dispositivo #1](https://sketchfab.com/3d-models/partes-mod-transmitir-f4738ec27411411494a5f1bcfd55df45)
+* [Partes_dispositivo #1](https://sketchfab.com/3d-models/partes-mod-transmitir-f4738ec27411411494a5f1bcfd55df45)
 
 ![image](../../Imágenes/Modelado_3D/Parts_disp1.png)
 
 
 
 
-*[Partes_dispositivo #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
+* [Partes_dispositivo #2](https://sketchfab.com/3d-models/caja-908515660f7c4651aa6e702cc1981599)
 
 ![Presentación Centro de Estética Orgánico Verde](https://github.com/Fx2048/Team_4_FdD/assets/131219987/894269a5-ea2b-47e6-90d3-545978adcfb4)
 
