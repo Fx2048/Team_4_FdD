@@ -1,58 +1,65 @@
-![image](https://github.com/Fx2048/Team_4_FdD/blob/fd60d506b6254eac9297ab010134ce59422c90cf/Im%C3%A1genes/Planos_fabricacion.png)
+# <p align = "center"> PLANOS DE FABRICACIÓN.🖋️⚙️</p>
 
 <p align="justify">
   En este entragable se han desarrollado diversos tipos de planos, especificando las medidas y la escala empleada en su 
   representación gráfica.
  </p>
 
-# <p align = "center">PLANO GENERAL DEL MÓDULO CON SENSORES📏</p>
+## <p align = "center">PLANO GENERAL DEL MÓDULO CON SENSORES📏</p>
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/fc19e36cb9a4ce1dce4b8f5a990ca84e2814e14d/Im%C3%A1genes/plano_general_modulo_sensores.png)
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/plano%20general.png)
 
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/e05ece0ddaee348aff5f31f4)
 
-PLANO DE LA CAJA DEL SENSOR DE PH
+## <p align = "center">PLANO DE LA CAJA DEL SENSOR DE PH📏</p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/Caja%20del%20sensor%20tubo%20Drawing%201.png)
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/9782b87b893b76dd19bdea9edd9124f82ddf2e8f/Im%C3%A1genes/Caja_del_sensor_tubo.png)
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/41b6131b445da347f293c4ef)
 
+## <p align = "center"> PLANO DE LA TAPA DEL TUBO, PARTE INFERIOR📏</p>
 
- PLANO DE LA TAPA DEL TUBO, PARTE INFERIOR
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/Tapa%20base%20Drawing%201%20(1).png)
 
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/bebfb8ad76fc56d8f09fcbac)
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Tapa_base.png)
+## <p align = "center">PLANO DE LA TAPA DE LA CAJA DEL SENSOR DE PH📏</p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/Tapa%20de%20la%20caja%20Drawing%201%20(1).png)
 
-PLANO DE LA TAPA DE LA CAJA DEL SENSOR DE PH
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tapa_de_la_caja.png)
-
-
-PLANO DE LA TAPA DEL TUBO, PARTE SUPERIOR
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/blob/3d8064ada1df0cdceaa615e3eaf20b3c327c708b/Im%C3%A1genes/Plano_tapa_tubo_ventilacion.png)
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/7b0b3b625309eafb34d392a6)
 
 
-PLANO DEL TUBO
+## <p align = "center">PLANO DE LA TAPA DEL TUBO, PARTE SUPERIOR📏</p>
 
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/ensamblaje%20de%20las%20tapas.png)
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tubu_perforado.png)
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/75290495f1c6b86d3eabc5a4)
 
+## <p align = "center">PLANO DEL TUBO📏</p>
 
-PLANO DEL SOPORTE DEL SENSOR DE CO2
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/ensamblaje%20del%20tubo%20Drawing%201.png)
 
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/806d9a40f8296d692cbd69cf)
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Ensamblaje_CO2.png)
+## <p align = "center">PLANO DEL SOPORTE DEL SENSOR DE CO2📏</p>
+
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/Ensamblaje%20CO2%20Drawing%201.png)
+
+[ONSHAPE](https://cad.onshape.com/documents/abdf9a93153ae0cff690ce01/w/0f25dce1825e5c7b0e513c2e/e/a92f1a1f2a5849794e21781a)
 
 # <p align = "center">PLANO DE LA CAJA CENTRAL</p>
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/160f96d700826613ed0c9231d29ebe4ed08002b8/Im%C3%A1genes/caja_central.png)
+![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/Plano%20caja.png)
+
+[ONSHAPE](https://cad.onshape.com/documents/7a7f94140b8d86c7ea033ef1/w/e999b315eef8267ad934f188/e/3a5b9aa109ccecf3491c6d49)
 
 
 # <p align = "center">PLANO PARA CORTE LÁSER</p>
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/b131a712a3a234da5fbe5e0f3250793a9a74a77f/Im%C3%A1genes/Plano_para_corte_laser_caja.png)
+
+[DOCUMENTO_CORTE_LACER](https://github.com/Fx2048/Team_4_FdD/blob/main/Hadware/Prototipado/BOXCENTRAL.pdf)
 
 # <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
 
