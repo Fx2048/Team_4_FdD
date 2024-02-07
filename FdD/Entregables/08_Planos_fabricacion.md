@@ -9,7 +9,6 @@
 
  ## PLANO PARA CORTE LÁSER
  
-<iframe src="Documentación/corte_laser.pdf" width="100%" height="600px"></iframe>
 
  ## PLANOS PARA LA IMPRESIÓN 3D
  
