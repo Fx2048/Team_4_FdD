@@ -88,3 +88,6 @@ Se hizo lo siguiente:
 
 + [Tapa del tubo de ventilación](../../Hadware/Modelo_3D/Tapa_tubo_ventilacion_PLA_1h23m.gcode) 
 + [Tapa inferior del tubo perforado](../../Hadware/Modelo_3D/Tapa_inferior_tubo_PLA_37m19s.gcode) 
++ [Tapa de la caja de sensores](../../Hadware/Modelo_3D/Tapa_caja_sensores_PLA_1h3m.gcode) 
++ [Tubo de ventilación](../../Hadware/Modelo_3D/Parte_tubo_ventilacion_PLA_5h41m.gcode) 
++ [Caja de control de sensores](../../Hadware/Modelo_3D/Caja_control_sensores_PLA_4h11m.gcode) 
