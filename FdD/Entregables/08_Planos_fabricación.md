@@ -72,6 +72,7 @@ En el siguiente enlace se utilizó el software online www.festi.info/boxes.py pa
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/50db9351fc89b3a642aa31cb30903a5a58cfac5f/Im%C3%A1genes/impresion_3D.png) 
 # <p align = "center">COMPONENTES PARA LA IMPRESIÓN 3D</p>
+![image](../../Imágenes/Modelado_3D/Comp_impres.png)
 
 Para llevar a cabo la impresión 3D de nuestras componentes, se tomaron en cuenta las siguientes configuraciones en el programa Bambu_Studio, puesto que permite simular la impresión 3D y proporcionar información valiosa del seguimiento de dichas impresiones.
 
@@ -82,5 +83,5 @@ Se hizo lo siguiente:
 + Filamento: bambu PLA básico.
 + Altura de la capa: 1.7mm
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b8f3f66a-d2ec-4668-9d66-6f2f9f50d32f)
+![image](../../Imágenes/Modelado_3D/caracte.png)
 
