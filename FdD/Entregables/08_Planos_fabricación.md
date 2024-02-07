@@ -59,7 +59,7 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/b131a712a3a234da5fbe5e0f3250793a9a74a77f/Im%C3%A1genes/Plano_para_corte_laser_caja.png)
 
-[DOCUMENTO_CORTE_LACER](https://github.com/Fx2048/Team_4_FdD/blob/main/Hadware/Prototipado/BOXCENTRAL.pdf)
+[DOCUMENTO_CORTE_LÁSER](https://github.com/Fx2048/Team_4_FdD/blob/main/Hadware/Prototipado/BOXCENTRAL.pdf)
 
 # <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
 
