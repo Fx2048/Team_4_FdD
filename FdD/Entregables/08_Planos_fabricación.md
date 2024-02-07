@@ -55,5 +55,7 @@ PLANO PLANO DE  LA TAPA DEL TUBO, PARTE INFERIOR
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/b131a712a3a234da5fbe5e0f3250793a9a74a77f/Im%C3%A1genes/Plano_para_corte_laser_caja.png)
 
 # <p align = "center">PLANOS PARA LA IMPRESIÓN 3D</p>
- 
+
+
+![image](https://github.com/Fx2048/Team_4_FdD/blob/50db9351fc89b3a642aa31cb30903a5a58cfac5f/Im%C3%A1genes/impresion_3D.png) 
 # <p align = "center">CARACTERÍSTICAS DE LA IMPRESIÓN 3D</p>
