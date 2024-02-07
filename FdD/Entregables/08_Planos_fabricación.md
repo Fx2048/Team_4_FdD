@@ -59,3 +59,14 @@ PLANO DEL SOPORTE DEL SENSOR DE CO2
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/50db9351fc89b3a642aa31cb30903a5a58cfac5f/Im%C3%A1genes/impresion_3D.png) 
 # <p align = "center">COMPONENTES PARA LA IMPRESIÓN 3D</p>
+
+Para llevar a cabo la impresión 3D de nuestras componentes, se tomaron en cuenta las siguientes configuraciones en el programa Bambu_Studio, puesto que permite simular la impresión 3D y proporcionar información valiosa del seguimiento de dichas impresiones.
+
+Se hizo lo siguiente:
+
++ Ajustes des sistema: Bambu Lab P1P 0.4 boquilla. 
++ Tipo de cama: alta temperatura de la placa.
++ Filamento: bambu PLA básico.
++ Altura de la capa: 1.7mm
+
+
