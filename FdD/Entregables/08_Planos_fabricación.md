@@ -21,20 +21,27 @@ PLANO DE LA CAJA DE LOS SENSORES DEL TUBO
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Tapa_base.png)
 
+
 PLANO DE LA TAPA DE LA CAJA DEL TUBO
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tapa_de_la_caja.png)
 
+
 PLANO DE LA TAPA DEL TUBO DE EVNTILACIÓN
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/3d8064ada1df0cdceaa615e3eaf20b3c327c708b/Im%C3%A1genes/Plano_tapa_tubo_ventilacion.png)
 
+
 PLANO DEL TUBO PERFORADO
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/ea36ec243338b4e87da171a344a38465bf21d83c/Im%C3%A1genes/Tubu_perforado.png)
 
+
 PLANO DEL ENSAMBLAJE DEL CENSOR CO2
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/a2369003b8fe5bf9abd7c5af79028cb13d2949bd/Im%C3%A1genes/Ensamblaje_CO2.png)
 
