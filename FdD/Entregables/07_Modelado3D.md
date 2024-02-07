@@ -66,7 +66,7 @@ Del mismo modo, se puede visualizar sus componentes en SKETCHFAB:
 
 *[Partes_dispositivo #1](https://sketchfab.com/3d-models/partes-mod-transmitir-f4738ec27411411494a5f1bcfd55df45)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/24e0b75c-08a6-4728-8592-ba7a8c9ee55a)
+![image](../../Imágenes/Modelado_3D/Parts_disp1.png)
 
 
 
