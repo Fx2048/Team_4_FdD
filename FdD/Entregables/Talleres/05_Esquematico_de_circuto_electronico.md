@@ -179,9 +179,10 @@ Para esta actividad tomamos en cuenta el proyecto que estamos desarrollando por 
 </table>
 
 ## Parte 1: Componente principal
-
-El la primera parte contamos con el arduino mega, la batería, el NRF y el sensor de CO2, que simula que irá en el componente principal de nuestro proyecto que nos permitirá determinar el CO2 y ph del suelo. Por lo cual al unir cada uno de los elementos contamos con el siguiente circuito.
-
+<p align="justify">
+  El la primera parte contamos con el arduino mega, la batería, el NRF y el sensor de CO2, que simula que irá en el componente principal de nuestro proyecto que nos permitirá determinar el
+  CO2 y ph del suelo. Por lo cual al unir cada uno de los elementos contamos con el siguiente circuito.
+</p>
 <p align="center">
     <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/6_part1.png" width="420" height="380" style="margin: auto;">
 </p>
@@ -225,14 +226,14 @@ Este circuito representa al dispositivo de recepción de datos, esta lo compone 
 
 
 ## CONCLUSIÓN:
-
-El desarrollo del prototipo del proyecto en la plataforma flux.ai se benefició de la experiencia adquirida en el ejercicio anterior, donde se modeló un circuito básico utilizando la misma plataforma. Al aplicar los conocimientos sobre la conexión de componentes y la optimización de valores, el equipo se pudo diseñar un circuito en base al proyecto que vamos a realizar que integra arduino y sensores de (pH)y CO2 del suelo.
-
-. Para este caso, no se utilizó el sensor de pH, debido a que no se encontraba en la plataforma.
-
-. En el caso de la vista 3D no se puede observar el sensor del CO2, esto se debe a que en la biblioteca CAD no se encuentra el modelado 3D correspondiente a este elemento.
-
-. Para el caso del arduino mega que no aparece en el modelado 3d, preguntamos a **copilot** cual puede ser la razón de que no se logre observar, y de acuerdo a la información brindada concluimos que de debe a que es un modelado asociado al arduino mega incorrecto, por eso a pesar que cuenta con un modelado 3D no se puede visualizar.
-
+<p align="justify">
+  El desarrollo del prototipo del proyecto en la plataforma flux.ai se benefició de la experiencia adquirida en el ejercicio anterior, donde se modeló un circuito básico utilizando la misma plataforma. Al aplicar los conocimientos sobre la conexión de componentes y la optimización de valores, el equipo se pudo diseñar un circuito en base al proyecto que vamos a realizar que integra arduino y sensores de (pH)y CO2 del suelo.
+  
+  . Para este caso, no se utilizó el sensor de pH, debido a que no se encontraba en la plataforma.
+  
+  . En el caso de la vista 3D no se puede observar el sensor del CO2, esto se debe a que en la biblioteca CAD no se encuentra el modelado 3D correspondiente a este elemento.
+  
+  . Para el caso del arduino mega que no aparece en el modelado 3d, preguntamos a **copilot** cual puede ser la razón de que no se logre observar, y de acuerdo a la información brindada concluimos que de debe a que es un modelado asociado al arduino mega incorrecto, por eso a pesar que cuenta con un modelado 3D no se puede visualizar.
+</p>
 
 
