@@ -215,7 +215,7 @@ Este circuito representa al dispositivo de recepción de datos, esta lo compone 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;"> 
-            <img src="hhttps://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/9_tresd1.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista frontal</p>
+            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/9_tresd1.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista frontal</p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/10_tred.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista lateral</p>
