@@ -76,7 +76,7 @@
 
 # <p align="center"> ACTIVIDAD 📓 </p>
 
-En el desarrollo de esta actividad se hizo uso de la plataforma **flux.ai** para generar los curcitos que deceamos desarrollar.
+En el desarrollo de esta actividad se hizo uso de la plataforma **flux.ai** para generar los curcuitos.
 
 
 ## <p align="center"> Ejercicio 1: Circuito de encendido de un Led </p>
