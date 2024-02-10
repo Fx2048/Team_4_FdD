@@ -152,7 +152,7 @@ Por lo cual, se indica que la conexión estre los componentes es lo siguiente J1
 En conclusión, al seguir los pasos proporcionados por el profesor en la plataforma flux.ai, el equipo pudo modelar un circuito en el laptop que permite encender un LED utilizando materiales específicos como una resistencia, un LED y una batería. Durante este proceso, se destacó la importancia de cada componente y su función dentro del circuito, así como la necesidad de ajustar los valores de los componentes para garantizar un funcionamiento óptimo. Por ejemplo, se mencionó la modificación de la resistencia de 500 ohm a 330 ohm para adecuarla mejor al circuito y optimizar su rendimiento. La correcta conexión de los componentes, siguiendo las indicaciones proporcionadas, fue fundamental para establecer un circuito funcional y comprender la interacción entre ellos.
 </p>
 
-## <p align="center"> Ejercicio 2: Circuito en base al proyecto a realizar </p>
+## <p align="center"> Ejercicio 2: Circuito en base a nuestro proyecto </p>
 
 
 Para esta actividad tomamos en cuenta el proyecto que estamos desarrollando por lo cual se trabajo en dos partes donde se hizo uso de las siguientes componentes:
