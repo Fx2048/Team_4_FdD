@@ -215,7 +215,7 @@ Este circuito representa al dispositivo de recepción de datos, esta lo compone 
 <table>
     <tr>
         <td style="border: 0px solid #ddd; padding: 8px;"> 
-            <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/9_trsd.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista frontal</p>
+            <img src="hhttps://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/9_tresd1.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista frontal</p>
         </td>
         <td style="border: 0px solid #ddd; padding: 8px;">
             <img src="https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/05_circuito/10_tred.png" alt="10px" width="450" height="400" style="margin: auto;"> <p align="center"> Vista lateral</p>
@@ -232,7 +232,7 @@ El desarrollo del prototipo del proyecto en la plataforma flux.ai se benefició 
 
 . En el caso de la vista 3D no se puede observar el sensor del CO2, esto se debe a que en la biblioteca CAD no se encuentra el modelado 3D correspondiente a este elemento.
 
-. Para el caso del arduino mega que no aparece en el modelado 3d, preguntamos a **copilot** cual puede ser la razón de que no se logre observar, y de acurdo a la indormación brindada concluimos que de debe a que es un modelado asociado al arduino mega incorrecto, por eso a pesar que cuenta con un modelado 3D no se puede visualizar.
+. Para el caso del arduino mega que no aparece en el modelado 3d, preguntamos a **copilot** cual puede ser la razón de que no se logre observar, y de acuerdo a la información brindada concluimos que de debe a que es un modelado asociado al arduino mega incorrecto, por eso a pesar que cuenta con un modelado 3D no se puede visualizar.
 
 
 
