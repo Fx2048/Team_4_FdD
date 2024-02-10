@@ -227,7 +227,7 @@ Este circuito representa al dispositivo de recepción de datos, esta lo compone 
 
 ## CONCLUSIÓN:
 <p align="justify">
-  El desarrollo del prototipo del proyecto en la plataforma flux.ai se benefició de la experiencia adquirida en el ejercicio anterior, donde se modeló un circuito básico utilizando la misma plataforma. Al aplicar los conocimientos sobre la conexión de componentes y la optimización de valores, el equipo se pudo diseñar un circuito en base al proyecto que vamos a realizar que integra arduino y sensores de (pH)y CO2 del suelo.
+  El desarrollo del prototipo del proyecto en la plataforma flux.ai se benefició de la experiencia adquirida en el ejercicio anterior, donde se modeló un circuito básico utilizando la misma plataforma. Al aplicar los conocimientos sobre la conexión de componentes y la optimización de valores, el equipo se pudo diseñar un circuito en base al proyecto que vamos a realizar que integra arduino y sensores de (pH) y CO2 del suelo.
   
   . Para este caso, no se utilizó el sensor de pH, debido a que no se encontraba en la plataforma.
   
