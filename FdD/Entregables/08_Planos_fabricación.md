@@ -71,7 +71,7 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cd8d8425-d8c5-415a-aca2-632d020baf07)
 
 
-[Template real de la caja](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/43454%20(1).dxf)
+[Template formato fdx de la caja](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/43454%20(1).dxf)
 
 ![Sketch 1 Drawing 1 (1) (1) (1)_page-0001](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c49c163e-ac36-447f-8a0d-89cb2e900288)
 
