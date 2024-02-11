@@ -4,6 +4,9 @@
 
 ![FLUJO TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/28a1f97a-6aa1-4b39-88c2-abf4804b01e7)
 
+[LINK DE DIAGRAMA DE FLUJO](https://lucid.app/lucidchart/f0b644c5-6b39-4336-83b9-5ad1161f349f/edit?viewport_loc=-1195%2C-406%2C3845%2C1610%2C0_0&invitationId=inv_fcc3bb70-f67e-49d3-a8b2-dbd4930545ce)
+
+
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
 
 
