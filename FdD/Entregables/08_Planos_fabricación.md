@@ -86,6 +86,9 @@ En el siguiente enlace se utilizó el software online www.festi.info/boxes.py pa
 
 [ENLACE DFX ](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/box.dxf)
 
+![Sketch 1 Drawing 1 (1) (1) (1)_page-0001](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c49c163e-ac36-447f-8a0d-89cb2e900288)
+[template real de la caja central]()
+
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/69f16f26-9db9-4407-abc6-3a24dc038df5)
 
 ![image](../../Imágenes/Modelado_3D/Comp_impres.png)
