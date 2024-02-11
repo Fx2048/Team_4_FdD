@@ -40,7 +40,9 @@ Dispositivo 1 al lado izquierdo
 (Rol: transmisión, sensores) y Dispositivo 2 al lado derecho 
 (Rol: recepción, enviar datos a la nube).
 
-# Modelado general
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cee1c6cf-5a9c-4e35-be94-1efc540d68ae)
+
+
 [onshape](https://sketchfab.com/3d-models/my-model-ef1994cd2f934ea8ad02e61c87e12e4c)
 
 
@@ -52,7 +54,7 @@ Vista completa de las dos componentes en:
 * [repositorio](../../Hadware/Modelo_3D/Dispositivos.stl)
 
 
-## *MODELO 3D DEL DISPOSITIVO CON SENSORES Y DE LA CAJA CENTRAL:*
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4ead8c4a-299c-4486-b27f-08d82168a206)
 
 En estos links podrá visualizar nuestro dispositivo modo 3D: 
 
