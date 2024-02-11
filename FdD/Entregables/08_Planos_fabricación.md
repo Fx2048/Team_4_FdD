@@ -102,7 +102,8 @@ Se hizo lo siguiente:
 + [Caja de control de sensores](../../Hadware/Modelo_3D/Caja_control_sensores_PLA_4h11m.gcode) 
 
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2503d8d0-076a-4c1e-8f9d-c78b4a4e85bb)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fdb37044-fed3-4bac-bb76-24f4cc9bdc7f)
+
 
 + ![Tapa del tubo de ventilación](../../Imágenes/Modelado_3D/Ev1.png) 
 + ![Tapa inferior del tubo perforado](../../Imágenes/Modelado_3D/Ev2.png) 
