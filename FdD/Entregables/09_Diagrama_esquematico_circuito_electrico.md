@@ -1,4 +1,4 @@
-![Avance de proto y más title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cd9f8781-baf7-487c-8938-4fa7134172a2)
+![Avance de proto y más title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/10faba1a-e1fb-4b6e-8130-d5e7d896aa5d)
 
 
 ![FLUJO TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/28a1f97a-6aa1-4b39-88c2-abf4804b01e7)
