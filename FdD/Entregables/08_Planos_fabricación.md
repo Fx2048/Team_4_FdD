@@ -92,7 +92,9 @@ Se hizo lo siguiente:
 
 ![image](../../Imágenes/Modelado_3D/caracte.png)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6d8e90eb-4fa1-4a8b-ad6d-0cb1892fc687)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/22d2fc39-0a6e-44e1-8554-5cb4ae7eb069)
+
 
 
 + [Tapa del tubo de ventilación](../../Hadware/Modelo_3D/Tapa_tubo_ventilacion_PLA_1h23m.gcode) 
