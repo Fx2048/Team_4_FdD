@@ -5,6 +5,7 @@
 ![FLUJO TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/28a1f97a-6aa1-4b39-88c2-abf4804b01e7)
 
 [LINK DE DIAGRAMA DE FLUJO](https://lucid.app/lucidchart/f0b644c5-6b39-4336-83b9-5ad1161f349f/edit?viewport_loc=-1195%2C-406%2C3845%2C1610%2C0_0&invitationId=inv_fcc3bb70-f67e-49d3-a8b2-dbd4930545ce)
+
 ![IMAGEN DE DIAGRAMA DE FLUJO]()
 
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
@@ -12,8 +13,10 @@
 
 ![caja central](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4f8f2916-8ed0-4de2-a0c5-e327c4ca7ac4)
 
-![CENTRAL]()
-[LINK DE CICUITO DE CAJA CENTRAL]()
+![CENTRAL](https://github.com/Fx2048/Team_4_FdD/assets/131219987/27761b27-8687-46b0-906f-1ac69ee22532)
+
+
+[LINK DE CICUITO DE CAJA CENTRAL](https://www.flux.ai/brigittebernabelisario/relieved-lavender-flux-capacitor?editor=schematic)
 
 
 ![sensores](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d2135707-89a3-46f9-8f09-148e1e1a9324)
