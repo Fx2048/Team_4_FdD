@@ -1,7 +1,7 @@
-# <p align = center>  ⚙️MODELADO 3D🖋️</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c65d8555-c917-4c4a-90b0-1e70cb1282ab)
 
 
-# <p align = center>  📑TABLA DE COMPONENTES🔖</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a13b21f9-03de-486b-bef5-108c3550e352)
 
 ![image](../../Imágenes/Modelado_3D/tabla.png)
 
@@ -16,7 +16,8 @@
 ---
 
 
-# <p align = "center">VISUALIZACIÓN GENERAL</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/9cec067c-cb6b-4386-8737-82772b4ca91d)
+
 
 <p align = "justify" >El dispositivo del proyecto preliminar ganador se basa en dos conceptos. En primer lugar, tenemos el que cumple el rol de transmitir, compuesto por sensores, batería, NRF24L01 (módulo transceptor), Arduino Uno y otros elementos. En segundo lugar, el que cumple el rol de recepción, compuesta por el módulo ESP32, NRF24L01, batería y una caja que los contiene.</p>
 
