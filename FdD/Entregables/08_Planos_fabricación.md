@@ -7,7 +7,8 @@
   representación gráfica.
  </p>
 
-## <p align = "center">PLANO GENERAL DEL MÓDULO CON SENSORES📏</p>
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c3e0de8c-2f34-44b0-9756-d03157b4fa84)
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/blob/main/Im%C3%A1genes/planos/plano%20general.png)
 
