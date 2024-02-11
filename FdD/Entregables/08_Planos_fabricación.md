@@ -1,4 +1,5 @@
-![TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/50ba4deb-60d3-4cf8-b85e-79f53a0f0698)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/475503de-ad4d-46b4-bdf4-565ac637bf09)
+
 
 
 <p align="justify">
