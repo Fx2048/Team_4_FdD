@@ -68,20 +68,7 @@
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/067083ae-f0c6-43d2-a9bf-8007ca0e94d4)
 
 
-![image](https://github.com/Fx2048/Team_4_FdD/blob/b131a712a3a234da5fbe5e0f3250793a9a74a77f/Im%C3%A1genes/Plano_para_corte_laser_caja.png)
-
-[DOCUMENTO_CORTE_LÁSER](https://github.com/Fx2048/Team_4_FdD/blob/main/Hadware/Prototipado/BOXCENTRAL.pdf)
-
-En el siguiente enlace se utilizó el software online www.festi.info/boxes.py para la elaboración de la plantilla de la caja central.
-
-[Software](https://www.festi.info/boxes.py/IntegratedHingeBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=2.0&FingerJoint_bottom_lip=0.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&ChestHinge_finger_joints_on_box=0&ChestHinge_finger_joints_on_lid=0&ChestHinge_hinge_strength=1.0&ChestHinge_pin_height=2.0&ChestHinge_play=0.1&x=170.0&y=170.0&h=60.0&outside=0&outside=1&lidheight=20.0&thickness=3.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=None&render=1)
-
-[Gcode archivo caja central](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/GCODE_ARCHIVOCENTRALBOX.gcode)
-
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/cd8d8425-d8c5-415a-aca2-632d020baf07)
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0878047a-63ef-46a1-8563-d901c61942f8)
 
 
 [Template real de la caja](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/43454%20(1).dxf)
