@@ -21,6 +21,10 @@ A continuación mostraremos el diagrama de flujo donde
 
 ![caja central](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4f8f2916-8ed0-4de2-a0c5-e327c4ca7ac4)
 
+Circuito electrónico Caja Central:
+Este circuito describe cómo se une el sp32 con el nfr24L01  y una batería de 9 V, tomando en cuenta conectar a tierra y que no se crucen los cables
+
+
 
 ![CENTRAL](https://github.com/Fx2048/Team_4_FdD/assets/131219987/27761b27-8687-46b0-906f-1ac69ee22532)
 
