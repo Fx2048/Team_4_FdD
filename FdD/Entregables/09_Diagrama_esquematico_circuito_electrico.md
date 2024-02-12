@@ -26,7 +26,7 @@
 
 ![ANVANCE TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/87203112-c49e-4021-8253-6edca07df542)
 
-![IMAGEN DE MAGNO]()
+![IMAGEN DE MAGNO](../../Hadware/Prototipado/Ev.jpg)
 
 ![LEILY IMAGE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2b84a874-01f4-4166-90a7-dee10a92f86e)
 
