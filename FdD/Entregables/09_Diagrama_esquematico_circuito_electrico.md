@@ -38,4 +38,4 @@
 ![apk title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/887ef7a7-3bc9-41c8-80c4-db01ae9e2eec)
 
 
-[LINK APP](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
+[LINK APK ANDROID](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
