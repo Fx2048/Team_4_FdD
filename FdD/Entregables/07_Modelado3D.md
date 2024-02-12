@@ -9,7 +9,8 @@
 
 ![image](../../Imágenes/Modelado_3D/Componentes.png)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e1195f2f-7c9b-42fe-8bdd-742605c9123a)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/831615d5-81ca-470d-9d8c-1b2332d34c76)
+
 
 
 
