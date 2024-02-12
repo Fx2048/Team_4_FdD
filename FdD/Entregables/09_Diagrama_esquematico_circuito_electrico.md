@@ -34,6 +34,8 @@
 
 ![LEILY IMAGE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2b84a874-01f4-4166-90a7-dee10a92f86e)
 
-![DESARRROLLO DE APK TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/afca8ef5-f928-4b6a-a9c1-5bb35920c7fc)
+
+![apk title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/887ef7a7-3bc9-41c8-80c4-db01ae9e2eec)
+
 
 [LINK APP](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
