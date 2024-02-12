@@ -22,7 +22,7 @@
 ![sensores](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d2135707-89a3-46f9-8f09-148e1e1a9324)
 
 ![SENSORES]()
-[LINK DE CICUITO DE CAJA CON SENSORES]()
+[LINK DE CICUITO DE CAJA CON SENSORES](https://www.flux.ai/quisbalmeli/cajasensores?editor=schematic)
 
 ![ANVANCE TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/87203112-c49e-4021-8253-6edca07df542)
 
