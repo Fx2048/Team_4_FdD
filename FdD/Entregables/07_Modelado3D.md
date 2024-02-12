@@ -3,7 +3,8 @@
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a13b21f9-03de-486b-bef5-108c3550e352)
 
-![image](../../Imágenes/Modelado_3D/tabla.png)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d05976d2-ce32-47b8-bfc4-868bde74acbb)
+
 
 
 ![image](../../Imágenes/Modelado_3D/Componentes.png)
