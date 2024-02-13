@@ -34,5 +34,10 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 [TABLA DE NIVEL DE PH VS TIEMPO EN APK](https://thingspeak.com/channels/2428834/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
 
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7f8a8efe-7a2e-4f45-b25e-39c1977b3dca)
+![protoinal_title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7f8a8efe-7a2e-4f45-b25e-39c1977b3dca)
 
+
+![procedimintro](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b426f154-8f37-49f0-ac67-07f515cd8d49)
+
+
+![title _codi de software](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4c893b84-840e-417b-a295-f762da3e8265)
