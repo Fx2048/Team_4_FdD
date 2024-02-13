@@ -9,13 +9,14 @@
 
 A continuación mostraremos el diagrama de flujo donde se encuentran al margen los comentarios respecto a las instancias de nuestro procedimiento.
 
-[LINK DE DIAGRAMA DE FLUJO](https://lucid.app/lucidchart/f0b644c5-6b39-4336-83b9-5ad1161f349f/edit?viewport_loc=-1195%2C-406%2C3845%2C1610%2C0_0&invitationId=inv_fcc3bb70-f67e-49d3-a8b2-dbd4930545ce)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/49598391-a8be-4c26-bd8c-4c455c975427)
+
+[IMAGEN DE FLUJO CENTEAL]
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/88aff30e-a657-4409-82dc-dff470d58abf)
 
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f6f7ba61-e39e-47b4-92e3-2f65adcda217)
-
-
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1173736e-f03b-4051-9e99-5096b27b54ee)
+[IMAGEN DE FLUJO SENSORES]
 
 
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
