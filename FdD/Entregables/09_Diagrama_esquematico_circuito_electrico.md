@@ -18,6 +18,9 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/171691ac-19f7-4524-b97a-83d764af385a)
+
+
 
 ![caja central](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4f8f2916-8ed0-4de2-a0c5-e327c4ca7ac4)
 
