@@ -23,31 +23,9 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 
 
-![caja central](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4f8f2916-8ed0-4de2-a0c5-e327c4ca7ac4)
-
-Circuito electrónico Caja Central:
-Este circuito describe cómo se une el sp32 con el nfr24L01  y una batería de 9 V, tomando en cuenta conectar a tierra y que no se crucen los cables
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/265169b7-4853-451d-b045-b91108e35fc4)
 
 
-
-![CENTRAL](https://github.com/Fx2048/Team_4_FdD/assets/131219987/27761b27-8687-46b0-906f-1ac69ee22532)
-
-
-[LINK DE CICUITO DE CAJA CENTRAL](https://www.flux.ai/brigittebernabelisario/relieved-lavender-flux-capacitor?editor=schematic)
-
-
-![sensores](https://github.com/Fx2048/Team_4_FdD/assets/131219987/d2135707-89a3-46f9-8f09-148e1e1a9324)
-
-![SENSORES](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b2e4f4bc-93d3-432d-9df9-43406b7450e8)
-
-
-[LINK DE CIRCUITO DE CAJA CON SENSORES](https://www.flux.ai/quisbalmeli/cajasensores?editor=schematic)
-
-![ANVANCE TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/87203112-c49e-4021-8253-6edca07df542)
-
-![IMAGEN DE MAGNO](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b1265093-0a1f-408e-b3a6-9123e4606434)
-
-![LEILY IMAGE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2b84a874-01f4-4166-90a7-dee10a92f86e)
 
 
 ![apk title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/887ef7a7-3bc9-41c8-80c4-db01ae9e2eec)
