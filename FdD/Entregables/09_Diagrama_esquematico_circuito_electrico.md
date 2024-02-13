@@ -1,4 +1,5 @@
-![title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/9437ec96-cf82-438b-9f25-98b0d08d3f9b)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1bf002f9-fa35-43cb-833a-9e4ea92379f7)
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1c361b20-874d-4d26-b355-46d7d8639e7b)
 
