@@ -46,7 +46,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a3f6c5c2-ed8e-4666-8b00-56de90f37f22)
 
 
-#include <SPI.h>      // Para la conexión de dispositivos
+include <SPI.h>      // Para la conexión de dispositivos
 #include <nRF24L01.h> // Para dar uso soporte al módulo transceptor 
 #include <RF24.h>     // Para la interacción con el módulo de radio NRF24L01
 #include "MHZ19.h"
