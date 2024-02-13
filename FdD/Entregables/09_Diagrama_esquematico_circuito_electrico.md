@@ -26,11 +26,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 ![TITLE DESARROLLO PROTO](https://github.com/Fx2048/Team_4_FdD/assets/131219987/459513f2-7fa7-4c5d-8a46-573f9f69b0ac)
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/19c5ffb1-89ad-4133-8683-3064368b35ce)
-
-
-
-![apk title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/887ef7a7-3bc9-41c8-80c4-db01ae9e2eec)
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/aaa709fb-c21b-4a52-80b2-8c0727f74af4)
 
 
 [LINK APK ANDROID](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
