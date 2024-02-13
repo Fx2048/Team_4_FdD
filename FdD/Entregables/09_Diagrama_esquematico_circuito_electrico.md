@@ -42,3 +42,6 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 
 ![title _codi de software](https://github.com/Fx2048/Team_4_FdD/assets/131219987/4c893b84-840e-417b-a295-f762da3e8265)
+
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/a3f6c5c2-ed8e-4666-8b00-56de90f37f22)
+
