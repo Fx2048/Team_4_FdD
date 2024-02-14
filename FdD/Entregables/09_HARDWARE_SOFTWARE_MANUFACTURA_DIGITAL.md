@@ -38,7 +38,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/aaa709fb-c21b-4a52-80b2-8c0727f74af4)
 
 
-[LINK APK ANDROID](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
+[LINK APK ANDROID](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST%20(1).apk)
 
 [TABLA DE NIVEL DE PH VS TIEMPO EN APK](https://thingspeak.com/channels/2428834/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
 
