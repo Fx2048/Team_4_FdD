@@ -1,8 +1,9 @@
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b41beda7-da39-47b0-9c4c-788a6bb0f6d3)
+![sensores_sensores md](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbc00875-c5ea-41aa-b4fa-cb677e3c4066)![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b41beda7-da39-47b0-9c4c-788a6bb0f6d3)
 
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1c361b20-874d-4d26-b355-46d7d8639e7b)
+
 
 
 ![FLUJO TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/28a1f97a-6aa1-4b39-88c2-abf4804b01e7)
@@ -12,13 +13,15 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/49598391-a8be-4c26-bd8c-4c455c975427)
 
 [DIAGRAMA CENTRAL](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/Blank%20diagram%20(1).png)
-![Blank diagram (1)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/196f62e1-62df-4894-bc5f-950fba23f135)
+
+![Create_central](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f4ca584a-166b-4994-8438-1b5813f485ae)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/88aff30e-a657-4409-82dc-dff470d58abf)
 
 
-[IMAGEN DE FLUJO SENSORES]
+![IMAGEN DE FLUJO SENSORES](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0bb43d3d-fb56-4552-9da0-4cca8230156c)
+
 
 
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
