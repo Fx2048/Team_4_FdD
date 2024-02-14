@@ -31,7 +31,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![recept title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/8ef1a3c6-f2d4-4a52-92e8-c69775e265ac)
 
 
-!recep](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6d57436-92ac-46ec-8974-da20cb42f37c)
+![recep](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6d57436-92ac-46ec-8974-da20cb42f37c)
 
 
 ![TITLE DESARROLLO PROTO](https://github.com/Fx2048/Team_4_FdD/assets/131219987/459513f2-7fa7-4c5d-8a46-573f9f69b0ac)
