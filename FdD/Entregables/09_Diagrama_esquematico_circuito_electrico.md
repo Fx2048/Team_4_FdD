@@ -22,7 +22,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
 
 
-![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/8de5e80f-dabe-4519-b07e-2892b7e0fec8)
+![circuito jejejej](https://github.com/Fx2048/Team_4_FdD/assets/131219987/278d9fd8-791d-43cd-9468-8b019ef8aed4)
 
 
 
@@ -32,6 +32,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 
 [LINK APK ANDROID](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/ECOPUREHARVEST.apk)
+
 [TABLA DE NIVEL DE PH VS TIEMPO EN APK](https://thingspeak.com/channels/2428834/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
 
 
