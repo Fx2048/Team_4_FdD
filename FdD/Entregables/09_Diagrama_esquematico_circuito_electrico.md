@@ -54,6 +54,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 ![PROGRA I I 2](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f27e3849-8b29-4e00-8be6-249b71b044fd)
 
+[LINK AL CÓDIGO ORIGINAL](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/Codigo_ph_co2)
 
     // INCLUIMOS LAS LIBRERÍAS
     #include <MHZ19.h>          // Sensor CO2                                     
