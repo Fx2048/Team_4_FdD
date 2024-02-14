@@ -50,72 +50,8 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e6390524-de7d-4a2c-8443-5c9539669b6b)
 
 
-![PROGRAMACIÓN 1](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c4ac2470-d4c7-4191-a7da-9014664b7512)
+![PROGRA I I 2](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f27e3849-8b29-4e00-8be6-249b71b044fd)
 
-
-    #include <SPI.h>      // Para la conexión de dispositivos
-    #include <nRF24L01.h> // Para dar uso soporte al módulo transceptor 
-    #include <RF24.h>     // Para la interacción con el módulo de radio NRF24L01
-    #include "MHZ19.h"
-
-    RF24 myRF24(7, 8);    // Se declara el objeto y los pines para la 
-                        // comunicación SPI con el módulo NRF24L01
-    byte address[6] = "00001"; // Dirección de transmisión
-
-
-    // Configuración de objetos
-
-    const int PO = A0; 
-    float buf[15];
-    float val; 
-    float pH;
-
-    // CONFIGURACIÓN
-    void setup() {
-    Serial.begin(9600);
-  
-    myRF24.begin();
-    myRF24.openWritingPipe(address);
-    myRF24.setPALevel(RF24_PA_MIN);
-    myRF24.stopListening();   // Permite la trasmición de datos
-
-    // Configuración del pin analógico para el sensor de pH
-    pinMode(PO, INPUT);  
-    }
-
-    // BUCLE
-    void loop() {
-    val = 0;
-    for(int i = 0; i < 15; i++) {    // Realizamos 10 lecturas y almacenamos en buf
-    // Leemos el valor de pH
-    buf[i] = analogRead(PO);       // Convertir la lectura en un valor de pH
-    delay(15);
-    val += buf[i];
-    }
-
-    val /= 15;
-
-    float val_1 = (val/1023)*5;
-    float pH = (val_1/5)*14 - 3.37;
-
-    // Leemos el valor de CO2
-    float CO2 = 123.45;
-  
-    // Enviamos el valor de pH  y CO2 a través de nRF24L01
-    myRF24.write(&pH, sizeof(pH));
-    myRF24.write(&CO2, sizeof(CO2));
-
-    // Mostramos el valor de pH en el monitor serie
-    Serial.print("pH: ");
-    Serial.println(pH, 2);
-    // Mostramos el valor de CO2 en el monitor serie
-    //Serial.print("CO2: ");
-    //Serial.println(CO2, 2);
-
-    delay(1000);
-    }
-
-![CO2 TTUTLE PORGRAMACIÓN 2](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f765d8a6-421a-48bd-a082-430920285b29)
 
     // INCLUIMOS LAS LIBRERÍAS
     #include <MHZ19.h>          // Sensor CO2                                     
