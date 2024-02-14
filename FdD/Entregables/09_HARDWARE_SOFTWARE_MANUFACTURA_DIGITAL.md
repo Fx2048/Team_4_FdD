@@ -69,4 +69,4 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![RECEPCIÓN TITLE CODE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/2f3230ca-364c-4ac3-a6f2-7f9266533c83)
 
 
-[https://github.com/Fx2048/Team_4_FdD/blob/main/Software/codigo_recepcion]()
+[CÓDIGO DE DISPOSITIVO DE RECEPCIÓN](https://github.com/Fx2048/Team_4_FdD/blob/main/Software/codigo_recepcion)
