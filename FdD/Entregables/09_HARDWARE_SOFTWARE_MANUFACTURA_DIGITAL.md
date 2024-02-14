@@ -11,7 +11,9 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/49598391-a8be-4c26-bd8c-4c455c975427)
 
-[IMAGEN DE FLUJO CENTEAL]
+
+![Blank diagram (1)](https://github.com/Fx2048/Team_4_FdD/assets/131219987/196f62e1-62df-4894-bc5f-950fba23f135)
+
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/88aff30e-a657-4409-82dc-dff470d58abf)
 
