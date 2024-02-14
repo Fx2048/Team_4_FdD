@@ -38,14 +38,18 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![protoinal_title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/7f8a8efe-7a2e-4f45-b25e-39c1977b3dca)
 
 
+
+
 ![procedimintro](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b426f154-8f37-49f0-ac67-07f515cd8d49)
 
+
+![PROCESO TAPAS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6f703fce-f67f-4012-a93c-5d50dcb699f9)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e6390524-de7d-4a2c-8443-5c9539669b6b)
 
 
-
+[SENSOR PH]
 
     #include <SPI.h>      // Para la conexión de dispositivos
     #include <nRF24L01.h> // Para dar uso soporte al módulo transceptor 
