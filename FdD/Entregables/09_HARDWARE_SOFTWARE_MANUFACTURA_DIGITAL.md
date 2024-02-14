@@ -22,8 +22,16 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
 
 
+![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f167f621-be88-4ae8-8ac9-097168a0cc11)
+
+
 ![circuito jejejej](https://github.com/Fx2048/Team_4_FdD/assets/131219987/278d9fd8-791d-43cd-9468-8b019ef8aed4)
 
+
+![recept title](https://github.com/Fx2048/Team_4_FdD/assets/131219987/8ef1a3c6-f2d4-4a52-92e8-c69775e265ac)
+
+
+!recep](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c6d57436-92ac-46ec-8974-da20cb42f37c)
 
 
 ![TITLE DESARROLLO PROTO](https://github.com/Fx2048/Team_4_FdD/assets/131219987/459513f2-7fa7-4c5d-8a46-573f9f69b0ac)
