@@ -15,6 +15,7 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/88aff30e-a657-4409-82dc-dff470d58abf)
 
+![sensores_sensores md](https://github.com/Fx2048/Team_4_FdD/assets/131219987/662e35c8-3542-4f85-b89a-a249ef6217c7)
 
 
 ![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
