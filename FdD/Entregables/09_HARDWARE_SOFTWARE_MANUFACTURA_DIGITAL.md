@@ -1,6 +1,7 @@
+![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
+
+
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/1c361b20-874d-4d26-b355-46d7d8639e7b)
-
-
 
 ![FLUJO TITLE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/28a1f97a-6aa1-4b39-88c2-abf4804b01e7)
 
@@ -17,9 +18,6 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
 
 ![IMAGEN DE FLUJO SENSORES](https://github.com/Fx2048/Team_4_FdD/assets/131219987/fbc00875-c5ea-41aa-b4fa-cb677e3c4066)![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b41beda7-da39-47b0-9c4c-788a6bb0f6d3)
-
-
-![TITLE CIRCUITS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/0abbabdd-5bd8-49eb-81ed-425ae01978a9)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f167f621-be88-4ae8-8ac9-097168a0cc11)
