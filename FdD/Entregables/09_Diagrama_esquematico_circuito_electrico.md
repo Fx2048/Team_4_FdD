@@ -49,7 +49,8 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e6390524-de7d-4a2c-8443-5c9539669b6b)
 
 
-[SENSOR PH]
+![PROGRAMACIÓN 1](https://github.com/Fx2048/Team_4_FdD/assets/131219987/c4ac2470-d4c7-4191-a7da-9014664b7512)
+
 
     #include <SPI.h>      // Para la conexión de dispositivos
     #include <nRF24L01.h> // Para dar uso soporte al módulo transceptor 
@@ -112,3 +113,5 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 
     delay(1000);
     }
+
+![CO2 TTUTLE PORGRAMACIÓN 2](https://github.com/Fx2048/Team_4_FdD/assets/131219987/f765d8a6-421a-48bd-a082-430920285b29)
