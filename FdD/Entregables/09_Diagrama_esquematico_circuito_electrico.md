@@ -44,7 +44,9 @@ A continuación mostraremos el diagrama de flujo donde se encuentran al margen l
 ![procedimintro](https://github.com/Fx2048/Team_4_FdD/assets/131219987/b426f154-8f37-49f0-ac67-07f515cd8d49)
 
 
-![PROCESO TAPAS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6f703fce-f67f-4012-a93c-5d50dcb699f9)
+![PROCESO ETAPAS](https://github.com/Fx2048/Team_4_FdD/assets/131219987/6f703fce-f67f-4012-a93c-5d50dcb699f9)
+
+![PROTOFINAL IMAGE](https://github.com/Fx2048/Team_4_FdD/assets/131219987/80b775ad-85d1-4193-99ad-884b7767ceb6)
 
 
 ![image](https://github.com/Fx2048/Team_4_FdD/assets/131219987/e6390524-de7d-4a2c-8443-5c9539669b6b)
